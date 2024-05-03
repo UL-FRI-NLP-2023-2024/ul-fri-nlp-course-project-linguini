@@ -78,6 +78,11 @@ Run command:
 git clone https://github.com/UL-FRI-NLP-2023-2024/ul-fri-nlp-course-project-linguini.git
 ```
 #### Step 5: Creating SLURM job script
+Create new folder for logs:
+```
+mkdir logs
+```
+
 Create a script to run the project using SLURM.
 ```
 nano test_run.sh
@@ -86,8 +91,8 @@ And copy the following into the file (or just use the script in our repository).
 ```
 #!/bin/sh
 #SBATCH --job-name=lora
-#SBATCH --output=lora.log
-#SBATCH --error=loraerr.err
+#SBATCH --output=logs/lora.log
+#SBATCH --error=logs/loraerr.err
 #SBATCH --time=3-00:00:00
 #SBATCH --nodes=1
 #SBATCH --gpus=1
