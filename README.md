@@ -29,9 +29,9 @@ From: nvidia/cuda:12.4.1-devel-ubuntu22.04
     pip3 install --upgrade pip
 
 ```
-Finally we build the container image with command:
+Finally we build the container image with command from the 'containers' folder:
 ```
-singularity build ./containers/base_build.sif base_build.def
+singularity build base_build.sif base_build.def
 ```
 #### Step 3: Second and Third layers of container installation
 Similarly, copy or create files "intermediate.def" which should look like this:
