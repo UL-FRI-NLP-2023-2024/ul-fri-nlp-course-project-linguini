@@ -1,0 +1,1900 @@
+Paragraph:
+Delta Ren-Meuse, najpomembnejša naravna regija Nizozemske, se začne blizu Millingen aan de Rijn, blizu nizozemsko-nemške meje z delitvijo Rena na Waal in Nederrijn. Ker Ren prispeva večino vode, se pogosto uporablja krajši izraz delta Rena. Vendar se to ime uporablja tudi za delto reke, kjer se Ren izliva v Bodensko jezero, zato je jasneje imenovati večjo delto Ren-Meuse ali celo delto Ren-Meuse-Šelda, saj se Šelda konča v isti delti.
+
+Beam Outputs:
+1: Kdaj se začne delta Ren-Meuse?
+2: Kdaj se imenuje delta Ren-Meuse?
+3: V katerem mestu se začne delta Ren-Meuse?
+4: V katerem delu je Ren-Meuse?
+5: Kdaj se začne delta Ren-Meuse-Šelda?
+
+Sampling Outputs:
+1: Katera regija se začne v millingen aan de rijn?
+2: Kako se jedel jedel v Benu v Nizozemskem?
+3: Kdaj se začne delta Ren-Meuse?
+4: V katero regije je Ren-Meuse?
+5: Kaj je najpomembnejša naravna regija v Nizozemske?
+
+--------------------------------------------------
+
+Paragraph:
+Koncentrirani O2 bo omogočil hitro in energetsko nadaljevanje zgorevanja. Jeklene cevi in posode za skladiščenje, ki se uporabljajo za shranjevanje in prenos plinastega in tekočega kisika, bodo delovale kot gorivo; zato je za načrtovanje in izdelavo sistemov O2 potrebno posebno usposabljanje, da se zagotovi čim manjše zmanjšanje virov vžiga. Požar, ki je ubil posadko Apolla 1, se je tako hitro razširil, ker je bila kapsula pod pritiskom s čistim O 2, vendar pri nekoliko višjem tlaku kot atmosferskem tlaku namesto 1⁄3 normalnega pritiska, ki bi se uporabljal v misiji.
+
+Beam Outputs:
+1: Kdaj je bila kapsula Apolla 1 ubita?
+2: Kdaj se je požar ubil Apolla 1?
+3: Kdaj se je požar ubil Apolla?
+4: Kdaj je Apolla 1 ubil?
+5: Kdaj se je požar ubil?
+
+Sampling Outputs:
+1: Kaj bo omogočil hitro nadaljevanje zgorevanja?
+2: V katerem letu se je bil požar Apolla ubil?
+3: Kaj bi bilo potrebno za načelnico o2?
+4: Koliko o2 bo bilo potrebno za zagotovitev čim manjše zmanjšanje virov vžiga?
+5: Kdaj je bila nasažena kapsula Apolla?
+
+--------------------------------------------------
+
+Paragraph:
+Cestida („živali iz pasu“) so planktonske živali v obliki trakov, usta in aboralni organi pa so poravnani na sredini nasprotnih robov traku. Obstaja par glavnik-vrstic vzdolž vsakega aboralnega roba, in šotor, ki izhaja iz utor vzdolž ustnega roba, ki tok nazaj čez večino krila podobne telesne površine. Cestids lahko plavajo tako, da valovijo svoje telo, kot tudi s pretepanjem svojih glavnikov. Obstajata dve znani vrsti s svetovno porazdelitvijo v topli in toplo zmerni vodi: Cestum veneris („Venusov pas“) je med največjimi ktenoforami – do 1,5 metra dolg in se lahko valovi počasi ali zelo hitro. Velamen parallelum, ki je običajno manj kot 20 centimetrov (0,66 ft), se lahko premika veliko hitreje v tem, kar je bilo opisano kot „darting motion“.
+
+Beam Outputs:
+1: Katera vrsta žival je v obliki trakov?
+2: Katera vrsta se lahko premika s pretepanjem svojih glavnikov?
+3: Katera vrsta se lahko premika zelo hitro?
+4: Katera vrsta se lahko premika s pretepanjem glavnika?
+5: Kdaj se imenuje cestum veneris?
+
+Sampling Outputs:
+1: Kaj se je poravnano na center nasprotnih robov traku v topli in topli zmerni vodi?
+2: Kakšna je njena vrsta?
+3: Kaj je zelo hitro, da se ustvari celotna oblika traka?
+4: Kje se lahko žival poganja s pretepanjem svojih glavnikov?
+5: Kaj so številne vrste v oblikovanju dolžine v traku?
+
+--------------------------------------------------
+
+Paragraph:
+Invazija ZSSR na Afganistan je bila le en znak negotovosti v regiji, ki so jo zaznamovali tudi večja prodaja orožja, tehnologija in popolna vojaška prisotnost. Saudova Arabija in Iran sta postala vse bolj odvisna od ameriških varnostnih zagotovil za obvladovanje zunanjih in notranjih groženj, vključno s povečano vojaško konkurenco med njima zaradi povečanih prihodkov od nafte. Obe državi sta tekmovali za prevlado v Perzijskem zalivu in uporabili povečane prihodke za financiranje razširjenih milic. Do leta 1979 so savdski nakupi orožja iz ZDA presegli petkratni izraelski. Drug motiv za obsežen nakup orožja iz ZDA s strani Saudove Arabije je bil neuspeh Šaha januarja 1979, da bi ohranil nadzor nad Iranom, nearabskim, a večinoma šiitskim muslimanskim narodom, ki je po iranski revoluciji leta 1979 padel na teokratsko islamistično vlado pod Ajatolo Ruhollah Khomeini. Savdska Arabija pa je arabski, večinoma sunitski muslimanski narod, ki ga vodi skoraj absolutistična monarhija. Po iranski revoluciji so bili Savdski Arabci prisiljeni, da se spopadejo z možnostjo notranje destabilizacije prek radikalizma islamizma, realnosti, ki bi se hitro razkrila v zasegu velike mošeje v Meki s strani vahhabijskih skrajnežev novembra 1979 in šiitskega upora v regiji Al Haasa v Savdski Arabiji, bogati z nafto, decembra istega leta. Novembra 2010 je Wikileaks objavil zaupne diplomatske kable, ki so se nanašali na Združene države Amerike in njene zaveznike, kar je razkrilo, da je pokojni savdski kralj Abdullah Združene države pozval, naj napadejo Iran, da bi uničili njegov potencialni program jedrskega orožja, in opisal Iran kot „kačo, katere glavo bi bilo treba odrezati brez odlašanja“.
+
+Beam Outputs:
+1: Kdo je pozval, da bi ohranil nadzor nad Iranom po iranski revoluciji leta 1979?
+2: Kdo je pozval, da bi ohranil nadzor nad Iranom?
+3: Kdo je pozval, da bi ohranil nadzor nad Iranom po iranski revoluciji?
+4: Kdo je pozval, da bi ohranil nadzor nad Iranom, na katerem mestu?
+5: Kdo je pozval, da bi ohranil Iran?
+
+Sampling Outputs:
+1: Kdaj so bili savdski arabci nagnali Iran?
+2: Kdo je bil predsednik ZDA?
+3: Kdo je govoril o tem, kakšen je bil začetni motiv, da se bi zgodila po iranski revoluciji leta 1979?
+4: Kdo se je pozval, da bi ohranil nadzor nad Iranom?
+5: Kaj je bila odločnost, da se je nabija v zgodovini?
+
+--------------------------------------------------
+
+Paragraph:
+Potekale so razprave o tem, ali mora biti civilna neposlušnost nujno nenasilna. Črni pravni slovar vključuje nenasilje v definiciji civilne neposlušnosti. Članek o enciklopediji Christian Baya navaja, da civilna neposlušnost zahteva „previdno izbrana in legitimna sredstva“, vendar meni, da jim ni treba biti nenasilen. Trdilo se je, da je upor veliko bolj uničujoč, čeprav sta civilna neposlušnost in civilni upor upravičena s pozivom k ustavnim napakam; zato morajo biti napake, ki upravičujejo upor, veliko resnejše od tistih, ki upravičujejo neposlušnost, in če ni mogoče upravičiti civilnega upora, potem ni mogoče upravičiti uporabe sile in nasilja s strani civilnih kršiteljev ter zavrnitve prijetja. Civilno neposlušne osebe, ki se vzdržijo nasilja, naj bi tudi pomagale ohraniti strpnost družbe do civilne neposlušnosti.
+
+Beam Outputs:
+1: Kateri pravni slovar vključuje napake, ki upravičujejo upor?
+2: Kateri pravni slovar vključuje napake, ki upravičujejo upore?
+3: Kateri pravni slovar vključuje nasilje v civilni neposlušnosti?
+4: Kateri pravni slovar vključuje napake, ki upravičujejo upor, vendar ni mogoče?
+5: Kateri pravni slovar vključuje nasilje?
+
+Sampling Outputs:
+1: Kaj je bolj uničujoč od civilne neposlušnosti?
+2: Kakšna se je ključna prava pri vlogi civilnih kršiteljev, ki niso dolžne previdno izbrane in legitimne sredstva?
+3: Kaj je navedel Christian Bay, da je potrebna za civilno neposlušnosti?
+4: Kdaj mora nenavadno izbrano in legitimno sredstva za upravičevanje upora?
+5: Kaj je človeški moral, da mora upravičiti upor?
+
+--------------------------------------------------
+
+Paragraph:
+Premier Viktorije je vodja politične stranke ali koalicije z največ sedeži v zakonodajni skupščini. Premier je javni obraz vlade in z kabinetom določa zakonodajni in politični program. Kabinet sestavljajo predstavniki, izvoljeni v kateri koli dom parlamenta. Odgovoren je za upravljanje področij vlade, ki niso izključno Commonwealth, z avstralsko ustavo, kot so izobraževanje, zdravstvo in kazenski pregon. Trenutni premier Viktorije je Daniel Andrews.
+
+Beam Outputs:
+1: Katera stranka ima največ sedeži v zakonodajni skupščini?
+2: Katera stranka ima največ sedežev v zakonodajni skupščini?
+3: Kdo je trenutni premier Virginije?
+4: Kdo je trenutni premier Viktorije?
+5: Kdo je trenutni premier vlade?
+
+Sampling Outputs:
+1: Katera stranka se je odločila o zakonodajski programu, ki ni izključen z avstralsko ustavo?
+2: Kaj je vodja politikske stranke?
+3: Kateri vladar je največ sedeži v zakonodajni skupščini?
+4: Kako se imenuje oseba, ki je vodja vlade ali koalicije, z največ sedeže v zakonodajni skupščini?
+5: Katera stranka ima največ sedeži v zakonodajni skupščini?
+
+--------------------------------------------------
+
+Paragraph:
+V bližini, v Ogród Saski (Saxon Garden), je poletno gledališče delovalo od leta 1870 do 1939, v medvojnem obdobju pa je gledališki kompleks vključeval tudi Momus, prvi literarni kabaret Varšave in glasbeno gledališče Leona Schillerja Melodram. Wojciech Bogusławski gledališče (1922–26) je bil najboljši primer„poljskega monumentalnega gledališča“. Od sredine tridesetih let prejšnjega stoletja je bil v stavbi Velikega gledališča Upati Inštitut dramskih umetnosti – prva državna akademija dramske umetnosti, z igralskim oddelkom in oddelkom za odrsko režijo.
+
+Beam Outputs:
+1: Kdo je bil najboljši primer poljskega monumentalnega gledališča?
+2: Kdo je bil najboljši primer poljskega monumentalnega gledališče?
+3: Kdo je bil najboljši primer poljskih monumentalnih gledališči?
+4: Kdo je bil najboljši primer poljskih monumentalnih gledališč?
+5: Kdo je bil najboljši primer poletno gledališče?
+
+Sampling Outputs:
+1: V katerem letu je bilo oblikovno delovanje poletno gledališče?
+2: Kako se je začelo poletno gledališče v Velikem gledališču, ki je bila omenjena v obliki?
+3: Kdo je bila najboljša vrsta predsednika poletno gledališče?
+4: Kdaj je bilo prekinjeno poletno gledališče?
+5: Katero gledališče je bilo pogosto uvrnjeno v polno gledališče?
+
+--------------------------------------------------
+
+Paragraph:
+Črna smrt naj bi izvirala iz sušnih ravnic Srednje Azije, kjer je nato potovala po svileni cesti in dosegla Krim leta 1343. Od tam so ga najverjetneje nosile orientalske podgane, ki so živele na črnih podganah, ki so bile redne potnike na trgovskih ladjah. Ocenjuje se, da je črna smrt, ki se širi po vsem Sredozemlju in Evropi, ubila od 30 do 60 % celotnega evropskega prebivalstva. Skupno je kuga zmanjšala svetovno prebivalstvo s približno 450 milijonov na 350–375 milijonov v 14. stoletju. Svetovno prebivalstvo kot celota se ni opomoglo do ravni pred kugo do 17. stoletja. Kuga se je v Evropi občasno ponavljala do 19. stoletja.
+
+Beam Outputs:
+1: Koliko svetovnega prebivalstva je ubila črna smrt?
+2: Koliko svetovnega prebivalstva je ubila kuga?
+3: Koliko svetovnega prebivalstva je bila črna smrt?
+4: Koliko svetovnega prebivalstva je ubila kuga v 14. stoletju?
+5: Koliko svetovnega prebivalstva je bila črna smrt v 14. stoletju?
+
+Sampling Outputs:
+1: Koliko evropčanov se je po tem obdobju imenovala črna smrt?
+2: Koliko ljudi je ustvarilo kuge v 19. stoletju?
+3: Koliko procenta 欧洲ske populacij je bila črna smrt?
+4: Kakšne ravnice so ubili državno prebivalstvo za začetek črne smrti?
+5: Katera vojna je bila pred kugo?
+
+--------------------------------------------------
+
+Paragraph:
+Obstaja neskončno veliko praštevil, kot je pokazal Evklid okoli leta 300 pr. n. št. Ni znane preproste formule, ki ločuje praštevila od sestavljenih števil. Vendar pa je mogoče modelirati porazdelitev praštevil, to je statistično obnašanje praštevil v velikih. Prvi rezultat v tej smeri je praštevilni izrek, dokazan konec 19. stoletja, ki pravi, da je verjetnost, da je dano, naključno izbrano število n prime, obratno sorazmerna z njegovim številom števk ali logaritmom n.
+
+Beam Outputs:
+1: V katerem letu je evklid pokazal, da je naključno izbrano število n prime?
+2: V katerem letu je evklid pokazal, da je naključno izbrano n prime?
+3: V katerem letu je evklid pokazal, da je naključno izbrano število?
+4: V katerem letu je evklid pokazal, da je število n prime sorazmerno z njegovim logaritmom
+5: V katerem letu je evklid pokazal, da je število n prime sorazmerno z logaritmom?
+
+Sampling Outputs:
+1: Kaj je bilo znano za statistično obnašanje?
+2: Kdaj je bilo na primeri število n prime?
+3: Kaj je bila preprosta formula, ki je bila ustvarjena na začetku 19. stoletja?
+4: Kaj je bil v začetni obliki statističnega obnašanja v večih?
+5: Katera je bila primerna formule števil?
+
+--------------------------------------------------
+
+Paragraph:
+Montpellier je bil med najpomembnejšimi od 66 „villes de sûreté“, ki jih je edikt iz leta 1598 podelil Huguenotom. Politične institucije mesta in univerza so bili vsi predani Huguenots. Napetost s Parizom je leta 1622 privedla do obleganja kraljeve vojske. Mirovni pogoji so zahtevali uničenje mestnih utrdb. Zgrajena je bila kraljeva citadela, univerza in konzulat pa je prevzela katoliška stranka. Še pred Alèsovim ediktom (1629) je bilo protestantsko vladanje mrtvo in ville de sûreté ni bilo več.
+
+Beam Outputs:
+1: Katera stranka je prevzela katoliško stranko?
+2: Katera stranka je bila mrtva in ville de sûreté?
+3: Katera stranka je prevzela katoliško stranko pred Montpellierom?
+4: Katera stranka je prevzela katoliško stranko pred Parizem?
+5: Katera stranka je prevzela katoliško stranke?
+
+Sampling Outputs:
+1: Koliko ville de sûreté se je v Parizu uvrdilo leta 1620?
+2: Katera stranka ni bila prevzeta od pariza?
+3: Kdaj je Montpellier imel svoje nižje ville de sûreté?
+4: Kdaj je bilo ime Montpellier?
+5: Kdo je bil udeležil velikih ustanov z večina Montpellierjev?
+
+--------------------------------------------------
+
+Paragraph:
+Beseda lekarna izhaja iz njene korenske besede pharma, ki je bila izraz, ki se uporablja od 15.-17. stoletja. Vendar pa izvirne grške korenine iz farmakosa pomenijo čarovništvo ali celo strup. Lekarna je poleg odgovornosti v lekarni ponujala tudi splošne zdravstvene nasvete in vrsto storitev, ki jih zdaj opravljajo le drugi specialisti, kot sta kirurgija in babica. Lekarna (kot je bila omenjena) je pogosto delovala prek trgovine na drobno, ki je poleg sestavin za zdravila prodajala tobak in patentna zdravila. Pogosto je bil kraj, ki je to storil, imenovan apotekar in več jezikov ima to kot prevladujoči izraz, čeprav so njihove prakse bolj podobne sodobni lekarni, v angleščini bi izraz apotekar danes veljal za zastarelega ali le primernega, če bi v veliki meri ponudili zeliščna zdravila. Lekarne so uporabljale tudi številna druga zelišča, ki niso navedena. Grška beseda pharmakeia (grščina: φαρμακεία) izhaja iz pharmakon (φάρμακον), kar pomeni „zdravilo“, „zdravilo“ (ali „strup“).[n 1]
+
+Beam Outputs:
+1: Katera beseda je bila uporabljena v angleščini kot prevladujoči izraz?
+2: Katera beseda je bila uporabljena v angleščini kot prevladujoči?
+3: Katera beseda je bila omenjena v angleščini?
+4: Katera beseda je bila uporabljena v angleščini kot prevladujoče?
+5: Kaj je apotekar?
+
+Sampling Outputs:
+1: Kakšen je bil številno drugih izraz za lekarni?
+2: Kje so vlagatelji grške besede pharma?
+3: Kaj so druge uporabljajo apotekar?
+4: Kje se je uporabljala grška beseda pharma?
+5: Katero zdravilo je bilo uporabljalo lekarni v angleščini?
+
+--------------------------------------------------
+
+Paragraph:
+Pred približno 2,5 milijona let (ki se je končalo pred 11.600 leti) je bilo geološko obdobje ledene dobe. Od približno 600.000 let nazaj je prišlo do šestih večjih ledenih vekov, v katerih se je gladina morja znižala za 120 m, večina kontinentalnih robov pa je postala izpostavljena. V zgodnjem pleistocenu je Ren sledil smeri proti severozahodu skozi sedanje Severno morje. Med tako imenovanim anglijanskim poledenjevanjem (~450.000 yr BP, morski kisik izotop faze 12) je severni del sedanjega Severnega morja blokiral led in razvilo se je veliko jezero, ki je preplavilo Rokavski preliv. To je povzročilo preusmeritev poti Rena skozi Rokavski preliv. Od takrat se je v ledeniških časih rečno ustje nahajalo na morju Brest, Francija in reke, tako kot Temza in Sena, so postale pritoki Rena. V času medledenice, ko se je gladina morja dvignila na približno sedanjo raven, je Ren zgradil delte, kar je zdaj Nizozemska.
+
+Beam Outputs:
+1: Koliko let je bilo ledeno obdobje?
+2: V katerem letu je Ren zgradil delte?
+3: V katerem letu je Ren zgradil delte, ki se je nahajala na severnem Severnem morju?
+4: V katerem letu je Ren blokiral led?
+5: V katerem letu je Ren zgradil delte, ki se je nahajala na Brestu in Franciji?
+
+Sampling Outputs:
+1: Kakšna je bila zgodovina v medledeniških vekah?
+2: Kako se je zgodilo ledeno obdobje?
+3: Koliko let je bil trenut, ko se je imenovala ledena doba?
+4: Kakšna je bila meja ledenega oceana?
+5: Koliko let je bilo v zgodnjem pleistoceno, ko je prišlo v ledenih časih, ki je bil izveden v primeru ledenih vekov?
+
+--------------------------------------------------
+
+Paragraph:
+V laboratoriju stratigrafi analizirajo vzorce stratigrafskih odsekov, ki jih je mogoče vrniti s polja, kot so vzorci iz vrtalnih jeder. Stratigrafi analizirajo tudi podatke iz geofizikalnih raziskav, ki prikazujejo lokacije stratigrafskih enot v podpovršini. Geofizikalni podatki in dnevniki vrtin se lahko kombinirajo za boljši pogled na podpovršino, stratigrafi pa za to pogosto uporabljajo računalniške programe v treh dimenzijah. Stratigrafi lahko te podatke nato uporabijo za rekonstrukcijo starodavnih procesov, ki se pojavljajo na površju Zemlje, interpretacijo preteklih okolij in iskanje območij za pridobivanje vode, premoga in ogljikovodikov.
+
+Beam Outputs:
+1: Kateri podatki je mogoče vrniti s polja?
+2: Kateri podatki so mogoče vrniti s polja?
+3: Kateri podatki je mogoče vrniti s polja v laboratoriju?
+4: Kateri podatki je mogoče vrniti s polja v laboratoriju, ki se lahko kombinirajo za boljši pogled na površino?
+5: Kateri podatki je mogoče vrniti s polja v laboratoriju, ki se lahko kombinira za boljši pogled na površino?
+
+Sampling Outputs:
+1: Kaj je mogoče vrniti z drugimi metodo za rekonstrukcijo starejših procesov?
+2: Kaj lahko uporablja urednik zemlji s polja, ki prikazuje locatie stratigrafskih odsekov?
+3: Kaj pogosto uporablja stratigrafi?
+4: Katera vrsta uporabe uporabi uporabnik na površini?
+5: Kdaj se uporabljajo večje velikosti zgodovinske enot?
+
+--------------------------------------------------
+
+Paragraph:
+Paketno preklapljanje je v nasprotju z drugo glavno mrežno paradigmo, preklapljanjem tokokrogov, metodo, ki vnaprej dodeli namensko pasovno širino omrežja posebej za vsako komunikacijsko sejo, pri čemer ima vsaka konstantno bitno hitrost in zakasnitev med vozlišči. V primeru storitev, ki jih je treba plačati, kot so storitve mobilne komunikacije, je za zamenjavo tokokroga značilna pristojbina na enoto časa povezave, tudi če se podatki ne prenašajo, medtem ko je za paketno komutacijo lahko značilno plačilo na enoto prenesenih informacij, kot so znaki, paketi ali sporočila.
+
+Beam Outputs:
+1: Kaj je paketno preklapljanje v nasprotju z drugo glavno mrežno paradigmo?
+2: Kaj je paketno preklapljanje v nasprotju z drugo mrežno paradigmo?
+3: Kaj je paketno preklapljanje v nasprotju z drugo главno mrežno paradigmo?
+4: Kaj je paketno preklapljanje?
+5: Kaj je v nasprotju z drugo glavno mrežno paradigmo?
+
+Sampling Outputs:
+1: Kje je preklapljanje tokokrogov na enoto časa?
+2: Kaj je paketno preklapljanje v nasprotju z drugo drugo mrežno paradigmo?
+3: Kaj se imenuje paketno preklapljanje?
+4: V primeru storitev, ki jih ni potrebno plačati, se preklaplja s tokokrogi?
+5: Katera uporaba je v nasprotju z drugo osrednje mrežno paradigmo?
+
+--------------------------------------------------
+
+Paragraph:
+Liberalizacija trgovine lahko gospodarsko neenakost preusmeri z svetovnega na domačo raven. Ko bogate države trgujejo z revnimi državami, lahko nizkokvalificirani delavci v bogatih državah zaradi konkurence opazijo nižje plače, medtem ko nizkokvalificirani delavci v revnih državah morda vidijo višje plače. Trgovinski ekonomist Paul Krugman ocenjuje, da je liberalizacija trgovine imela merljiv učinek na naraščajočo neenakost v Združenih državah Amerike. Ta trend pripisuje povečanju trgovine z revnimi državami in razdrobljenosti proizvodnih sredstev, zaradi česar so nizkokvalificirana delovna mesta postala bolj dostopna. Vendar priznava, da je vpliv trgovine na neenakost v Ameriki majhen v primerjavi z drugimi vzroki, kot so tehnološke inovacije, s čimer se strinjajo tudi drugi strokovnjaki. Empirična ekonomista Max Roser in Jezus Crespo-Cuaresma najdeta podporo v podatkih, da mednarodna trgovina povečuje dohodkovno neenakost. Empirično potrjujejo napovedi Stolper-Samuelsonovega izreka o učinkih mednarodne trgovine na porazdelitev dohodkov. Lawrence Katz ocenjuje, da je trgovina predstavljala le 5–15 % vse večje dohodkovne neenakosti. Robert Lawrence trdi, da so tehnološke inovacije in avtomatizacija pomenile, da je nizkokvalificirana delovna mesta nadomestila strojna dela v bogatejših državah in da bogatejše države nimajo več velikega števila nizkokvalificiranih proizvodnih delavcev, na katere bi lahko vplivala konkurenca iz revnih držav.
+
+Beam Outputs:
+1: Kakšen je vpliv mednarodne trgovine na naraščajočo neenakost v Združenih državah?
+2: Kakšen je vpliv mednarodne trgovine na naraščajočo neenakost?
+3: Kakšen je vpliv mednarodne trgovine na neenakost v Združenih državah?
+4: Kakšen je bil vpliv mednarodne trgovine na naraščajočo neenakost?
+5: Kakšen je bil vpliv mednarodne trgovine na naraščajočo neenakost v ZDA?
+
+Sampling Outputs:
+1: Kaj se imenuje, ko se je trgovina naredi v številu neenakosti, ki se ne bi vgradila?
+2: Kaj bi pomenil tudi napovedi stolper samuelsona?
+3: Kaj je odločilo, da je liberalizacija trgovine potrebna?
+4: Kateri ekonomist ocenjevuje, da mednarodna trgovina je vključila na naraščajočo neenakost, ko so reške države tretje?
+5: Katera ekonomista se odloči, da je mednarodna trgovina imela merljiv učinek na naraščajočo neenakost v Združenih državah?
+
+--------------------------------------------------
+
+Paragraph:
+Vojna v Severni Ameriki se je uradno končala s podpisom Pariške pogodbe 10. februarja 1763, vojna v evropskem gledališču sedemletne vojne pa je bila dogovorjena s Hubertusburgsko pogodbo 15. februarja 1763. Britanci so Franciji ponudili izbiro, da se preda bodisi celinski severnoameriški posesti vzhodno od Mississippija bodisi Karibskim otokom Guadeloupe in Martinik, ki so jih zasedli Britanci. Francija se je odločila odstopiti od nekdanjega, vendar se je lahko pogajala o ohranitvi svetega Pierra in Miquelona, dveh majhnih otokov v zalivu svetega Lovrenca, skupaj z ribolovnimi pravicami na tem območju. Menili so, da je gospodarska vrednost sladkornega trsa Karibskih otokov večja in lažja za obrambo kot krzno s celine. Sodobni francoski filozof Voltaire je Kanado označil za nič več kot nekaj hektarjev snega. Britanci so z veseljem zavzeli Novo Francijo, saj obramba njihovih severnoameriških kolonij ne bi bila več težava in ker so že imeli dovolj mest za pridobivanje sladkorja. Španija, ki je s Florido trgovala v Veliko Britanijo, da bi ponovno pridobila Kubo, je dobila tudi Louisiano, vključno z New Orleansom, od Francije kot nadomestilo za njene izgube. Velika Britanija in Španija sta se dogovorili tudi, da bo plovba po reki Mississippi odprta za plovila vseh narodov.
+
+Beam Outputs:
+1: Kdaj se je začela vojna v severni ameriški koloniji?
+2: Kdaj se je začela vojna v Severni Ameriki?
+3: Kdaj je bila vojna v severni ameriški koloniji?
+4: Kdaj je bila vojna v Severni Ameriki končala?
+5: Kdaj je bila vojna v severni ameriški koloniji dogovorjena?
+
+Sampling Outputs:
+1: Kaj je bilo dovolj za pridobivanje krzen s celine?
+2: Kdaj je bila vojna v severni ameriškem filmu v evropskem gledališču?
+3: Katera država je bila odločена, da je končala vojna v severni ameriškem gledališču sedmletnega?
+4: Kaj je bila v prvo letu, ko se je končala vojna v Severni Ameriki?
+5: Katera vojna je bila zagotovila za Hrvate, da ne bi imela dovolj mest za pridočevanje kokaina?
+
+--------------------------------------------------
+
+Paragraph:
+Dinastija Yuan velja za naslednika mongolskega cesarstva in cesarsko kitajsko dinastijo. Bil je kanat, ki so mu vladali nasledniki Möngke Kana po delitvi mongolskega cesarstva. V uradnih kitajskih zgodovinah je dinastija Yuan nosila mandat nebes po dinastiji Song in pred dinastijo Ming. Dinastijo je ustanovil Kublaj Khan, vendar je svojega dedka Džingiskana uvrstil na cesarske zapise kot uradni ustanovitelj dinastije Taizu.[b] Ob razglasitvi dinastičnega imena je Kublaj oznanil ime nove dinastije kot Veliki Yuan in zahteval nasledstvo nekdanjih kitajskih dinastij od treh suverenih in petih cesarjev v dinastijo Tang.
+
+Beam Outputs:
+1: Kdo je ustanovil dinastijo Yuan?
+2: Katera dinastija je ustanovila Kublaj Khan?
+3: Kdo je ustanovil dinastijoyuan?
+4: Katera dinastija je bila uradni ustanovitelj?
+5: V katerem letu je Kublaj Khan ustanovil dinastijo?
+
+Sampling Outputs:
+1: Koliko cesarjev je bilo skupaj za veljavnost mongolskega cesarstva?
+2: Kdo je učastil vlado Möngke Kana?
+3: Kdaj se je ustanovila dinastija Yuan?
+4: Kdo je ustanovil Veliko Yuan?
+5: Kdo je ustanovil dinastijo Yuan?
+
+--------------------------------------------------
+
+Paragraph:
+V študiji je bilo ugotovljeno tudi, da sta bila v genomu Y. pestis povezana dva prej neznana, a povezana klade genoma Y. pestis, povezana s srednjeveškimi množičnimi grobovi. Za te klade (za katere se domneva, da so izumrli) je bilo ugotovljeno, da so predniki sodobnih izolatov sodobnih sevov Y. pestis Y. p. orientalis in Y. p. medievalis, kar kaže, da je kuga morda vstopila v Evropo v dveh valovih. Raziskave o kužni jami v Franciji in Angliji kažejo, da je prva različica vstopila v Evropo skozi pristanišče Marseille okoli novembra 1347 in se razširila po Franciji v naslednjih dveh letih, sčasoma pa je dosegla Anglijo spomladi 1349, kjer se je razširila po državi v treh epidemijah. Raziskave o ostankih kuge iz nizozemskega mesta Bergen op Zoom so pokazale, da genotip Y. pestis, odgovoren za pandemijo, ki se je od leta 1350 razširil po Nizozemskih državah, razlikuje od tistega v Veliki Britaniji in Franciji, kar pomeni, da Bergen op Zoom (in morda drugi deli južne Nizozemske) leta 1349 ni bil neposredno okužen iz Anglije ali Francije, kar kaže, da je bil drugi val kuge, ki se razlikuje od tistega v Veliki Britaniji in Franciji, morda odpeljan v nizke države z Norveške, Hanseatskih mest ali drugih lokacij.
+
+Beam Outputs:
+1: Kdaj je bila prva različica kuge vstopila v Evropo?
+2: V katerem letu je bila kuga vstopila v Evropo?
+3: Kdaj je bila kuga vstopila v Evropo?
+4: Kdaj je bila prva različica kuge vstopila v Italijo?
+5: V katerem letu je bila prva različica kuge?
+
+Sampling Outputs:
+1: V katerem letu je bila primera kuge iz nizozemskega mest?
+2: Kdaj je bila kuga prva razširljena?
+3: Kakšno mesto je bilo v prvih dveh letih od leta 1350, ko je bila kuga vstopila?
+4: Kakšno je bilo na primeru, da je y pestis vstopilo v evro?
+5: Kje je bilo uročene številne zemlje?
+
+--------------------------------------------------
+
+Paragraph:
+Za mnoge domorodne populacije je odprava francoske moči v Severni Ameriki pomenila izginotje močnega zaveznika in protiutež britanskemu širjenju, kar je privedlo do njihove končne odstranitve. Država Ohio je bila še posebej ranljiva za zakonito in nezakonito naseljevanje zaradi gradnje vojaških cest na tem območju s strani Braddocka in Forbesa. Čeprav je imel španski prevzem ozemlja Louisiana (ki je bil končan šele leta 1769) skromne posledice, je britanski prevzem španske Floride povzročil selitev plemen proti zahodu, ki niso želela poslovati z Britanci, in porast napetosti med Choctawom in Creekom, zgodovinskimi sovražniki, katerih delitve so Britanci včasih izkoriščali. Sprememba nadzora na Floridi je tudi spodbudila večino španskega katoliškega prebivalstva, da zapusti. Večina je šla na Kubo, vključno s celotnimi vladnimi zapisi iz svetega Avguština, čeprav so bili nekateri pokristjani Yamasee preseljeni na obalo Mehike.
+
+Beam Outputs:
+1: Kdaj je bila odprava francoske moči končna?
+2: Kdaj je bila odprava francoske moči končana?
+3: Kdaj je bila odprava francoske moči na Floridi končana?
+4: Kdaj je bila odprava francoske moči na Florido končana?
+5: Kdaj je bila odprava francoske moči na Floridi končna?
+
+Sampling Outputs:
+1: Kakšna je bila skromna končna odgovornost, da se Britanci na Havaju niso dolžili iti?
+2: Kateri obliki kolonije se je bila odprava francoske moči?
+3: Kdaj je bila preprava francoske moči končna?
+4: Zakaj je bilo učinkovito naseljevanje na Floridi?
+5: Kdo je imel skromno naseljevanje v Floridi?
+
+--------------------------------------------------
+
+Paragraph:
+Obstaja sum, da so številni znani razredi kompleksnosti neenaki, vendar to ni dokazano. Na primer P- NP NP PP ą PSPACE, vendar je možno, da je P = PSPACE. Če P ni enak NP, P tudi ni enak PSPACE. Ker je med P in PSPACE veliko znanih razredov kompleksnosti, kot so RP, BPP, PP, BQP, MA, PH, itd., je možno, da se vsi ti razredi kompleksnosti zrušijo v en razred. Dokaz, da je kateri koli od teh razredov neenak, bi bil velik preboj v teoriji kompleksnosti.
+
+Beam Outputs:
+1: Kdaj so številni znani razredi kompleksnosti neenak?
+2: Kaj se imenuje, ko je np neenak?
+3: Kaj se imenuje, ko je p neenak?
+4: Kaj se imenuje, ko je P neenak?
+5: Kdo je enak Pspace?
+
+Sampling Outputs:
+1: Kaj je enak pspace?
+2: Kdo je bil enak np-pspazio?
+3: Kaj je enak?
+4: Kateri drugi razredi kompleksnosti so enak?
+5: Kaj so številni znani razredi kompleksnosti neenaki?
+
+--------------------------------------------------
+
+Paragraph:
+Tako prirojena kot adaptivna imunost sta odvisna od sposobnosti imunskega sistema, da razlikuje med molekulami, ki niso same sebe. V imunologiji so samo molekule tiste sestavine telesa organizma, ki jih imunski sistem razlikuje od tujih snovi. Nasprotno pa so molekule, ki niso same, tiste, ki so priznane kot tuje molekule. En razred molekul, ki niso same sebe, se imenuje antigen (kratek za generatorje protiteles) in je opredeljen kot snovi, ki se vežejo na specifične imunske receptorje in izzovejo imunski odziv.
+
+Beam Outputs:
+1: Kaj se imenuje antigen v imunologiji?
+2: Katera molekula se imenuje antigen?
+3: Katera molekula se imenuje antigen, ki je prirozen kot adaptivna imunost?
+4: Kaj se imenuje antigen?
+5: Kaj je antigen?
+
+Sampling Outputs:
+1: Kakšen antigen priredi imunski odziv?
+2: Kaj je antigen v imunologiji?
+3: Katere molekule so priznane kot tuje molekule?
+4: Kaj je antigen v imunologiji?
+5: Kako je antigen uravnano kot snov, ki so vežejo na specifični imunski receptor?
+
+--------------------------------------------------
+
+Paragraph:
+Danes ima Varšava nekaj najboljših zdravstvenih ustanov na Poljskem in v vzhodni srednji Evropi. Mesto je dom otroškega Memorial Health Institute (CMHI), najvišje referenčne bolnišnice na vseh Poljskem, kot tudi aktivno raziskovalno in izobraževalno središče. Medtem ko je Maria Skłodowska-Curie Inštitut za onkologijo je ena največjih in najsodobnejših onkoloških institucij v Evropi. Klinični oddelek se nahaja v 10-nadstropni stavbi s 700 posteljami, 10 operacijskimi gledališči, enoto za intenzivno nego, več diagnostičnimi oddelki in ambulanto. Infrastruktura se je v zadnjih letih zelo razvila.
+
+Beam Outputs:
+1: Katera bolnišnica se nahaja v 10nadstropni stavbi?
+2: V katerem mestu je varšava?
+3: V katerem mestu se nahaja varšava?
+4: Kaj je varšavska bolnišnica?
+5: Kaj je varšava?
+
+Sampling Outputs:
+1: V katerem mestu se nahaja klinika in bolnišnica?
+2: V katerem mestu se nahaja največja in na prvi mesec v EU?
+3: Kdaj je varšava bila ena največja in najsodobnejšia oblika v Evropi?
+4: Katera država je v zadnjih letih najboljša?
+5: Kje so v zadnjem letih zelo razvile infrastrukturo?
+
+--------------------------------------------------
+
+Paragraph:
+Specialne lekarne zagotavljajo visoke stroške za injiciranje, peroralno, infundirano ali vdihavanje zdravil, ki se uporabljajo za kronična in kompleksna stanja bolezni, kot so rak, hepatitis in revmatoidni artritis. Za razliko od tradicionalne skupnosti lekarne, kjer se recepti za katero koli skupno zdravilo lahko prinesejo in napolnijo, posebne lekarne nosijo nova zdravila, ki jih je treba pravilno shraniti, dajati, skrbno spremljati in klinično upravljati. Poleg dobave teh zdravil, specialne lekarne zagotavljajo tudi laboratorijsko spremljanje, svetovanje in pomoč bolnikom s strategijami za zajezitev stroškov, ki so potrebne za pridobitev svojih dragih specialnih zdravil. To je trenutno najhitreje rastoči sektor farmacevtske industrije z 19 od 28 na novo FDA odobrila zdravila v letu 2013, ki so posebna zdravila.
+
+Beam Outputs:
+1: Kdaj je FDA odobrila zdravila?
+2: Kdaj so posebne zdravila FDA odobrila?
+3: Kdaj so posebne zdravila FDA odobrene?
+4: Kdaj so posebne zdravila FDA odobrili?
+5: Kdaj je FDA odobrila zdravila v letu 2013
+
+Sampling Outputs:
+1: Kaj posebne medije določijo posebne medicinane?
+2: Katero stanje se uporablja v pomoč bolnikom v letu 2013?
+3: Katera druga zdravila tudi uporabljajo kot posebni zdravili?
+4: Katere industrije se so ustvarile za posebne zdravljene?
+5: Kaj so posebne medicine,  katere stroške so potrebne, da bi niso potrebne, da bi FDA odobrila zdravila?
+
+--------------------------------------------------
+
+Paragraph:
+Terra preta (črna zemlja), ki se razprostira po velikih območjih v amazonskem gozdu, je zdaj splošno sprejeta kot proizvod avtohtonega upravljanja tal. Razvoj te rodovitne zemlje je omogočil kmetijstvo in silvikulturo v prej sovražnem okolju; kar pomeni, da so veliki deli amazonskega deževnega gozda verjetno posledica stoletij človeškega upravljanja, ne pa naravno prisotni, kot je bilo prej domnevano. V regiji plemena Xingu, ostanki nekaterih od teh velikih naselij sredi amazonskega gozda so našli v 2003 Michael Heckenberger in kolegi Univerze na Floridi. Med njimi so bili dokazi o cestah, mostovih in velikih prehodih.
+
+Beam Outputs:
+1: Katera regija je zdaj splošno sprejeta kot proizvod autohtonega upravljanja?
+2: Katera regija je zdaj splošno sprejeta kot proizvod avtohtonega upravljanja?
+3: Kdo je našel nekaj od teh velikih naselij v amazonskem gozdu?
+4: Kdo je našel nekaj od teh velikih naselij v Amazonskem gozdu?
+5: Kdo je našel nekaj od teh velikih naselij v Amazonski gozdu?
+
+Sampling Outputs:
+1: Kakšno so bilo opustiti večje dele amazonskega deževnega gozda?
+2: Kakšen je bil zdaj bil dokaz o velikih naselijah v regiji plemena Xingu?
+3: Kateri plemen je bil ustvarjen od večjih rodovitnih zemlje?
+4: Kdo je bil profesor ameriškega plemena, ki je bil dolžan ustvarjati številne naselije?
+5: Kdaj je bilo napovedano o večjem dežuvem gozdu?
+
+--------------------------------------------------
+
+Paragraph:
+To je pogosta napačna predstava, da pripiše togost in togost trdne snovi odbijanju podobnih nabojev pod vplivom elektromagnetne sile. Vendar pa te značilnosti dejansko izhajajo iz Paulijevega načela izključitve. Ker so elektroni fermioni, ne morejo zasedati enakega kvantnega mehanskega stanja kot drugi elektroni. Ko so elektroni v materialu gosto pakirani skupaj, za vse ni dovolj kvantnih energijskih kvantnih stanj, zato morajo biti nekateri od njih v višjih energijskih stanjih. To pomeni, da je potrebna energija, da jih spakirate skupaj. Medtem ko se ta učinek kaže makroskopsko kot strukturna sila, je tehnično le posledica obstoja končnega sklopa elektronskih stanj.
+
+Beam Outputs:
+1: Koliko energijskih stanj je potrebno, da se elektrone spakirate skupaj?
+2: Koliko energijskih stanj je potrebno, da se elektrone spakirajo skupaj?
+3: Koliko energijskih stanj je potrebno, da se elektronski elementi spakirajo skupaj?
+4: Koliko energijskih stanj je potrebno, da se elektronski elementi spakirate skupaj?
+5: Koliko energijskih stanj je potrebno, da se elektronsko stanje spakira?
+
+Sampling Outputs:
+1: Koliko energijskih stanj je potrebno, da bi elektronsko stanjo spakirato skupaj?
+2: Kje so elektronski elementi gosto pakirani skupaj?
+3: Kakšno stanje niso elektronski fermioni?
+4: Koliko energije je potrebna za zadržanje elektronski stanj?
+5: Kaj je mogoče prigotoviti, da elektron ne more se v večem stanju zaradi elektromagnetne sile?
+
+--------------------------------------------------
+
+Paragraph:
+Egipčani so eno najzgodnejših množičnih implementacij izvedli proti britanski okupaciji v revoluciji leta 1919. Državljanska neposlušnost je eden od mnogih načinov, kako so se ljudje uprli tistim, za katere menijo, da so nepošteni zakoni. Uporablja se v številnih nenasilnih uporniških gibanjih v Indiji (Gandijeve kampanje za neodvisnost od britanskega imperija), v Čehoslovaški žametni revoluciji in v Vzhodni Nemčiji, da bi izrinili svoje komunistične vlade, v Južni Afriki v boju proti apartheidu, v ameriškem gibanju za državljanske pravice, v pojoči revoluciji, da bi v baltske države prinesli neodvisnost od Sovjetske zveze, nedavno z Rose revolucijo v Gruziji leta 2003 in oranžno revolucijo v Ukrajini, med drugimi različnimi gibanji po vsem svetu.
+
+Beam Outputs:
+1: V katerem letu so Egipčani eno najzgodnejše množične implementacije izvedli proti britanski okupaciji?
+2: V katerem letu so Egipčani eno najzgodnejše množične implementacije izvedli proti Britski okupaciji?
+3: V katerem letu so Egipčani eno najzgodnejše množičnih implementacij izvedli proti britanski okupaciji?
+4: V katerem letu so Egipčani eno najzgodnejše množične implementacije izvedli proti britski okupaciji?
+5: V katerem letu so Egipčani eno najzgodnejše množične implementacije izvedli proti britanski okupaciji v Indiji?
+
+Sampling Outputs:
+1: Kdo je govoril o množičnih implementaciji s človekom, ki verjaganja, da nepošteni pravila nepošteni?
+2: Kateri politik imenuje zgodovinske metode, ki se uporabljajo v številnih nepoštnih zakonih?
+3: Kdaj so Egipčani uporabili množične implementacije?
+4: Koliko gibanj je bila v državi za množične implementacije proti Britski okupaciji?
+5: Kaj se imenuje, da bi se številne nasilne uporniške gibane uporabili za priključitev državljanov?
+
+--------------------------------------------------
+
+Paragraph:
+Od približno 1 milimetra (0,039 in) do 1,5 metra velikosti (4,9 ft) so ktenoforji največje nekolonialne živali, ki uporabljajo cilijo („lase“) kot glavno metodo gibanja. Večina vrst ima osem trakov, imenovanih glavnik, ki tečejo po dolžini njihovih teles in nosijo glavnik podobne pasove cilie, imenovane „ktene“, zloženi vzdolž glavnikov, tako da se, ko cilia utripajo, tisti iz vsakega glavnika dotaknejo spodnjega glavnika. Ime „ctenophora“ pomeni „komb“ iz grške κτείς (stem-forma κτεν-), kar pomeni ‚comb‘ in grško pripono -φορος, ki pomeni „nosenje“.
+
+Beam Outputs:
+1: Koliko trakov ima stenoforja?
+2: Koliko trakov je stenophora?
+3: Koliko trakov je stenoforja?
+4: Koliko trakov ima stenofor?
+5: Koliko trakov imenuje stenoфор?
+
+Sampling Outputs:
+1: Katera številka trakov je imenovala tisti, ki utripajo, ki je imenovala steno forma ctenophora?
+2: Kdaj je stenophora imenovala stenoфорa?
+3: Kaj je ime ctenophora?
+4: Kaj so stenoforji v obliki cilie?
+5: Katere vrste se imenuje cilja, ki so imenuje najpovečja žival, ki ima osem trakov, imenovanih glavnik?
+
+--------------------------------------------------
+
+Paragraph:
+Trocki in drugi so verjeli, da lahko revolucija uspe le v Rusiji kot del svetovne revolucije. Lenin je obširno pisal o zadevi in slavno izjavil, da je imperializem najvišja stopnja kapitalizma. Toda po Leninovi smrti je Joseph Stalin za Sovjetsko zvezo vzpostavil „socializem“ v eni državi, s čimer je ustvaril model za kasnejše stalinistične države navznoter in očistil zgodnje internacionalistične elemente. Internacionalistične težnje zgodnje revolucije so bile opuščene, dokler se ne vrnejo v okviru države stranke v konkurenci z Američani med hladno vojno. Novi politični vodja Nikita Hruščov je z začetkom novega obdobja, ki se je po Stalinovem obdobju imenoval „tapa“, v poznih petdesetih letih še bolj pritiskal na sovjetsko-ameriške odnose, ki so začeli nov val protiimperialistične propagande. V svojem govoru na konferenci ZN leta 1960 je napovedal nadaljevanje vojne za imperializem in dejal, da se bodo ljudje iz različnih držav kmalu zbrali in strmoglavili svoje imperialistične voditelje. Čeprav se je Sovjetska zveza razglasila za antiimperialista, kritiki trdijo, da kaže težnje, ki so skupne zgodovinskim imperijem. Nekateri znanstveniki menijo, da je bila Sovjetska zveza hibridna entiteta, ki je vsebovala elemente, ki so skupni tako multinacionalnim imperijem kot nacionalnim državam. Trdilo se je tudi, da je ZSSR prakticirala kolonializem, tako kot druge cesarske sile in je izvajala staro rusko tradicijo širjenja in nadzora. Mao Zedong je nekoč trdil, da je Sovjetska zveza postala imperialistična sila, medtem ko je ohranila socialistično fasado. Poleg tega so bile ideje imperializma široko razširjene v akciji na višjih ravneh upravljanja. Neruski marksisti v Ruski federaciji in kasneje ZSSR, kot Sultan Galiev in Vasil Šahraj, so sovjetski režim šteli za obnovljeno različico ruskega imperializma in kolonializma.
+
+Beam Outputs:
+1: V katerem letu se je Sovjetska zveza razglasila za antiimperialista?
+2: Kdo je napovedal, da je Sovjetska zveza postala antiimperialista?
+3: Kdo je nekoč trdil, da je Sovjetska zveza postala antiimperialista?
+4: Kdo je napovedal, da je Sovjetska zveza postala imperialistična sila?
+5: Kdo je nekoč trdil, da je Sovjetska zveza postala imperialistična sila?
+
+Sampling Outputs:
+1: Kdo je v svojem govoru na konferenci ZN leta 1960?
+2: Kaj so bili odločili, da so bile sovjetske države bolj prehodne?
+3: Kakšen je bil novi politični vodja, ki je ustanovil sovjetsko zvezo?
+4: Kdo je povedal, da se sovjetski režim je vključil v nadaljevanje vojne za imperializem?
+5: Katera organizacija je začela novo stanje protiimperialističnih politikov?
+
+--------------------------------------------------
+
+Paragraph:
+Amazonski deževni gozd (portugalščina: Floresta amazônica ali Amazônia; Španščina: Selva Amazónica, Amazonía ali običajno Amazonija; Francoščina: Forêt amazonienne; Nizozemščina: Amazoneregenwoud), znan tudi v angleščini kot Amazonia ali Amazon Jungle, je vlažen širokolistni gozd, ki pokriva večino amazonskega bazena Južne Amerike. Ta kotlina obsega 7.000.000 kvadratnih kilometrov, od katerih je 5500.000 kvadratnih kilometrov pokritih z deževnim gozdom. Ta regija vključuje ozemlje, ki pripada devetim narodom. Večina gozda je v Braziliji s 60 % deževnega gozda, sledijo ji Peru s 13 %, Kolumbija z 10 % in manjše količine v Venezueli, Ekvadorju, Boliviji, Gvajani, Surinamu in Francoski Gvajani. Države ali oddelki v štirih narodih vsebujejo „Amazonas“ v svojih imenih. Amazonka predstavlja več kot polovico preostalih deževnih gozdov na planetu in obsega največji in najbolj bioraznovrsten trakt tropskega deževnega gozda na svetu, po ocenah pa je 390 milijard posameznih dreves razdeljenih na 16.000 vrst.
+
+Beam Outputs:
+1: Koliko vrst deževnih gozdov je v Amazonski kotline?
+2: V katerem letu je Amazonski deževni gozd?
+3: Koliko vrst deževnih gozdov je v Amazonski regiji?
+4: Koliko vrst deževnih gozdov je v Braziliji?
+5: Koliko vrst deževnih gozdov je v Amazoni?
+
+Sampling Outputs:
+1: Koliko ozemlje je Amazonska kotlina?
+2: Kakšen % dela je Amazonski deževni gozd?
+3: Kaj je tisti ozemlje, v katerem delu Amazone je bilo v Aziji?
+4: Kakšna se vrsta deževnega gozda v Amazonsko regiji?
+5: V katerem mestu je Amazonski deževni gozd?
+
+--------------------------------------------------
+
+Paragraph:
+BSkyB, ustanovljen novembra 1990 z enako združitvijo Sky Television in British Satellite Broadcasting, je postal največja digitalna televizijska družba v Združenem kraljestvu. Potem ko je družba BSkyB novembra 2014 prevzela družbo Sky Italia in večinski delež 90,04 % v družbi Sky Deutschland, se je njena holdinška družba British Sky Broadcasting Group plc spremenila v Sky plc. Poslovanje v Združenem kraljestvu je spremenilo tudi ime podjetja iz British Sky Broadcasting Limited v Sky UK Limited, ki še vedno trguje kot Sky.
+
+Beam Outputs:
+1: V katerem letu je Bskyb ustanovljen?
+2: V katerem letu je BSKYB ustanovljen?
+3: V katerem letu je Bskyb ustanovil?
+4: V katerem letu je Bskyb postal največja digitalna TV?
+5: V katerem letu je Bskyb ustanovil plc?
+
+Sampling Outputs:
+1: V katerem letu je BSKYB zagotovil  britanski satelitni prenos?
+2: Kje je bil največji digitalni posel v Združenem kraljestvu?
+3: Kaj je bilo najbolje digitalno podjetje v Združenem kraljestvu?
+4: Kakšno je ime Bskyb, ko je prevzel  britansko satelitsko broadcasting plc?
+5: Koliko je podjetje bskyb prevzel v Italiji?
+
+--------------------------------------------------
+
+Paragraph:
+Parlamentarni čas je namenjen tudi za vprašanja v sejni dvorani. „Splošni čas za vprašanja“ poteka v četrtek med 11.40 in 12.00, kjer lahko člani naslovijo vprašanja na katerega koli člana škotske vlade. Ob 14.30 se odvija 40-minutna tematska tema „Čas za vprašanja“, kjer lahko člani postavljajo vprašanja ministrom v oddelkih, ki so izbrani za zaslišanje tistega dneva seje, kot so zdravje in pravosodje ali izobraževanje in promet. Od 12.00 do 12.30 ob četrtkih, ko Parlament zaseda, je čas za vprašanja prvega ministra. To daje članom možnost, da neposredno zaslišijo prvega ministra o vprašanjih, ki so v njihovi pristojnosti. Opozicijski voditelji postavljajo splošno vprašanje prvemu ministru in nato dodatna vprašanja. Takšna praksa omogoča „vodenje“ spraševalcu, ki nato uporabi svoje dodatno vprašanje, da prvemu ministru postavi kakršno koli vprašanje. Opozicijski voditelji imajo na voljo štiri splošna vprašanja:
+
+Beam Outputs:
+1: Kdaj je splošni čas za vprašanja?
+2: Kdaj je splošni čas za vprašanje?
+3: V katerem letu je splošni čas za vprašanja?
+4: Kdaj je splošni čas za vprašanja v senatu?
+5: Kdaj je splošni čas za vprašanja v seji?
+
+Sampling Outputs:
+1: Kdaj vprašanih v kateri seji so vročeni, ki je splošno?
+2: Kdaj je splošni čas za vprašanja?
+3: Kako se imenuje datum, ko se glasi, da ugotovi, da vprašanje o kateri oblasti so splošne?
+4: Kdaj je sejo splošna tema?
+5: Kako ste na voljo, da vprašanja senatorja postajo?
+
+--------------------------------------------------
+
+Paragraph:
+Južna Kalifornija je dom številnih večjih poslovnih okrožij. Osrednja poslovna okrožja (CBD) vključujejo Downtown Los Angeles, Downtown San Diego, Downtown San Bernardino, Downtown Bakersfield, South Coast Metro in Downtown Riverside.
+
+Beam Outputs:
+1: V katerem mestu je CBD?
+2: Kdaj je Kalifornija dom CBD?
+3: V katerem mestu se CBD imenuje?
+4: Kaj je CBD v Kaliforniji?
+5: Kdaj je CBD v Kaliforniji?
+
+Sampling Outputs:
+1: Kdaj so CBD številne okrožje v Kaliforniji?
+2: Koliko CBD se je na CBD?
+3: Kdaj je CBD CBD v Kaliforniji?
+4: Kdo je dom CBD?
+5: Kdaj se je CBD CBD na voljo?
+
+--------------------------------------------------
+
+Paragraph:
+Tok hladne, sive gorske vode se nadaljuje do neke razdalje v jezero. Mrzla voda teče blizu površja in se sprva ne meša s toplejšimi, zelenimi vodami Zgornjega jezera. Toda potem, v tako imenovanem Rheinbrechu, renska voda nenadoma pade v globine zaradi večje gostote hladne vode. Tok se ponovno pojavi na površju severne (nemške) obale jezera, ob otoku Lindau. Voda nato sledi severni obali do Hagnau am Bodensee. Majhen del toka se preusmeri z otoka Mainau v jezero Überlingen. Večina vode teče preko Constance lijaka v Rheinrinne („Rhine Gutter“) in Seerhein. Glede na vodostaj je ta pretok vode iz Rena jasno viden po celotni dolžini jezera.
+
+Beam Outputs:
+1: Katera voda se nadaljuje do neke razdalje v jezero?
+2: Katera voda se nadaljuje na površju severne obale jezika?
+3: Katera voda se nadaljuje na površju severnega jezika?
+4: Katera voda se nadaljuje na površju severne obale jeзера?
+5: Katera voda se nadaljuje v globine?
+
+Sampling Outputs:
+1: Kdaj se pojavi tekmo jugozahodne vode na površju jezerja?
+2: V katerem mestu je prava voda na tem, da se naredi na otoku Mainau?
+3: Kaj je zdaj v renu?
+4: Kaj je zdaj na površju severne oceane?
+5: Kdaj se renske vlci ne smeli na svoje vrhole, ko je tekla?
+
+--------------------------------------------------
+
+Paragraph:
+Frederick Viljem, volivec iz Brandenburga, je povabil Huguenotsa, da se naseli v svojih kraljestvih, in številni njihovi potomci so se dvignili na položaje, ki so bili pomembni v Prusiji. Več pomembnih nemških vojaških, kulturnih in političnih osebnosti je bilo etničnih Huguenot, med njimi pesnik Theodor Fontane, general Hermann von François, junak prve svetovne vojne bitke pri Tannenbergu, Luftwaffe General in borec Adolf Galland, Luftwaffe, ki leti z asom Hans-Joachim Marseille, in slavni poveljnik podmornice Lothar von Arnauld de la Perière. Zadnji predsednik vlade (vzhodne) Nemške demokratične republike, Lothar de Maizière, je tudi potomec družine Huguenot, tako kot nemški zvezni minister za notranje zadeve Thomas de Maizière.
+
+Beam Outputs:
+1: Kdo je bil potomec družine Huguenot?
+2: Kdo je potomec družine Huguenot?
+3: Kdo je bil zadnji predsednik vlade v Prusiji?
+4: Kdo je bil zadnji predsednik vlade?
+5: Kdo je bil potomec Huguenot?
+
+Sampling Outputs:
+1: Kdo je bil potomec družine Huguenot?
+2: Kdo je bil potomec družine Huguenot?
+3: Kdo je bil potomec Huanget?
+4: Kateri je bil največji potomec družine Huguenot?
+5: Kdo je bil potomec družine Huguenot?
+
+--------------------------------------------------
+
+Paragraph:
+V zadnjih letih obdobja apartheida so starši na belih vladnih šolah dobili možnost, da se pretvorijo v „polzasebno“ obliko, imenovano Model C, in mnoge od teh šol so spremenile svojo politiko sprejema, da bi sprejele otroke drugih ras. Po prehodu v demokracijo je bila pravna oblika „modela C“ ukinjena, vendar se izraz še naprej uporablja za opis vladnih šol, ki so bile prej rezervirane za bele otroke. Te šole običajno dosegajo boljše akademske rezultate kot vladne šole, ki so bile prej rezervirane za druge rasne skupine. Nekdanje šole „Model C“ niso zasebne šole, saj so pod državnim nadzorom. Vse šole v Južni Afriki (vključno z neodvisnimi šolami in javnimi šolami) imajo pravico, da določijo obvezne šolnine, in prej model C šole ponavadi določajo veliko višje šolnine kot druge javne šole.
+
+Beam Outputs:
+1: Kdaj so starši na belih vladnih šolah dobili možnost, da določijo obvezne šolnine?
+2: Katera oblika je bila ukinjena v zadnjih letih obdobja apartheida?
+3: Kdaj so starši na belih vladnih šolah dobili možnost, da se pretvorijo v model c?
+4: Kdaj so starši na belih vladnih šolah dobili možnost, da se pretvorijo v model C?
+5: Kdaj so starši na belih vladnih šolah dobili možnost, da se pretvorijo v obliko c?
+
+Sampling Outputs:
+1: Kdaj se je oblikovala oblika c v izobraževanjih?
+2: Katere šole so v zadnjih letih obdobja apartheida preoblikovale v obliko, ki se uporablja za prikaz obvezne šolnine?
+3: Kaj se imenuje oblika, na kateri se starši preoblikujejo v model c?
+4: Kdo je prepustil obliko modeloa c?
+5: V katerem letu se so starejši v Južni Afriki imenovali model C?
+
+--------------------------------------------------
+
+Paragraph:
+Patogeni se lahko hitro razvijajo in prilagajajo, s čimer se izognejo odkrivanju in nevtralizaciji imunskega sistema; vendar pa so se razvili tudi številni obrambni mehanizmi za prepoznavanje in nevtralizacijo patogenov. Celo preprosti enocelični organizmi, kot so bakterije, imajo osnovni imunski sistem v obliki encimov, ki ščitijo pred okužbami z bakteriofagom. Drugi osnovni imunski mehanizmi so se razvili v starodavnih evkariontih in ostali v svojih sodobnih potomcih, kot so rastline in nevretenčarji. Ti mehanizmi vključujejo fagocitozo, protimikrobne peptide, imenovane defenzini, in sistem komplementov. Vretenčarji, vključno z ljudmi, imajo še bolj prefinjene obrambne mehanizme, vključno s sposobnostjo prilagajanja skozi čas, da bi učinkoviteje prepoznali posamezne patogene. Prilagodljiva (ali pridobljena) imunološka imunost ustvarja imunski spomin po začetnem odzivu na določen patogen, kar vodi do okrepljenega odziva na nadaljnja srečanja z istim patogenom. Ta proces pridobljene imunosti je osnova cepljenja.
+
+Beam Outputs:
+1: Kdaj so se razvili številne obrambne mehanizme imunskega sistema?
+2: Kdaj so se razvili številne obrambne mehanizme imunskih sistemov?
+3: Kdaj so se razvili številni obrambni mehanizmi imunskega sistema?
+4: Kdaj so se razvili številni obrambni mehanizmi?
+5: Kdaj so se razvili številne obrambne mehanizme?
+
+Sampling Outputs:
+1: V katerem primeru so oblikovali številni obrambni mehanizmi, ki so bile potrebne v prepoznavanje in nevtralizaciji patogenov?
+2: Kakšna imunost so oblikovali spomin?
+3: Kaj je glavna zgodovina številnih primerov imunskega sistema?
+4: Kaj so vključene v osnovni imunski sistem?
+5: Kateri proces je ustvarjen za ustvarjanje imunskega spomina po začetnem odzivu na določen patogen?
+
+--------------------------------------------------
+
+Paragraph:
+Imunologija je v vsakdanji praksi zelo eksperimentalna, zanjo pa je značilen tudi stalni teoretični odnos. Številne teorije so bile predlagane v imunologiji od konca devetnajstega stoletja do danes. Konec 19. stoletja in začetek 20. stoletja je bila bitka med „celularnimi“ in „humoralnimi“ teorijami imunitete. Po celični teoriji imunosti, ki jo predstavlja zlasti Elie Metchnikoff, so bile celice – natančneje fagociti – odgovorne za imunski odziv. V nasprotju s humoralno teorijo imunosti, ki sta jo med drugim imela Robert Koch in Emil von Behring, je navedeno, da so aktivne imunske učinkovine topne komponente (molekule), ki jih najdemo v „humorih“ organizma in ne v njegovih celicah.
+
+Beam Outputs:
+1: Katera teorija je bila predlagana v vsakdanji praksi?
+2: Katera teorija je imela Elie Metchnikoff?
+3: Katera teorija je imela Elie Metchnikoff in Emil von Behring?
+4: Katera teorija imunosti je imela Elie Metchnikoff?
+5: Katera teorija je bila predlagana v vsakdanji praksi v 19. stoletju?
+
+Sampling Outputs:
+1: Kaj je bil osrednji odnos s celično teorijo imunosti?
+2: V katerem letu je bila bitka s humoralnimi teorijimi imunosti?
+3: Kaj je bil glavni element, ki jedel Elie Metchnikoff?
+4: Kaj je bila cilja celično teorijo imunosti?
+5: Kaj je bil dogovor s celijsko imunологиjo?
+
+--------------------------------------------------
+
+Paragraph:
+V laboratoriju stratigrafi analizirajo vzorce stratigrafskih odsekov, ki jih je mogoče vrniti s polja, kot so vzorci iz vrtalnih jeder. Stratigrafi analizirajo tudi podatke iz geofizikalnih raziskav, ki prikazujejo lokacije stratigrafskih enot v podpovršini. Geofizikalni podatki in dnevniki vrtin se lahko kombinirajo za boljši pogled na podpovršino, stratigrafi pa za to pogosto uporabljajo računalniške programe v treh dimenzijah. Stratigrafi lahko te podatke nato uporabijo za rekonstrukcijo starodavnih procesov, ki se pojavljajo na površju Zemlje, interpretacijo preteklih okolij in iskanje območij za pridobivanje vode, premoga in ogljikovodikov.
+
+Beam Outputs:
+1: Kateri podatki je mogoče vrniti s polja?
+2: Kateri podatki so mogoče vrniti s polja?
+3: Kateri podatki je mogoče vrniti s polja v laboratoriju?
+4: Kateri podatki je mogoče vrniti s polja v laboratoriju, ki se lahko kombinirajo za boljši pogled na površino?
+5: Kateri podatki je mogoče vrniti s polja v laboratoriju, ki se lahko kombinira za boljši pogled na površino?
+
+Sampling Outputs:
+1: Katere podatke je lahko prikazujejo osebne stratigrafske enote v podpori povpraševanju z uporabo?
+2: Kaj je v laboratoriju?
+3: Kdaj je v letu 2010, kateri del stroke so na vrsto, da se uporabljajo v laboratoriju, s polja?
+4: Kaj prikazujejo tudi geofizialne raziskave?
+5: Katera država je uporabljena v raziskavi, da se je uporabila za rekonstrukcijo starih procesov?
+
+--------------------------------------------------
+
+Paragraph:
+Po drugi strani pa večja ekonomska neenakost povečuje stopnje podjetništva na individualni ravni (samozaposlitev). Vendar pa večina pogosto temelji na nujnosti in ne na priložnosti. Podjetništvo, ki temelji na nujnosti, temelji na potrebah po preživetju, kot so dohodek za hrano in zatočišče („push“ motivacije), medtem ko podjetništvo, ki temelji na priložnostih, temelji na motivih, usmerjenih v dosežke, kot je poklic, in je bolj verjetno, da bo vključevalo iskanje novih proizvodov, storitev ali premalo pokritih potreb trga. Gospodarski vpliv prve vrste podjetništva se nagiba k prerazporeditvi, medtem ko se pričakuje, da bo drugi spodbujal tehnološki napredek in tako bolj pozitivno vplival na gospodarsko rast.
+
+Beam Outputs:
+1: Kaj se nagiba k prerazporeditvi?
+2: Kaj se nagiba k prerazporeditvi, medtem ko se pričakuje, da bo drugi spodbujal tehnološki napredek?
+3: Kaj se nagiba k prerazporeditvi, medtem ko se pričakira, da bo drugi spodbujal tehnološki napredek?
+4: Kaj se nagiba k prerazporeditvi, medtem ko se pričakovanje, da bo drugi spodbujal tehnološki napredek?
+5: Kaj se nagiba k prerazporeditvi, medtem ko se pričakuje, da bo drugi spodbujali tehnološki napredek?
+
+Sampling Outputs:
+1: Kako se imenuje prva vrsta podjetništva?
+2: Kdo je pogosto bolj verjetno, da bo vključeval poklic ali premalo pokritih potreb trga?
+3: Kaj so vplivi ekonomije?
+4: Kakšna številka podjetnikov se imenuje potreba po preživetju, kot so dohodki za hrano in stočišče, kot so dohodki za hrano in zatočišče?
+5: Kdaj bo podjetništvo bolj negativno vplival na ekonomijo?
+
+--------------------------------------------------
+
+Paragraph:
+Paleoklimatologi merijo razmerje med kisikom-18 in kisikom-16 v lupinah in okostjih morskih organizmov, da bi ugotovili, kakšno je bilo podnebje pred milijoni let (glej cikel razmerja kisika izotopov). Molekule morske vode, ki vsebujejo lažji izotop, kisik-16, izhlapijo nekoliko hitreje kot molekule vode, ki vsebujejo 12 % težji kisik-18; ta razlika se povečuje pri nižjih temperaturah. V obdobjih nižjih svetovnih temperatur sta sneg in dež iz te izparjene vode ponavadi višja v kisiku-16, morska voda, ki je ostala za seboj, pa je ponavadi višja v kisiku-18. Morski organizmi nato v svoja okostja in lupine vključijo več kisika-18 kot v toplejšem podnebju. Paleoklimatologi tudi neposredno merijo to razmerje v vodnih molekulah vzorcev ledenega jedra, ki so stari do več sto tisoč let.
+
+Beam Outputs:
+1: Koliko kisika izotopov je v ledenem jedu?
+2: Koliko kisika izotopov je v ledenem jedre?
+3: Koliko kisika izotopov je v ledenem jednu?
+4: Koliko kisika izotopov v ledenem jedu je višja?
+5: Koliko kisika izotopov v ledenem jedu je nižja?
+
+Sampling Outputs:
+1: Katere molekule morske воды so bolj nižji kot v nižjem svetovnih temperaturah?
+2: Koliko kisika izotopov je višja v morskih okostju?
+3: Koliko molekul višja je višja?
+4: Kakšne razmerje kisika izotopov je najpomembno za morske lupine?
+5: Kakšen izotop je najpogosteje v ledenem jezeru?
+
+--------------------------------------------------
+
+Paragraph:
+Obnovljeno versko vojskovanje leta 1620 je povzročilo odpravo političnih in vojaških privilegijev Huguenotov po njihovem porazu. Do vladavine Ludvika XIV., ki je postopoma povečeval njihovo preganjanje, dokler ni izdal edika iz Fontainebleauja (1685), ki je odpravil vsa pravna priznanja protestantizma v Franciji in prisilil Huguenote k spreobrnitvi, so ohranili verske določbe Nantantskega edika. Medtem ko je bilo skoraj tri četrtine sčasoma ubitih ali predloženih, je približno 500.000 Huguenotov do začetka 18. stoletja pobegnilo iz Francije.
+
+Beam Outputs:
+1: Kdaj je bilo obnovljeno versko vojskovanje leta 1620?
+2: Kdaj je bilo obnovljeno versko vojskovanje?
+3: Koliko Huguenotov je bilo ubitih ali predloženih?
+4: Koliko Huguenotov je bilo ubito ali predloženo?
+5: Koliko Huguenotov je bilo ubito in predloženo?
+
+Sampling Outputs:
+1: Kdo je odpovedal vojno in policijo, ki ga je uporabljala, da bi odpravili?
+2: Koliko Huguenotov se je imenovala vladavine Ludvika XIV.?
+3: V katerem letu je bilo obnovljeno versko vojskovanje?
+4: Kaj je prinesla zgodovina Huguenotov?
+5: V katerem letu se je bil obnovljeno versko vojskovanje leta 1620?
+
+--------------------------------------------------
+
+Paragraph:
+V literaturi, avtor uspešnice New York Times Preden padem Lauren Oliver, Pulitzer nagrajeni pisatelj Philip Roth, kanadsko rojen Pulitzer nagrado in Nobelovo nagrado za književnost nagrajeni pisatelj Saul Bellow, politični filozof, literarni kritik in avtor uspešnice New York Times „The Closing of the American Mind“ Allan Bloom, „The Good War“ avtor Studs Terkel, ameriška pisateljica, esejistka, filmska ustvarjalka, učiteljica in politična aktivistka Susan Sontag, analitična filozofinja in univerzitetna profesorica za primerjalno književnost Richard Rorty ter ameriški pisatelj in satirist Kurt Vonnegut so pomembni alumni.
+
+Beam Outputs:
+1: Kateri pisatelj je pomembno alumni?
+2: Kateri pisatelj je pomembni alumni?
+3: Kdo je pomembno alumni?
+4: Kdo je pomembno alumni New York Times?
+5: Kateri pisatelj je pomembno alumni  literature?
+
+Sampling Outputs:
+1: Kako se imenuje kanadsko rojeno Pulitzer za književnost?
+2: Kako so se imenuje ameriški pisatelj in satirista?
+3: Kje ni John F. Roth?
+4: Kateri ameriški pisatelji imajo Nobelova nagrado za književnost?
+5: Kdo je ameriška pisateljica in satirista?
+
+--------------------------------------------------
+
+Paragraph:
+V znanosti so alumni astronomi Carl Sagan, pomemben sodelavec pri znanstvenih raziskavah nezemeljskega življenja, in Edwin Hubble, znan po„Hubble’s Law“, NASA astronavt John M. Grunsfeld, genetik James Watson, najbolj znan kot eden od soodkritcev strukture DNK, eksperimentalni fizik Luis Alvarez, popularni okoljevarstvenik David Suzuki, balonist Jeannette Piccard, biolog Ernest Everett Just in Lynn Margulis, računalniški znanstvenik Richard Hamming, ustvarjalec Hammingovega kodeksa, razvijalec litij-ionskih baterij John B. Dovolj, matematik in Fields prejemnik medalje Paul Joseph Cohen in geokemist Clair Cameron Patterson, ki je razvil metodo datiranja svinca urana v zmenke s svincem. Jedrski fizik in raziskovalec Stanton Friedman, ki je delal na nekaterih zgodnjih projektih, ki so vključevali pogonske sisteme vesoljskih plovil na jedrski pogon, je tudi diplomant (M.Sc).
+
+Beam Outputs:
+1: Kateri raziskovalec je bil pomemben sodelavec pri raziskavah nezemeljskega življenja?
+2: Kdo je bil najbolj znan kot eden od soodkritcev strukture DNK?
+3: Kdo je bil najbolj znan kot eden od sodkritcev strukture DNK?
+4: Kdo je bil najbolj znan kot eden od sodkritcev strukture DНК?
+5: Kateri raziskovalec je bil pomemben sodelavec pri znanstvenih raziskavah?
+
+Sampling Outputs:
+1: Kateri raziskovalec se je uporabljal za uporabo datiranja urana v zmenke s svincem?
+2: Kdo je znan kot eden od spodbudnega sredstva urana?
+3: Kdo so številne vrste raziskovalnih organizacij?
+4: Kaj je bil najbolj znan raziskovalec, ki je delal na nezemeljskem življenju?
+5: Kaj je bil najbolj znan zame na zemlji?
+
+--------------------------------------------------
+
+Paragraph:
+Na Univerzi v Chicagu je petnajst bratovščin in sedem sestrstev ter ena so-ed skupnostna bratovščina, Alpha Phi Omega. Štiri sestrstva so člani Nacionalne panhelenske konference, deset bratovščin pa je bilo ustanovljenih na Univerzi v Chicagu med bratovščino. Leta 2002 je izredni direktor študentskih dejavnosti ocenil, da je bilo 8–10 odstotkov dodiplomskih študentov članov bratovščine ali sestrstva. Urad za študentske dejavnosti je uporabil podobne številke, ki navajajo, da eden od desetih dodiplomskih študentov sodeluje v grškem življenju.
+
+Beam Outputs:
+1: Koliko bratovščin je bilo ustanovljenih na Univerzi v Chicagu?
+2: Koliko bratovščin je bilo ustanovljeno na Univerzi v Chicagu?
+3: Koliko bratovščin je bilo na Univerzi v Chicagu?
+4: Katera bratovščina je bila ustanovljena na Univerzi v Chicagu?
+5: Koliko bratovščin je bilo ustanovljenih na Univerzi v Chicagu med bratom?
+
+Sampling Outputs:
+1: Katera bratovščina je bila na Univerzi v Chicagu med bratovščino?
+2: Kaj je bil izreden urad za študentske dejavnosti?
+3: Kateri odstotek dodiplomskih študentov so člani bratovščine?
+4: Kako število bratovščin, bratovščin ali sestrstev se je imenovala na Univerzi v Chicagu?
+5: Koliko bratovščin in sestrstev je bilo ustanovljeno na Univerzi v Chicagu?
+
+--------------------------------------------------
+
+Paragraph:
+Preden se je dejanska raziskava izrecno posvetila kompleksnosti algoritemskih problemov, so različni raziskovalci postavili številne temelje. Najbolj vplivna med njimi je bila definicija Turingovih strojev Alana Turinga leta 1936, ki se je izkazala za zelo robustno in prilagodljivo poenostavitev računalnika.
+
+Beam Outputs:
+1: Kaj je Alan Turing imel za zelo robustno in prilagodljivo poenostavitev računalnika?
+2: Kaj je Alan Turing imel za zelo robusto in prilagodljivo poenostavitev računalnika?
+3: Kaj je Alan Turing imel za zelo robustno in prilagodljivo poenostavitvijo računalnika?
+4: Kaj je Alan Turing imel za zelo robustno in prilagodljivo poenostavitev?
+5: Kaj je Alan Turing imel za zelo robustno in prilagodljivo poenostavitev računalnikov?
+
+Sampling Outputs:
+1: Katera študija se je zgodila v času, ko je bila Alana Turinga?
+2: Katera sredstva je bila imenovala Alana Turinga?
+3: Koliko raziskovalci so vzel Alan Turing?
+4: Katera študija je bila najbolj vplivna med raziskovalcem številne temelje?
+5: Kateri raziskovalci so odločili, da niso potrebne za poenostavitev računalnika?
+
+--------------------------------------------------
+
+Paragraph:
+Načelo vključkov in komponent navaja, da morajo biti pri sedimentnih kamninah, če v formaciji najdemo vključke (ali klaste), vključki starejši od tvorbe, ki jih vsebuje. Na primer, v sedimentnih kamninah je običajno, da se prod iz starejše tvorbe raztrga in vključi v novejšo plast. Podobna situacija pri magmatskih kamninah se pojavi, ko najdemo ksenolitte. Ta tuja telesa so pobrana kot magma ali lava in so kasneje vključena, da se ohladijo v matrici. Posledično so ksenoliti starejši od kamnine, ki jih vsebuje.
+
+Beam Outputs:
+1: Kaj se pojavi v sedimentnih kamninah, ko najdemo vključke in komponente?
+2: Kaj se pojavi v sedimentnih kamninah, ko najdemo vključke in elemente?
+3: Kaj se pojavi v sedimentnih kamninah, ko najdemo vključke?
+4: Kaj se pojavi v sedimentnih kamninah, ko so vključki starejši od kamen?
+5: Kaj se pojavi v sedimentnih kamninah, ko so vključki starejši?
+
+Sampling Outputs:
+1: Kaj je primer za vključke in komponente v sedimentnih kamninah?
+2: Kje so tista tista, ki se imenuje, ko najdem vključke?
+3: Kaj se zgodi v sedimentnih kamninah, ko se najdemo, da so vključki starejši od izdelkov, ki jih vsebuje?
+4: Kaj je izvedeno za vključke pri sedimentnih kamninah?
+5: Kateri element je običajno vključki in komponente?
+
+--------------------------------------------------
+
+Paragraph:
+V Združenem kraljestvu in več drugih državah Commonwealtha, vključno z Avstralijo in Kanado, je uporaba izraza na splošno omejena na osnovnošolsko in srednješolsko izobrazbo; skoraj nikoli ga ne uporabljajo univerze in druge terciarne ustanove. Zasebno izobraževanje v Severni Ameriki zajema celoten razpon izobraževalne dejavnosti, od predšolskih do terciarnih ustanov. Letne šolnine na šolah K-12 segajo od nič na tako imenovanih „brez šolnine“ do več kot $45,000 na več pripravljalnih šolah New England.
+
+Beam Outputs:
+1: Kdaj je uporaba izraza na splošno omejena na predšolsko in terciarno izobrazbo?
+2: Kdaj je uporaba izraza na splošno omejena?
+3: V katerem letu je uporaba izraza na splošno omejena?
+4: Kdaj je uporaba izraza na splošno omejena na
+5: V katerem letu se imenuje brez šolnine?
+
+Sampling Outputs:
+1: Katera vrsta šolnine je brez šolnine?
+2: Kaj je primenjen v zasplošni obliki izraza?
+3: Koliko šolnine do nič na začetnih?
+4: V katerem letu so šolnine na šolah K-12 preplačane na splošno?
+5: Katere vrste izobraževalne dejavnosti je uporabljajo v Severni Evropi?
+
+--------------------------------------------------
+
+Paragraph:
+NASA satelit CALIPSO je izmeril količino prahu, ki ga veter prenaša iz Sahare v Amazonijo: povprečno 182 milijonov ton prahu se piha iz Sahare vsako leto, na 15 stopinj zahodne zemljepisne dolžine, preko 1600 milj (2,600 km) nad Atlantskim oceanom (nekateri prah pade v Atlantik), nato na 35 stopinj zahodne dolžine na vzhodni obali Južne Amerike, 27,7 milijona ton (15 %) prahu pade nad amazonsko kotlino, 132 milijonov ton prahu ostane v zraku, 43 milijonov ton prahu je pihanih in pade na Karibsko morje, mimo 75 stopinj zahodne dolžine.
+
+Beam Outputs:
+1: Koliko milijonov ton prahu je v zraku?
+2: Koliko prahu je v zraku?
+3: Koliko milijonov ton prahu je v zraku v letu?
+4: Koliko milijonov ton prahu je v zraku v Kaliforniji?
+5: Koliko milijonov ton prahu se uporablja v zraku?
+
+Sampling Outputs:
+1: Na kateri dolžine se nahaja prah?
+2: Kaj je ključno za uporabo ameriškega zemljepisne dolžine?
+3: Kako gosto je prah iz Kalifornije?
+4: Kakšna je pomembna longitudina prahu v letu?
+5: Kaj je dovolj v letu?
+
+--------------------------------------------------
+
+Paragraph:
+To je logična razširitev sestavljenega motorja (opisano zgoraj), da se razširitev razdeli na še več stopenj za povečanje učinkovitosti. Rezultat je večkratni ekspanzivni motor. Takšni motorji uporabljajo tri ali štiri stopnje širitve in so znani kot motorji s trojno oziroma štirikratno ekspanzijo. Ti motorji uporabljajo vrsto valjev s postopnim povečevanjem premera. Ti valji so zasnovani tako, da delo razdelijo na enake deleže za vsako fazo širitve. Kot pri dvojnem ekspanzijskem motorju, če je prostor na vrhuncu, se lahko za nizkotlačno stopnjo uporabita dva manjša valja. Večkratni ekspanzivni motorji so običajno imeli valjev razporejene inline, vendar so bile uporabljene različne druge formacije. V poznem 19. stoletju je bil „sistem“ za uravnoteženje Yarrow-Schlick-Tweedy uporabljen na nekaterih pomorskih motorjih za trojno širitev. Motorji y-S-T so delili nizkotlačne stopnje ekspanzije med dva cilindra, po enega na vsakem koncu motorja. To je omogočilo boljšo uravnoteženost ročične gredi, kar je povzročilo bolj gladek, hitrejši odzivni motor, ki je deloval z manj vibracijami. Zaradi tega je bil 4-valjni motor s trojno ekspanzijo priljubljen pri velikih potniških oblogah (kot je olimpijski razred), vendar ga je na koncu nadomestil skoraj brez vibracij turbinski motor.
+
+Beam Outputs:
+1: Kdaj je bil sistem za uravnoteženje Yarrow-Schlick-Tweedy uporabljen na pomorskih motorjih?
+2: Kdaj je bil sistem za uravnoteženje y-s-t uporabljen na nekateri pomorskih motorjih?
+3: Kdaj je bil sistem za uravnoteženje yarrow-schlick-tweedy uporabljen na pomorskih motorjih?
+4: Kdaj je bil sistem za uravnoteženje Yarrow-Schlick-Tweedy uporabljen?
+5: Kdaj je bil sistem za uravnoteženje y-s-t?
+
+Sampling Outputs:
+1: Kakšno motorjo s trikratno ekspanzijo je bilo imennjeno s štirivalnimi valji?
+2: Kaj je bil sistem za uravnoteženje?
+3: Kdaj so motorji y-s-t praznili, da se je bil uporabljen za tri ali štiri stopnje ekspanzije?
+4: Kdo je bil priljubljen, ko je bil y-s-t motor s trojno ekspanzijo?
+5: Kaj so motorji y-s-t uporabili v poznem 19. stoletju?
+
+--------------------------------------------------
+
+Paragraph:
+New Rochelle, ki se nahaja v okrožju Westchester na severni obali Long Island Sounda, se je zdelo, da je odlična lokacija Huguenots v New Yorku. Pravijo, da so pristali na obalnem polotoku Davenports Neck, imenovanem „Bauffet’s Point“, potem ko so potovali iz Anglije, kjer so se zaradi verskega preganjanja pred tem zatekli štiri leta pred preklicem Nantesovega edika. Kupili so od Johna Pella, gospodarja Pelhamskega dvorca, območje zemlje, sestavljeno iz šest tisoč sto hektarjev, s pomočjo Jakoba Leislerja. Poimenovali so ga New Rochelle po La Rochelle, njihovi nekdanji trdnjavi v Franciji. V skupnosti je bila prvič postavljena majhna lesena cerkev, ki ji je sledila druga cerkev, zgrajena iz kamna. Pred postavitvijo tega so močni moški pogosto hodili triindvajset kilometrov v soboto zvečer, razdalja ob cesti od New Rochelle do New Yorka, da bi se udeležili nedeljske službe. Cerkev je bila nazadnje nadomeščena s tretjo, škofovsko cerkvijo Trojice svetega Pavla, ki vsebuje zapuščine, vključno s prvotnim zvonom francoske Huguenotske cerkve „Eglise du St. Esperit“ na Pine Street v New Yorku, ki je ohranjena kot relikvija v stolpni sobi. Huguenotsko pokopališče, ali „Huguenot Burial Ground“, je bilo od takrat priznano kot zgodovinsko pokopališče, ki je zadnje počivališče za široko paleto Huguenotovih ustanoviteljev, zgodnjih naseljencev in uglednih državljanov iz več kot treh stoletij.
+
+Beam Outputs:
+1: Koliko kilometrov je bilo od New Rochelle do New Yorka?
+2: Koliko kilometrov je bilo od New Rochelle do New Yorka v soboto zvečer?
+3: V katerem mestu je New Rochelle na Long Island Soundu?
+4: Koliko kilometrov je bilo od New Rochelle do Long Island Sounda?
+5: V katerem mestu je New Rochelle?
+
+Sampling Outputs:
+1: Katera cerkev je bila prvič zgradila v kateri škofi?
+2: Koliko kilometrov je bilo ob cesti od New Rochelle do New Yorka?
+3: Na katerem mestu se je začela cerkev Huguenot?
+4: Katera cerkev je bila nazadnje ustvarjena s pomočjo Jakoba Leislerja?
+5: Kakšno mesto je imela zgodovinsko pokopališče za več kot tri vrste?
+
+--------------------------------------------------
+
+Paragraph:
+Po utilitarističnem načelu iskanja največjega dobrega za največje število – ekonomska neenakost je problematična. Hiša, ki milijonarju kot poletnemu domu zagotavlja manj koristnosti, kot bi jo imela družina petih brezdomcev, je primer zmanjšane „distributivne učinkovitosti“ v družbi, ki zmanjšuje mejno korist bogastva in s tem vsoto osebnih koristi. Dodaten dolar, ki ga porabi revna oseba, bo šel na stvari, ki bodo tej osebi zagotovile veliko koristnosti, kot so osnovne potrebščine, kot so hrana, voda in zdravstveno varstvo; medtem ko bo dodaten dolar, ki ga porabi veliko bogatejša oseba, zelo verjetno šel na luksuzne predmete, ki zagotavljajo relativno manj koristnosti za to osebo. Tako se mejna koristnost bogastva na osebo („dodatni dolar“) zmanjšuje, ko oseba postane bogatejša. S tega vidika bo imela družba z večjo enakostjo za vsako dano bogastvo v družbi večjo skupno korist. Nekatere študije so odkrile dokaze za to teorijo in ugotovile, da sta v družbah, kjer je neenakost manjša, zadovoljstvo in sreča prebivalstva običajno višja.
+
+Beam Outputs:
+1: Kaj je primer zmanjšane distributivne učinkovitosti?
+2: Kaj je primer zmanjšane distributivne učinkovitosti v družbi?
+3: Kdo je bil primer zmanjšane distributivne učinkovitosti?
+4: Kdo je bil primer zmanjšane distributivne učinkovitosti v družbi?
+5: Kaj je primer zmanjšane distribuitivne učinkovitosti?
+
+Sampling Outputs:
+1: Kaj ustvari ugotoviti, da je v družbi s manjjo enakostjo?
+2: Kaj je bil primer zmanjšanih distributivne učinkovitosti?
+3: Kaj niso primeri zmanjšane distribuitivne učinkovitosti?
+4: Kdo živi v letu, ki se po utilitarističnem načelu iskanja največjega dobrega za največje število?
+5: Katere študije se niso ugotovile, da bi bila neenakost v industriji?
+
+--------------------------------------------------
+
+Paragraph:
+Johnsonova odprava je bila bolje organizirana kot Shirley, kar je opazil guverner New France, Marquis de Vaudreuil. V prvi vrsti je bil zaskrbljen zaradi razširjene oskrbovalne linije do utrdb na Ohiu in je poslal barona Dieskauja, da bi vodil obrambo Frontenaca pred Shirleyjevim pričakovanim napadom. Ko so Johnsona videli kot večjo grožnjo, je Vaudreuil poslal Dieskauja v Fort St. Frédéric, da bi se soočil s to grožnjo. Dieskau je načrtoval napad na britanski tabor v Fort Edwardu na zgornjem koncu plovbe po reki Hudson, vendar ga je Johnson močno utrdil in Dieskaujeva indijska podpora ni bila naklonjena napadu. Obe vojski sta se končno srečali v krvavi bitki pri jezeru George med Fort Edwardom in Fort Williamom Henryjem. Bitka se je končala nedokončno, saj sta se obe strani umaknili s polja. Johnsonovo napredovanje se je ustavilo v Fort Williamu Henryju in Francozi so se umaknili v Ticonderoga Point, kjer so začeli graditi Fort Carillon (kasneje se je preimenoval v Fort Ticonderoga po britanski zajetju leta 1759).
+
+Beam Outputs:
+1: Kdo je poslal barona Dieskauja v Fort Carillon?
+2: Kdo je poslal barona Dieskauja v Fort St. Frédリック?
+3: Kdo je poslal barona Dieskauja v Fort St. Frédéric?
+4: Kdo je poslal barona Dieskauja v Fort St. Frederic?
+5: Kdo je poslal barona Dieskauja na Fort Carillon?
+
+Sampling Outputs:
+1: Kdaj je bilo vključno, da se je začela puščica o začetku njihove bitke?
+2: Kakšna je bila prvo vrsta Johnsonovo odprava?
+3: Kdaj je bilo narejeno v Normandiji?
+4: Kdo je našel barona Dieskauja v San Francisco?
+5: Kdo je našel barona Dieskauja?
+
+--------------------------------------------------
+
+Paragraph:
+Bodensko jezero je sestavljeno iz treh vodnih teles: Obersee („zgornje jezero“), Untersee („spodnje jezero“) in povezovalni odsek Rena, imenovan Seerhein („jezero Ren“). Jezero se nahaja v Nemčiji, Švici in Avstriji v bližini Alp. Natančneje, njene obale ležijo v nemških deželah Bavarska in Baden-Württemberg, v avstrijski zvezni deželi Vorarlberg ter v švicarskih kantonih Thurgau in St. Gallen. Ren teče vanjo z juga po švicarsko-avstrijski meji. Nahaja se na približno 47°39′ S 9°19′V; 9.317.
+
+Beam Outputs:
+1: V katerem mestu se nahaja Bodensko jezero?
+2: Koliko vodnih teles je Bodensko jezero?
+3: Koliko vodnih teles je Bodensko jezero v Nemčiji?
+4: V katerem letu je Bodensko jezero sestavljeno?
+5: V katerem letu je Bodensko jezero?
+
+Sampling Outputs:
+1: Katera je bila ta voda, ki je na  Bodensko jezero je bila povezALKA z Reno?
+2: Kako se imenuje povezovalni odsek v Bodensko jezero?
+3: Kdaj se jezer oberste sodel je sestavljen z trois in povezanim odsekem?
+4: V katerem letu je Bodensko jezero se nahaja?
+5: Na kateri strani je Bodensko jezero?
+
+--------------------------------------------------
+
+Paragraph:
+Športi na kolidžu so priljubljeni tudi v južni Kaliforniji. UCLA Bruins in USC Trojanci obe terenski ekipi v NCAA Division I v Pac-12 konferenci, in obstaja dolgoletno rivalstvo med šolami.
+
+Beam Outputs:
+1: Katera liga je Ucla Bruins in USC Trojanci?
+2: Katera liga je Ucla Bruins?
+3: V katerem mestu je Ucla Bruins?
+4: V katerem mestu je ucla bruins?
+5: Katera liga je Ucla Bruins in USC?
+
+Sampling Outputs:
+1: Katera liga je Ucla Bruins?
+2: V katerem časovnem tempu je Ucla in USC?
+3: Kdaj so usc in usc srečali na koldžu?
+4: Koliko igralnih podjetij v NFL se je odločil za preprečiti za kolidž?
+5: Kako bi ucla bruins s konkurenco igrala usc
+
+--------------------------------------------------
+
+Paragraph:
+Ergänzungsschulen so srednješolske ali posrednješolske (neterciarne) šole, ki jih vodijo posamezniki, zasebne organizacije ali redko verske skupine in ponujajo vrsto izobraževanja, ki ni na voljo v javnih šolah. Večina teh šol je poklicnih šol. Vendar te poklicne šole niso del nemškega dualnega izobraževalnega sistema. Ergänzungsschulen imajo svobodo delovanja zunaj vladne ureditve in se v celoti financirajo z zaračunavanjem šolnine študentov.
+
+Beam Outputs:
+1: Kaj je Ergänzungsschule?
+2: V katerem letu se imenuje Ergänzungsschule?
+3: Kaj je ergänzungsschule?
+4: V katerem letu se imenuje Ergänzungsschulen?
+5: Kaj je Ergänzungsschulen?
+
+Sampling Outputs:
+1: V katerem letu so se oblikovale Ergänzungsschulen?
+2: V katerem letu so Ergänzungsschulen?
+3: V katerem delu vladne ureditve je ergänzungsschule?
+4: Kaj je ergänzungsschule?
+5: Kaj omogoča posamezniku v njihovo imenovanje ergänzungsschulen?
+
+--------------------------------------------------
+
+Paragraph:
+Naslednji štirje časovni razporedi prikazujejo geološko časovno lestvico. Prvi prikazuje ves čas od nastanka Zemlje do sedanjosti, vendar to stisne najnovejši eon. Zato druga lestvica prikazuje najnovejši eon z razširjenim obsegom. Druga lestvica stisne zadnje obdobje, tako da se je najnovejša doba razširila v tretji lestvici. Ker je kvartar zelo kratko obdobje s kratkimi dobami, je še dodatno razširjen v četrti lestvici. Drugi, tretji in četrti časovni okvir so torej vsi pododdelki njihove predhodne časovne razporeditve, kot kažejo zvezdice. Holocen (najnovejša doba) je premajhen, da bi bil jasno prikazan na tretji časovnici na desni, še en razlog za razširitev četrte lestvice. Pleistocen (P) doba. Q pomeni kvartarno obdobje.
+
+Beam Outputs:
+1: Katera lestvica prikazuje ves čas od nastanka Земle do sedanjosti?
+2: Katera lestvica prikazuje ves čas od nastanka Земje do sedanjosti?
+3: Katera lestvica prikazuje ves čas od nastanka Земlje do sedanjosti?
+4: Katera lestvica prikazuje najnovejši eon z razširjenim obsegom?
+5: Katera lestvica prikazuje najnovejši eon?
+
+Sampling Outputs:
+1: Kaj je bila tista lestvica, ki poveza najnovejšo obdobje?
+2: Koliko časov so v trinajstem?
+3: Kateri okvir je prikazal zelo kratko obdobje s kratkimi dobami?
+4: Katero obdobje je tudi s kratkimi dobami?
+5: Kakšno od njih je jasno prikazan na tretji časovnici?
+
+--------------------------------------------------
+
+Paragraph:
+Islamizem je kontroverzen koncept, ne samo zato, ker predstavlja politično vlogo islama, ampak tudi zato, ker njegovi podporniki verjamejo, da njihova stališča zgolj odražajo islam, medtem ko je nasprotna ideja, da je islam ali je lahko, apolitična napaka. Znanstveniki in opazovalci, ki ne verjamejo, da je islam zgolj politična ideologija, so Fred Halliday, John Esposito in muslimanski intelektualci, kot je Javed Ahmad Ghamidi. Hayri Abaza trdi, da pomanjkanje razlikovanja med islamom in islamizmom vodi do tega, da mnogi na Zahodu podpirajo neliberalne islamske režime na škodo progresivnih zmernežev, ki poskušajo ločiti religijo od politike.
+
+Beam Outputs:
+1: Kdo ne verjamejo, da je islam zgolj politična ideologija?
+2: Kdo ne verjamejo, da islam je zgolj politična ideologija?
+3: Kdo ne verjamejo, da je islam zgolj politično ideologijo?
+4: Kaj je Hayri Abaza?
+5: Kdo ne verjamejo, da je islam zgolj politik?
+
+Sampling Outputs:
+1: Kdo se je odločil, da islam je zgolj politik?
+2: Kdo se odloči, da islam ni politik?
+3: Kaj je Hayri Abaza trdi, da islam ne jekoli?
+4: Kateri posameznik ne verjamejo, da je islam zgolj politik?
+5: Kaj je islamizem?
+
+--------------------------------------------------
+
+Paragraph:
+Na Kitajskem Yuana ali mongolskega obdobja so se v umetnosti zgodili ali nadaljevali različni pomembni dogodki, vključno s področji slikarstva, matematike, kaligrafije, poezije in gledališča, s številnimi velikimi umetniki in pisatelji, ki so znani danes. Zaradi združevanja slikarstva, poezije in kaligrafije v tem času so bili mnogi umetniki, ki se ukvarjajo s temi različnimi udejstvovanjem, isti posamezniki, čeprav so morda bolj znani po enem področju svojih dosežkov kot drugi. Pogosto v smislu nadaljnjega razvoja krajinskega slikarstva in klasičnega združevanja umetnosti slikarstva, poezije in kaligrafije, sta dinastija Song in dinastija Yuan povezani. Na področju kitajskega slikarstva v času dinastije Yuan je bilo veliko znanih slikarjev. Na področju kaligrafije so bili mnogi veliki kaligrafi iz obdobja dinastije Yuan. V Yuanovi poeziji je bil glavni razvoj qu, ki ga je med drugimi pesniškimi oblikami uporabljala večina znanih Yuanovih pesnikov. Mnogi pesniki so bili vključeni tudi v glavne dogodke v gledališču v tem času, in obratno, z ljudmi, ki so pomembni v gledališču postali znani z razvojem vrste Sanqu qu. Eden od ključnih dejavnikov v mešanici šova sorte Zaju je bila vključitev poezije tako klasične kot novejše oblike qu. Eden od pomembnih kulturnih dogodkov v času Yuana je bila konsolidacija poezije, slikarstva in kaligrafije v enoten kos tipa, ki se nagiba k razmišljanju, ko ljudje razmišljajo o klasični kitajski umetnosti. Drug pomemben vidik Yuanovih časov je vse večja vključitev takrat aktualne, ljudske kitajščine v qu obliko poezije in šov sorte Zaju. Drug pomemben premislek v zvezi z umetnostjo in kulturo dinastije Yuan je, da je tako velik del preživel na Kitajskem, relativno za dela iz dinastije Tang in dinastije Song, ki so bila pogosto bolje ohranjena na krajih, kot je Šosōin na Japonskem.
+
+Beam Outputs:
+1: Kaj je bilo pomembno na področju kaligrafije v času dinastije Song?
+2: Kaj je bilo pomembno na področju kaligrafije v času Yuana?
+3: Kaj je bilo pomembno na področju kaligrafije?
+4: Kaj je bilo pomembno v času Yuana?
+5: Kaj je bilo pogosto pomembno v času Yuana?
+
+Sampling Outputs:
+1: Kaj je bilo pomembno v mešanici sorte zaju v času dinastije Song?
+2: Kakšne so bile številne pomembne udejstvovanja v časovu dinastije Songa?
+3: V kolikem letu se zgodovina zgodovine poročila, v katerem letu je bila skupina, ki jo so uporabljali v prvem razvojnu?
+4: Zakaj je številne velike umetnice uporabljale šov sorte Zaju?
+5: V katerem mestu se izvajajo različne dogodke na Kitajskemyuanu?
+
+--------------------------------------------------
+
+Paragraph:
+Zahodno medicino so na Kitajskem prakticirali tudi nestorski kristjani juanskega dvora, kjer je bila včasih označena kot Huihui ali muslimanska medicina. Nestorski zdravnik Jezus, tolmač, je leta 1263 ustanovil Urad za zahodno medicino med vladavino Kublaja. Huihui zdravniki, zaposleni v dveh cesarskih bolnišnicah, so bili odgovorni za zdravljenje cesarske družine in članov dvora. Kitajski zdravniki so nasprotovali zahodni medicini, ker je njegov humoralni sistem nasprotoval filozofiji yin-yang in wuxing filozofiji, ki je temeljila na tradicionalni kitajski medicini. Kitajski prevod zahodnih medicinskih del ni znan, vendar je možno, da so Kitajci imeli dostop do Avicenna’s Canon of Medicine.
+
+Beam Outputs:
+1: Kdo je ustanovil Urad za zahodno medicine?
+2: Kdo je ustanovil Urad za zahodno medicina?
+3: Kdo je ustanovil urad za zahodno medicine?
+4: Kdo je nasprotoval zahodno medicine?
+5: Kdo je nasprotoval zahodni medicine?
+
+Sampling Outputs:
+1: Katere številne države so odločili, da se zahodno medicina čim je prakticiranje?
+2: Kdo je nasprotoval zahodnem sistemu?
+3: Kaj so Kitajci prakticirali zahodne medicine?
+4: Kdo je nasprotoval zahodne medicine?
+5: Kaj je bilo včasih znano kot huihui?
+
+--------------------------------------------------
+
+Paragraph:
+Medtem ko je obstoj teh osrednjih vladnih oddelkov in šestih ministrstev (ki so bili uvedeni od dinastije Sui in Tang) dal sinicizirano podobo v Yuanski upravi, so dejanske funkcije teh ministrstev odražale tudi, kako so mongolske prednostne naloge in politike preoblikovale in preusmerile te institucije. Na primer, avtoriteta pravnega sistema Yuan, ministrstvo za pravosodje, se ni razširila na pravne zadeve, v katere so bili vpleteni Mongoli in Semuren, ki so imeli ločena sodišča. O primerih, v katerih so sodelovali člani več kot ene etnične skupine, je odločal mešani odbor, sestavljen iz Kitajske in Mongolov. Drug primer je bila nepomembnost ministrstva za vojno v primerjavi z avtohtonimi kitajskimi dinastijami, saj je prava vojaška oblast v času Yuana prebivala v Privy svetu.
+
+Beam Outputs:
+1: Koliko vladnih oddelkov in šestih ministerstev je bilo uvedeni od Kitajske in Mongolov?
+2: Koliko vladnih oddelkov in šestih ministerstev je bilo uvedeni od dinastije sui in tang?
+3: Koliko vladnih oddelkov in šestih ministerstev je bilo uvedeni od dinastije Su in Tang?
+4: Koliko vladnih oddelkov je bilo uvedeni od dinastije sui in tang?
+5: Koliko vladnih oddelkov je bilo uvedeni od dinastije Su in Tang?
+
+Sampling Outputs:
+1: Kdo je bil vpleten v organe vladnih oddelkov in šestih vladnih oddelkov?
+2: Kakšen je bil primer vodja vladnih oddelkov in šestih ministstev, ki so bili uvedeni v osrednje vladne oddelke in šestih ministstev, ki so bile uvedeni od Kitajske in Mongoli?
+3: Kdaj je imela kitajska in mongolska odvisna organna vojna?
+4: Na katerem primeru so bile mongolske prednostne naloge in politiki preoblikovale?
+5: Kakšna je bila vrsta odločitve o primerih, v katerih so bile semurske in semurenske etnične skupine?
+
+--------------------------------------------------
+
+Paragraph:
+Drugi dokazi o Valoncih in Huguenotih v Canterburyju vključujejo blok hiš v Turnagain Lane, kjer okna tkalcev preživijo v zgornjem nadstropju, toliko Huguenotov je delovalo kot tkalci. Weavers, pollesena hiša ob reki, je bila kraj tkalske šole od poznega 16. stoletja do okoli leta 1830. (Prilagojeno je bilo kot restavracija – glej zgornjo sliko. Hiša je dobila ime po tkalni šoli, ki se je preselila v zadnjih letih 19. stoletja in je oživila prejšnjo uporabo.) Drugi begunci so izvajali različne poklice, potrebne za ohranjanje skupnosti, ki se razlikuje od avtohtonega prebivalstva. Takšna gospodarska ločitev je bila pogoj za začetno sprejetje beguncev v mestu. Naselili so se tudi drugje v Kentu, zlasti Sandwich, Faversham in Maidstone-mesta, v katerih so bile nekoč begunske cerkve.
+
+Beam Outputs:
+1: Kdaj je bila tkalska šola v Canterburyju?
+2: V katerem letu je bila pollesena hiša ob reki?
+3: V katerem letu je bila tkalska šola?
+4: V katerem letu je bila tkalska šola v Canterburyju
+5: Kdaj je bila tkalska šola?
+
+Sampling Outputs:
+1: Kdaj so bili Huguenoti prišli v Canterburyju?
+2: V katerem letu je bilo tkalsko šolo?
+3: V katerem letu je bil leta 1800?
+4: Katera zgodovina je bila tkalska šola?
+5: Kdaj je bilo ime tkalske cerkve v Canterburyju?
+
+--------------------------------------------------
+
+Paragraph:
+Po drugi strani pa večja ekonomska neenakost povečuje stopnje podjetništva na individualni ravni (samozaposlitev). Vendar pa večina pogosto temelji na nujnosti in ne na priložnosti. Podjetništvo, ki temelji na nujnosti, temelji na potrebah po preživetju, kot so dohodek za hrano in zatočišče („push“ motivacije), medtem ko podjetništvo, ki temelji na priložnostih, temelji na motivih, usmerjenih v dosežke, kot je poklic, in je bolj verjetno, da bo vključevalo iskanje novih proizvodov, storitev ali premalo pokritih potreb trga. Gospodarski vpliv prve vrste podjetništva se nagiba k prerazporeditvi, medtem ko se pričakuje, da bo drugi spodbujal tehnološki napredek in tako bolj pozitivno vplival na gospodarsko rast.
+
+Beam Outputs:
+1: Kaj se nagiba k prerazporeditvi?
+2: Kaj se nagiba k prerazporeditvi, medtem ko se pričakuje, da bo drugi spodbujal tehnološki napredek?
+3: Kaj se nagiba k prerazporeditvi, medtem ko se pričakira, da bo drugi spodbujal tehnološki napredek?
+4: Kaj se nagiba k prerazporeditvi, medtem ko se pričakovanje, da bo drugi spodbujal tehnološki napredek?
+5: Kaj se nagiba k prerazporeditvi, medtem ko se pričakuje, da bo drugi spodbujali tehnološki napredek?
+
+Sampling Outputs:
+1: Kaj je bolj verjetno, da bo vključevano iskanje novo izdelkov, storitve ali premalo pokritih potreb trga?
+2: Kdaj je bilo potrebo, da bo poklic poklic vključeval v dosežke?
+3: Kaj je najpogostejši primer podjetništva?
+4: Kako podjetništvo prizanaša do vlagage, ki je vključevano iskanje novih proizvodov in storitev, storitve, ali premalo pokritih potreb trga?
+5: V katerem letu se imenuje poklic?
+
+--------------------------------------------------
+
+Paragraph:
+Sile delujejo v določeni smeri in imajo velikosti, ki so odvisne od tega, kako močno je potiskanje ali vlečenje. Zaradi teh značilnosti so sile razvrščene kot „vektorske količine“. To pomeni, da sile sledijo drugačnemu nizu matematičnih pravil kot fizične količine, ki nimajo smeri (označene skalarne količine). Na primer, pri določanju, kaj se zgodi, ko dve sili delujeta na isti predmet, je treba za izračun rezultata poznati velikost in smer obeh sil. Če ti podatki niso znani za vsako silo, je situacija dvoumna. Na primer, če veste, da dva človeka vlečeta po isti vrvi z znanimi velikostmi sile, vendar ne veste, v katero smer katera koli oseba vleče, je nemogoče ugotoviti, kakšen bo pospešek vrvi. Dva človeka bi se lahko vlekla drug proti drugemu, kot v vlačilcu vojne, ali pa sta dva človeka lahko vlekla v isto smer. V tem preprostem enodimenzionalnem primeru, ne da bi poznali smer sil, se je nemogoče odločiti, ali je neto sila posledica dodajanja dveh velikosti sil ali odštevanja ene od druge. Povezovanje sil z vektorji se izogiba takšnim težavam.
+
+Beam Outputs:
+1: Kaj se zgodi, ko dve sili delujeta na isti predmet?
+2: Kaj se zgodi, ko 2 sili delujeta na isti predmet?
+3: Kaj se zgodi, ko dve sili delujejo na isti predmet?
+4: Kaj se zgodi, ko dve sili delujejo v določeni smeri?
+5: Kaj se zgodi, ko 2 sili delujejo na isti predmet?
+
+Sampling Outputs:
+1: Kaj so vektorske količine na sil?
+2: Kaj so bile v primeru, da so sil razvrščene kot vektorske količine?
+3: Kakšen primer je enodimenzional?
+4: Kaj se zgodi, ko dva človeka vlečeta na isti vrvi, vendar ne veste o njihovi velikosti, da se na isti  предметu?
+5: V katero smer sta dve sili delujoče na isti predmet?
+
+--------------------------------------------------
+
+Paragraph:
+Prve stavbe univerze v Chicagu, ki sestavljajo tisto, kar je zdaj znano kot Glavni Quadrangles, so bile del „master načrta“, ki sta ga zasnovala dva fiduciarja Univerze v Chicagu in načrtovala Chicago arhitekt Henry Ives Cobb. Glavni Quadrangles je sestavljen iz šestih kvadratov, vsak obdan s stavbami, ki mejijo na en večji štirikotnik. Stavbe glavnih Quadrangles so zasnovali Cobb, Shepley, Rutan in Coolidge, Holabird &amp; Roche in druga arhitekturna podjetja v mešanici viktorijanskih gotskih in Collegiate gotskih slogov, po vzoru šol Univerze v Oxfordu. (Mitchell Tower, na primer, je po vzoru Oxford je Magdalen Tower, in univerza Commons, Hutchinson Hall, posnema Kristus Church Hall.)
+
+Beam Outputs:
+1: Kdo je zasnoval stavbe glavnih Quadrangles?
+2: Kdo je zasnoval prve stavbe v Chicagoju?
+3: Kdo je zasnoval prve stavbe univerze?
+4: Katera stavba je zdaj znana kot glavni quadriangles?
+5: Kdo je zasnoval prve stavbe univerze v Chicago?
+
+Sampling Outputs:
+1: Katera stavba je bila zasnovana po načrtju številnih metrov in štirih metrov v mestu?
+2: V kateri arhitekturi so bil začrt čeh dva fiduciarja Univerze v Chicagu?
+3: Katera oblika stavb je zdaj našla Cobb?
+4: Kaj so zasnovali dva fiduciarja Univerze v Chicagu, in zasnovala stavbe vsak obdan, kar se mejijo na en večji štirikotnik?
+5: Kakšno obliko oblik je bil zdaj znan kot svet?
+
+--------------------------------------------------
+
+Paragraph:
+Ko je Céloronova ekspedicija prispela v Logstown, so Indijanci na tem območju obvestili Céloron, da so lastniki Ohio Country in da bodo trgovali z Britanci ne glede na Francoze. Céloron je nadaljeval južno, dokler njegova odprava ni dosegla sotočja Ohia in Miamija, ki sta ležala južno od vasi Pickawillany, doma miamijskega poglavarja, znanega kot „Stari Britanec“. Céloron je grozil „Staremu Britancu“ s hudimi posledicami, če bo še naprej trgoval z Britanci. Stari Britanec je prezrl opozorilo. Céloron se je novembra 1749 vrnil v Montreal.
+
+Beam Outputs:
+1: Kdaj je Céloronova ekspedicija prispela v logstown?
+2: Kdaj se je Céloron vrnil v Montreal?
+3: Kdaj je Céloronova ekspedicija prispela vlogstown?
+4: Kdaj je Céloron vrnil v Montreal?
+5: Kdaj je Céloronova ekspedicija prispela?
+
+Sampling Outputs:
+1: Kaj so Indijanci obvestiti Céloronu, da bodo trgovali z Britanci?
+2: Kdo je ustanovil Céloronova ekspedicija vlogstown, ohio in miami?
+3: Kdo je vprašal Célorone, da bi se vrnil v Montreal, ZDA?
+4: Kdaj se Céloronova ekspedicija prišla v logstown, Ohio?
+5: Kako so Indijanci zagotovili, da Céloronova ekspedicija ne bo trgoval z Britanci?
+
+--------------------------------------------------
+
+Paragraph:
+Razlaga islama, ki jo je spodbujalo to financiranje, je bila stroga, konzervativna savdska vahabizem ali salafizem. V svoji najstrožji obliki je pridigal, da bi morali muslimani ne le „vedno nasprotujejo“ neverniki „v vseh pogledih“, ampak jih „sovražite za svojo vero... zaradi Alaha,“ da je demokracija „odgovorna za vse grozne vojne 20. stoletja,“ da so bili šiiti in drugi muslimani, ki niso Wahabi, neverniki, itd. Medtem ko je to prizadevanje nikakor spremenilo vse, ali celo večina muslimanov vahabistične interpretacije islama, je veliko storila, da bi preplavila bolj zmerne lokalne razlage in postavila savdsko interpretacijo islama kot „zlati standard“ religije v mislih nekaterih ali mnogih muslimanov.
+
+Beam Outputs:
+1: Katera razlaga je bila stroga, Konservativna savdska vahabistične interpretacije islama?
+2: Katera razlaga islama je spodbujala financiranje?
+3: Katera razlaga islama je bila stroga?
+4: Katera razlaga islama je bila stroga, Konservativna savdska vahabistične interpretacije islam?
+5: Katera razlaga islama je bila stroga, konzervativna savdska vahabistične interpretacije islam?
+
+Sampling Outputs:
+1: Katera religija je prišla v stoletju 20. stoletja?
+2: Kdaj so muslimani priljubljeni v savezu, ki bi bili nasprotljivi vernikom?
+3: Kaj je bilo strogo v primerih musulmana?
+4: Kateri zgodovinski razlog je vzpostavil, da muslimani ne nasprotujejo nevernikom v vseh pogledih?
+5: Kaj je bilo strogoso, ki je povzročilo, da muslimani niso bili vahabistični muslimani?
+
+--------------------------------------------------
+
+Paragraph:
+Najosnovnejša metoda preverjanja primarnosti danega celega števila n se imenuje poskusna delitev. Ta rutina je sestavljena iz delitve n z vsakim celim številom m, ki je večje od 1 in manjše ali enako kvadratnemu korenu n. Če je rezultat katerega koli od teh oddelkov celo število, potem n ni praštevilo, sicer je praštevilo. Če je sestavljen (z a in b) 1, potem je eden od dejavnikov a ali b nujno kvečjemu. Na primer, so poskusne delitve za m = 2, 3, 4, 5 in 6. Nobena od teh številk ne deli 37, zato je 37 prazna. Ta rutina se lahko izvaja učinkoviteje, če je popoln seznam praštevil do znanih, potem je treba preveriti samo tiste m, ki so praštevilni. Za preverjanje primarnosti 37 so na primer potrebne le tri enote (m = 2, 3 in 5), glede na to, da sta 4 in 6 sestavljeni.
+
+Beam Outputs:
+1: Kaj je najosnovnejša metoda preverjanja primarnosti?
+2: Kaj je najosnovnejša metoda preverjanja primarnosti do znanih?
+3: Kaj je najosnovnejša metodo preverjanja primarnosti?
+4: Kaj je najosnovnejša metoda preverjanja primarnosti n?
+5: Kdaj je potrebna poskusna delitev?
+
+Sampling Outputs:
+1: Kaj je poskusna delitev?
+2: Kaj je najosnovnejša metodo preverjanja primarnosti danega celega števila?
+3: Kaj je primerna metoda preverjanja primarnosti danega celega števila n?
+4: Na primer, ki je poskusna delitev sestavljena z vsakim celim številom m, se imenuje, ki je morebiti izvedena?
+5: Kdaj je poskusna delitev, ki jo ne je potrebna s poskusne delitve?
+
+--------------------------------------------------
+
+Paragraph:
+Hamas je še naprej pomemben akter v Palestini. Med letoma 2000 in 2007 je bilo ubitih 542 ljudi v 140 samomorilskih bombnih napadih ali „martirdomskih operacijah“. Na parlamentarnih volitvah januarja 2006 – prvi korak v političnem procesu – je dobil večino sedežev, leta 2007 pa je PLO izgnal iz Gaze. Muslimani so pohvalili Hamasa, ker je Izrael izgnal iz Gaze, vendar so ga kritizirali, ker v vojnah v Gazi 2008–9 in 2014 ni izpolnil svojih zahtev kljub velikemu uničenju in znatnim izgubam življenj.
+
+Beam Outputs:
+1: Koliko ljudi je bilo ubitih v samomorilskih bombnih napadih?
+2: Koliko ljudi je bilo ubito v samomorilskih bombnih napadih?
+3: Koliko ljudi je bilo ubitih v samomorilskih bombnih napadih leta 2000?
+4: Koliko samomorilskih bombnih napadov je bilo ubito v palestini?
+5: Koliko ljudi je bilo ubitih v samomorilskih bombnih napadih leta 2007?
+
+Sampling Outputs:
+1: Koliko ljudi je bilo ubito v samomorilskih bombnih napadih in samomorilskih bombeh?
+2: Kje je bil drugi korak v demokratičnem procesu?
+3: Kakšen je bil prvi korak v politiki leta 2007?
+4: Kaj je zdaj na parlamentarnih volitvah leta 2006?
+5: Kdaj so muslimani začeli vojne v Gazi 2008?
+
+--------------------------------------------------
+
+Paragraph:
+Ladner je pokazal, da v primeru P-L NP obstajajo težave v NP, ki niso niti v P niti NP-popolne. Takšne težave imenujemo NP-vmesne težave. Problem z izomorfizmom grafa, diskretni problem logaritma in problem celoštevilske faktorizacije so primeri problemov, za katere se domneva, da so NP-vmesni. To so nekatere od redkih težav z NP, za katere ni znano, da so v P ali da so NP-popolne.
+
+Beam Outputs:
+1: Kdo je pokazal, da v primeru p-l-np obstajajo težave, ki niso niti v P ali v NP popolne?
+2: Kdo je pokazal, da v primeru p-l-np obstajajo težave, ki niso niti v P ali v NP?
+3: Kaj je np-vmesna težava?
+4: Kaj je np-vmesni problem?
+5: Kaj je np-vmesno?
+
+Sampling Outputs:
+1: Kaj se imenuje, ko je problem z izomorfizmom grafa?
+2: Kaj je primer za problema z izomorfizmom grafa?
+3: Kaj je namenjen kot primer problemi v P-L NP?
+4: Kaj je npr-vmesno?
+5: Kaj so težave, za katere ne dovolj je znano, da so v P ali v NP- podprte?
+
+--------------------------------------------------
+
+Paragraph:
+Poleg Riemannove hipoteze je bilo predstavljenih še veliko več domnev, ki se vrtijo o praštevilih. Pogosto imajo osnovno formulacijo, mnogi od teh domnev so prestali dokaz že desetletja: vsi štirje problemi Landaua iz leta 1912 so še vedno nerešeni. Ena od njih je Goldbachova domneva, ki trdi, da je vsako celo število n večje od 2 mogoče zapisati kot vsoto dveh praštevil. Od februarja 2011[posodobitev] je bila ta domneva preverjena za vse številke do n = 2· 1017. Šibkejše izjave od tega so bile dokazane, na primer Vinogradovov izrek pravi, da se lahko vsako dovolj veliko liho celo število zapiše kot vsota treh praštevil. Chenov izrek pravi, da se lahko vsako dovolj veliko enakomerno število izrazi kot vsota praštevil in polprima, produkta dveh praštevil. Prav tako lahko vsako celo število zapišemo kot vsoto šestih praštevil. Veja teorije števil, ki preučuje takšna vprašanja, se imenuje teorija aditivnih števil.
+
+Beam Outputs:
+1: Kaj je Goldbachova domneva?
+2: Kaj je Goldbachova domneva, ki trdi, da je vsaka dovolj veliko enakomerno število?
+3: Kaj je Goldbachova domneva, ki trdi, da je vsaka celo število n večje od 2?
+4: Kaj je Goldbachov izrek?
+5: Kaj je Goldbachova domneva o številkah?
+
+Sampling Outputs:
+1: Kaj se imenuje domneva, ki je povedala, da se število n = 2 1017?
+2: Kdo je ustvaril prvotno formulacijo?
+3: Kaj je Goldbachova domneva o številkah?
+4: Katera domneva verjahne, da je vsaka celo število n večje od 2?
+5: Kaj je Goldbachov izrek?
+
+--------------------------------------------------
+
+Paragraph:
+Čeprav ni bilo zgodovinskih povezav z Bližnjim vzhodom, je bila Japonska najbolj odvisna od arabske nafte. 71 % uvožene nafte je leta 1970 prišlo z Bližnjega vzhoda. 7. novembra 1973 sta savdska in kuvajtska vlada Japonsko razglasili za „neprijazno“ državo, da bi jo spodbudili k spremembi politike nevključevanja. Decembra je prejela 5-odstotno zmanjšanje proizvodnje, kar je povzročilo paniko. 22. novembra je Japonska dala izjavo, „da se Izrael umakne z vseh ozemelj iz leta 1967, zagovarja palestinsko samoodločbo in grozi, da bo ponovno razmislila o svoji politiki do Izraela, če Izrael ne bo sprejel teh predpogojev“. Do 25. decembra je Japonska veljala za arabsko prijazno državo.
+
+Beam Outputs:
+1: Kdaj je Japonska razglasila za arabsko prijazno državo?
+2: Kdaj se je Japonska razglasila za arabsko prijazno državo?
+3: Kdaj je bila Japonska razglasila za arabsko prijazno državo?
+4: Kdaj je Japonska razglasila za arabsko prijavno državo?
+5: Kdaj se je Japonska razglasila za arabsko prijavno državo?
+
+Sampling Outputs:
+1: Koliko uvožene nafte je priшло v Japonsko leta 1970?
+2: Kdaj so se Japonska razglasili za neprijatelju?
+3: V katerem letu je Japonska bila za neuvrično državo?
+4: Kdaj se je Japonska razglasila za neuvrhodno državo?
+5: Kako se je Japonska razglasila za nekateri arabski predsednik v Washingtonu?
+
+--------------------------------------------------
+
+Paragraph:
+Varšavska mešanica arhitekturnih slogov odraža burno zgodovino mesta in države. Med drugo svetovno vojno je bila Varšava uničena z bombardiranjem in načrtovanim uničenjem. Po osvoboditvi se je začela obnova kot v drugih mestih komunističnega PRL. Večina zgodovinskih stavb je bila temeljito obnovljena. Nekatere stavbe iz 19. stoletja, ki so bile ohranjene v razumno rekonstruktivni obliki, so bile kljub temu izkoreninjene v petdesetih in šestdesetih letih prejšnjega stoletja (npr. palača Leopold Kronenberg). Postavljeni so bili množični stanovanjski bloki z osnovno zasnovo, ki je značilna za države vzhodnega bloka.
+
+Beam Outputs:
+1: Kdaj je bila varšavska mešanica arhitekturnih slogov uničena?
+2: V katerem letu je bila varšavska mešanica arhitekturnih slogov?
+3: Kdaj je bila varšavska mešanica arhitekturnih slogov?
+4: V katerem letu je bila varšava uničena?
+5: Kdaj je bila varšava uničena?
+
+Sampling Outputs:
+1: Katera oblika je bila postavljena v petdesetih letih prejšnjega stoletja?
+2: Kakšna je bila številna zasnova na palaci Leopolda Kronenbergja?
+3: Kdaj se je unica varšava?
+4: Koliko stavb je bilo obnovljeno v petdesetih letih prejšnjega stoletja?
+5: Kdaj je bila varšava uničena?
+
+--------------------------------------------------
+
+Paragraph:
+2013 Economics Nobelov nagrajenec Robert J. Shiller je dejal, da je vse večja neenakost v Združenih državah Amerike in drugod najpomembnejši problem. Vse večja neenakost škoduje gospodarski rasti. Visoka in vztrajna brezposelnost, v kateri se neenakost povečuje, negativno vpliva na posledično dolgoročno gospodarsko rast. Brezposelnost lahko škoduje rasti ne le zato, ker je zapravljanje virov, ampak tudi zato, ker ustvarja prerazporeditvene pritiske in posledična izkrivljanja, ljudi spodbuja k revščini, omejuje likvidnost, ki omejuje mobilnost delovne sile, in spodkopava samospoštovanje, ki spodbuja socialno dislokacijo, nemire in konflikte. Gospodarske rasti podpirajo politike, katerih cilj je obvladovanje brezposelnosti in zlasti zmanjšanje njenih učinkov, povezanih z neenakostjo.
+
+Beam Outputs:
+1: Kdo je dejal, da je vse večja neenakost v Združenih državah?
+2: Kdo je dejal, da je vse večja neenakost v Združenih državah in drugod najpomembnejši problem?
+3: Kdo je dejal, da je vse večja neenakost v Združenih državah Amerika in drugod najpomembnejši problem?
+4: Kdo je dejal, da je vse večja neenakost v Združenih državah in drugod najpomembnejši problemi?
+5: Kdo je dejal, da je vse večja neenakost v Združenih državah Amerika in drugod najpomembnejši problemi?
+
+Sampling Outputs:
+1: Katera vrsta ekonomije so omogočale, da bi vse večja neenakost zmanjšala za rast, ampak so omogočile omejitev?
+2: Kaj se zgodi, ko se neenakost imenuje?
+3: Kdo je dejal, da neenakost ne vključuje v druge učinke s prihodom?
+4: Kaj se je imenovalo nobelov nagrajenc, ki dejal, da so s problemi brezposelnosti in neenakostjo poročali za?
+5: Kdo je dejal, da se vse večja neenakost zmanjša?
+
+--------------------------------------------------
+
+Paragraph:
+V poznem 17. stoletju je Robert Boyle dokazal, da je zrak potreben za zgorevanje. Angleški kemik John Mayow (1641–1679) je to delo izpopolnil tako, da je pokazal, da ogenj potrebuje le del zraka, ki ga je imenoval spiritus nitroaereus ali samo nitroaereus. V enem poskusu je ugotovil, da je dajanje miške ali osvetljene sveče v zaprto posodo nad vodo povzročilo, da se je voda dvignila in zamenjala eno do štirinajstino prostornine zraka, preden je ugasnila predmete. Iz tega je sklepal, da se nitroaereus porabi tako pri dihanju kot pri zgorevanju.
+
+Beam Outputs:
+1: Kdo je dokazal, da je zrak potreben za zgorevanje?
+2: V katerem letu je Robert Boyle dokazal, da je zrak potreben za zgorevanje?
+3: Kdo je dokazal, da je nitroaereus potreben za zgorevanje?
+4: V katerem letu je Robert Boyle dokazal, da je zrak potreben pri dihanju?
+5: V katerem letu je Robert Boyle dokazal, da je zrak potreben?
+
+Sampling Outputs:
+1: Kako visoko je bilo vetrovno vetrovno vetrovno zaradi ventilatorja?
+2: Kdo je ugotovil, da voda potrebuje čim višji volumen zraka?
+3: Na katerem mestu je John Mayow dostril, da se je zrak potrebil za zgorevanje?
+4: Kaj je bila zadnji korake, v katerem letu je John Mayow dokazal, da je zrak potreben?
+5: V katerem letu je John Mayow dokazal, da je ogenj potreben za zgorevanje?
+
+--------------------------------------------------
+
+Paragraph:
+Ren izhaja iz Bodenskega jezera, teče na splošno proti zahodu, kot Hochrhein, prečka Renske slapove in se mu pridruži njen glavni pritok, reka Aare. Aare več kot podvoji izpust vode Rena, v povprečju skoraj 1 000 m³/s, in zagotavlja več kot petino izpusta na nizozemski meji. Aare vsebuje tudi vode iz 4,274 m vrha Finsteraarhorn, najvišje točke porečja. Ren približno tvori nemško-švicarsko mejo od Bodenskega jezera z izjemami kantona Schaffhausen in delov kantonov Zürich in Basel-Stadt, dokler se ne zavije proti severu pri tako imenovanem kolenu Renu v Baslu in zapusti Švico.
+
+Beam Outputs:
+1: V katerem mestu se imenuje reka Aare?
+2: V katerem mestu se imenuje reka Aare?
+3: V katerem mestu se imenuje ren?
+4: V katerem mestu je Ren?
+5: V katerem mestu je ren?
+
+Sampling Outputs:
+1: Katera prava je uporabna za ločitev tekme rena v Nemški- Švico?
+2: Kdaj se imenuje red ren?
+3: Kdaj se Ren prenaša?
+4: Koliko vode so narejala Ren?
+5: Kje se skriva reneski pritok?
+
+--------------------------------------------------
+
+Paragraph:
+V regiji živi približno 2,5 milijona vrst žuželk, več deset tisoč rastlin ter približno 2.000 ptic in sesalcev. Do danes je bilo v regijo znanstveno razvrščenih vsaj 40.000 rastlinskih vrst, 2 200 rib, 1294 ptic, 427 sesalcev, 428 dvoživk in 378 plazilcev. Ena od petih vrst ptic na svetu živi v deževnih gozdovih Amazonke, ena od petih vrst rib pa živi v amazonskih rekah in potokih. Znanstveniki so samo v Braziliji opisali med 96.660 in 128.843 nevretenčarjev.
+
+Beam Outputs:
+1: Koliko vrst ptic je bilo v regiji Amazonke?
+2: Koliko vrst ptic je bilo v Amazonski regiji?
+3: Koliko ptic je bilo v regiji Amazonke?
+4: Koliko vrst ptic je v regiji Amazonke?
+5: Koliko vrst ptic je bilo v Braziliji?
+
+Sampling Outputs:
+1: Kakšen število vrst ptic so v brazilskem regiji?
+2: V kakšni regiji je živele številne ptic?
+3: Kje živi ptica in sesalca?
+4: Koliko ptic je v regiji Amazonke?
+5: Kje živi ena od petih vrst ptic?
+
+--------------------------------------------------
+
+Paragraph:
+Sodobni testi primalnosti za splošna števila n se lahko razdelijo na dva glavna razreda, verjetnost (ali „Monte Carlo“) in deterministične algoritme. Deterministični algoritmi zagotavljajo način, da se prepričamo, ali je dana številka prazna ali ne. Na primer, poskusna delitev je deterministični algoritem, ker bo, če bo pravilno izveden, vedno identificiral praštevilko kot praštevilko in sestavljeno število kot sestavljeno. Verjetnostni algoritmi so običajno hitrejši, vendar ne dokazujejo, da je število praštevilo. Ti preskusi temeljijo na delno naključnih preskusih določenega števila. Na primer, dani preskus lahko prestane ves čas, če se uporabi za praštevilo, vendar le z verjetnostjo p, če se uporabi za sestavljeno število. Če ponovimo test n krat in vsakič preidemo, potem je verjetnost, da je naše število sestavljeno, 1/(1-p)n, ki se eksponentno zmanjša s številom testov, tako da smo lahko tako prepričani, kot želimo (čeprav nikoli ne povsem prepričani), da je število praštevilo. Po drugi strani pa, če test kdaj ne uspe, potem vemo, da je število sestavljeno.
+
+Beam Outputs:
+1: Kdaj je splošna števila n sestavljena?
+2: Kaj je splošna števila n?
+3: Kdaj je splošna števila n prestavljena?
+4: Kaj je splošna števila n, ki je sestavljena?
+5: Kaj je splošna števila n, ki je sestavljeno?
+
+Sampling Outputs:
+1: Kaj je primer primerja, da se lahko uporabi za sestavljeno število?
+2: Kaj je splošno število n, ko se je preskusil, vendar ne velja?
+3: Kakšna je primerna matematika v testih primalnosti?
+4: Kdaj se je uporabljena splošna števila n, potem se imenuje?
+5: Kdaj skušajo sodobni test primalnosti za splošno število preidemo, potem je verjetnost nižja?
+
+--------------------------------------------------
+
+Paragraph:
+Med sredino eocena se domneva, da je bila odvodna kotlina Amazonke razdeljena vzdolž sredine celine z Purusovim lokom. Voda na vzhodni strani je tekla proti Atlantiku, medtem ko je proti zahodu voda tekla proti Pacifiku čez kotlino Amazonas. Ko so gore Andi narasle, je bila ustvarjena velika kotlina, ki je obdajala jezero; zdaj znan kot Solimões Basin. V zadnjih 5–10 milijonih let je ta nabirajoča voda prodrla skozi Purus Arch in se pridružila vzhodnemu toku proti Atlantiku.
+
+Beam Outputs:
+1: Kdaj je bila odvodna kotlina Amazonke razdeljena vzdolž celine z Purusovim lokom?
+2: Kdaj je bila odvodna kotlina Amazonke razdeljena vzdolž celine z Purusovim lokom?
+3: Kdaj je bila odvodna kotlina Amazonke razdeljena vzdolž celine z purusovim lokom?
+4: Kdaj je bila odvodna kotlina Amazonke razdeljena?
+5: Kdaj je bila odvodna kotlina Amazonke razdeljena?
+
+Sampling Outputs:
+1: Kdaj se je pojavil solimões basin?
+2: Kaj je bila ustvarjena pod Atlantikom?
+3: V kateri celine je bila razdeljena odvodna kotlina Amazonke?
+4: Kdaj so gore indi narasle?
+5: Kaj je bila na območju s podaljo, da je bila kotlina?
+
+--------------------------------------------------
+
+Paragraph:
+Satelitska storitev BSkyB neposredno na domu je bila leta 2010 na voljo v 10 milijonih domov, prva evropska platforma plačljive televizije, da bi dosegla ta mejnik. Potrjuje, da je dosegel svoj cilj, izdajatelj je dejal svoj doseg v 36 % gospodinjstev v Veliki Britaniji predstavlja občinstvo več kot 25 m ljudi. Cilj je bil prvič najavljen avgusta 2004, od takrat pa so se dodatne 2,4 milijona strank naročile na storitve podjetja BSkyB neposredno na domu. Komentatorji medijev so razpravljali o tem, ali bi lahko to številko dosegli, saj se je rast števila naročnikov drugje v Evropi umirila.
+
+Beam Outputs:
+1: Koliko strank je bilo naročile na storitve BSKYB?
+2: Koliko strank je bilo naročile na BSKYB?
+3: Koliko strank je naročilo na storitve BSKYB?
+4: Koliko strank je naročilo na BSKYB?
+5: Koliko strank je naročilo na bskyb?
+
+Sampling Outputs:
+1: Koliko strank naročilo na BSKYB?
+2: Katera evropska platforma plačljive TV je bila na voljo v 10 milijonih domov?
+3: Kaj je BSKYB postal prva evropska platforma plačljive televisije?
+4: Koliko strank naročil bskyb?
+5: Kaj je bilo prvič najavljen avgusta 2004?
+
+--------------------------------------------------
+
+Paragraph:
+To živahno in kulturno raznoliko področje maloprodajnih podjetij in rezidenc je doživelo prenovo po znatnem upadu v poznih šestdesetih in sedemdesetih letih prejšnjega stoletja. Po desetletjih zanemarjanja in primestnega poleta je oživljanje soseske sledilo ponovnemu odprtju stolpnega gledališča v poznih sedemdesetih letih prejšnjega stoletja, ki je takrat prikazalo drugo in tretje tekaške filme, skupaj s klasičnimi filmi. Roger Rocka’s Dinner Theater &amp; Good Company Igralci so odprli tudi v bližini leta 1978, [navedba potrebna] na Olive and Wishon Avenues. Fresno rojena Audra McDonald je nastopila v vodilnih vlogah Evita in The Wiz v gledališču, medtem ko je bila dijakinja. McDonald je kasneje postal vodilni izvajalec na Broadwayu v New Yorku in nagrajena igralka Tonyja. Tudi v okrožju Tower je Good Company Players’ 2. vesoljsko gledališče.
+
+Beam Outputs:
+1: V katerem letu je Roger Rocka's Dinner Theater in Good Company Igralci odprli?
+2: V katerem letu je Roger Rocka's Dinner Theater in Good Company igralci odprli?
+3: V katerem letu je Roger Rocka's Dinner Theater in Good Company igralci?
+4: V katerem letu je Roger Rocka's Dinner Theater in Good Company igrali?
+5: V katerem letu je Roger Rocka's Dinner Theater &amp Good Company igralci?
+
+Sampling Outputs:
+1: Kako se je začelo novo vesoljske gledališče?
+2: Katera industrija je igralna Audra McDonaldja?
+3: Kdaj je Roger Rocka's Dinner Theater in Good Company Igralci prekinili?
+4: Kakšen je bil dogodek, ki je bil v začetek drugega števila tekaških filmov?
+5: Koliko vesoljnih filmov je imela Audra McDonald?
+
+--------------------------------------------------
+
+Paragraph:
+Od 7500 yr, razmere s plimovanjem in tokovi, zelo podobne sedanjim. Stopnje dviga morske gladine so se do zdaj znižale, da bi lahko naravna sedimentacija z Renom in obalni procesi skupaj nadomestili preseganje morske gladine; v zadnjih 7000 letih je bila obalna črta približno na isti lokaciji. V južnem Severnem morju se zaradi tektonskega pogrezanja gladina morja še vedno dviguje, in sicer približno 1–3 cm (0,39–1,18 v) na stoletje (1 meter ali 39 palcev v zadnjih 3000 letih).
+
+Beam Outputs:
+1: V katerem letu je bila obalna črta približno na isti lokaciji?
+2: Kdaj je bila obalna črta približno na isti lokaciji?
+3: V katerem letu je bila obalna črta na isti lokaciji?
+4: Kdaj je bila obalna črta približno na isti lokaciji v zadnjih 7000 letih?
+5: Kdaj je bila obalna črta na isti lokaciji?
+
+Sampling Outputs:
+1: Koliko je bila obalna črta pri zadnjih 7000 letih?
+2: V katerem stoletju se imenuje isti letak v Severnem Severnem morju?
+3: Kdaj so naravna sedimentaciji z Renom in obalni procesi skupaj nadomestili preseganje gladine morja?
+4: V katerem letu se je zdaj višje?
+5: Kaj so stopnje dviga morske gladine znižale?
+
+--------------------------------------------------
+
+Paragraph:
+Seveda imajo nekateri razredi kompleksnosti zapletene opredelitve, ki ne spadajo v ta okvir. Tipičen razred kompleksnosti ima tako opredelitev, kot je naslednja:
+
+Beam Outputs:
+1: Kateri razred kompleksnosti ima zapletene opredelitve?
+2: Kateri razred kompleksnosti ima zapletene opredelitve, ki ne spadajo v okvir?
+3: Kateri razred kompleksnosti ima zapleteno opredelitev?
+4: Kateri razred kompleksnosti ima zapletene opredelitve, kot je?
+5: Kateri razred kompleksnosti ima zapletene opredelitve kot?
+
+Sampling Outputs:
+1: Kaj se ne naredi v klasične kompleksnosti?
+2: Kateri šolski predmet ima tako opredelitev kot s pomočjo, kot s pomočjo?
+3: Kdaj je v obliki kompleksnosti zapleteno opredelitev?
+4: Katera klasična skupina kompleksnosti ima zelo zapletene opredelitve?
+5: Kakšne opredelitve ima kateri razred kompleksnosti?
+
+--------------------------------------------------
+
+Paragraph:
+Howard Zinn je zapisal: &quot;Mogoče je velikokrat, ko se protestniki odločijo, da gredo v zapor, kot način nadaljevanja protesta, kot način, da svoje rojake opomnijo na krivico. Toda to je drugače od ideje, da morajo iti v zapor kot del pravila, povezanega z državljansko neposlušnostjo. Ključna točka je, da se duh protesta ohrani do konca, ne glede na to, ali je to storjeno tako, da ostane v zaporu ali se mu izognemo. Sprejetje zaporne kazni kot pristop k &quot;pravilom&quot; pomeni, da se nenadoma preide v duh podrejenosti, da ponižuje resnost protesta... Zlasti bi bilo treba odpraviti neokonservativno vztrajanje pri priznanju krivde.“
+
+Beam Outputs:
+1: Kdo je povedal, da protestnik mora iti v zapor kot del prava?
+2: Kdo je povedal, da protestnik mora iti v zapor kot del pravila?
+3: Kdo je povedal, da protestnik mora iti v zapor kot pristop k pravilom?
+4: Kdo je povedal, da protestnik mora iti v zapor kot pristop k pravilu?
+5: Kdo je povedal, da protestnik mora iti v zapor?
+
+Sampling Outputs:
+1: Kdo je povedal, da se protestni protestni protest ohranijo do konca?
+2: Kdo je povedano, da protestnik mora iti v zapor kot del prava?
+3: V katerem letu se protestnik odloči, da gredo v zapor kot način nadaljevanja protesta kot del prava?
+4: Katera je bila ključna točka, ki se je osredotna na to, da protestnika gredo v zapor kot način nadaljevanja protesta?
+5: Kaj je prišel Howard Zinn?
+
+--------------------------------------------------
+
+Paragraph:
+Obdobje imperializma, časovno obdobje, ki se je začelo okoli leta 1700, je videlo (običajno evropske) industrializirane narode, ki so se ukvarjali s procesom kolonizacije, vplivanja in priključevanja drugih delov sveta, da bi pridobili politično moč.[potrebna je citacija] Čeprav imperialistične prakse obstajajo že tisoče let, se izraz „starost imperializma“ na splošno nanaša na dejavnosti evropskih sil od začetka 18. stoletja do sredine 20. stoletja, na primer „velika igra“ v perzijskih deželah, „Scramble for Africa“ in „politika odprtih vrat“ na Kitajskem.
+
+Beam Outputs:
+1: Kdaj se je začelo obdobje imperializma?
+2: V katerem letu se je začelo obdobje imperializma?
+3: Kdaj je začelo obdobje imperializma?
+4: Kdaj se je začelo obdobje imperializma?
+5: V katerem letu se je začelo obdobje imperialista?
+
+Sampling Outputs:
+1: V katerem letu je bila evropska kolonija, ki se je ukvarjala s procesom kolonizacije in priključevanja drugih delov света?
+2: Kaj se je zgodilo v leta 1600?
+3: Kakšen je bil proces kolonizacije in kolonizacije, ki se je uporabilo za priključevanje drugih delov света, da bi pridobili politiksko moč?
+4: Katera stoletja je začela vojna?
+5: Kateri zgled se je uporabil od leta 1800 na splošno?
+
+--------------------------------------------------
+
+Paragraph:
+Katoliška cerkev v Franciji in mnogi njeni člani so nasprotovali Huguenotom. Nekateri Huguenotovi pridigarji in kongreganti so bili napadeni, ko so se poskušali srečati za čaščenje. Višina tega preganjanja je bil pokol na dan svetega Bartolomeja, ko je bilo ubitih 5.000 do 30.000 ljudi, čeprav so za to obstajali tudi temeljni politični razlogi, saj so bili nekateri Huguenotovi plemiči, ki so poskušali vzpostaviti ločene centre oblasti v južni Franciji. Proti francoskim katoličanom so imeli Huguenots lastno milico.
+
+Beam Outputs:
+1: Katera cerkev je bila nasprotovala Huguenotu?
+2: Katera cerkev je bila proti Huguenotu?
+3: Katera cerkev je bila nasprotovala Huguenotom?
+4: Kdaj so Huguenotovi pridigarji in kongresanti napadeni?
+5: Kdaj so Huguenotovi pridigarji in kongresanti nasprotovali?
+
+Sampling Outputs:
+1: Kaj so bile za velike omejitve?
+2: Katera cerkev je bila proti Hughnotom?
+3: Koliko ljudi je bilo ubito v njihoj oblasti v Franciji, ko je bil ustvarjen na dan svetega Bartolomeja?
+4: Kakšen bi bil število posameznih pridigarjev in kongresov, ki so bili napadeni, ko so se poskušali za čaščenje?
+5: Kaj je bilo o začetnem mestu v letu Bartolomeja?
+
+--------------------------------------------------
+
+Paragraph:
+Leta 1781 je James Watt patentiral parni stroj, ki je proizvajal neprekinjeno rotacijsko gibanje. Wattovi 10 konjski motorji so omogočili pogon širokega nabora proizvodnih strojev. Motorji se lahko namestijo kjerkoli, kjer je mogoče dobiti vodo in premog ali lesno gorivo. Do leta 1883 so motorji, ki bi lahko zagotovili 10.000 KM, postali izvedljivi. Stacionarni parni stroj je bil ključni sestavni del industrijske revolucije, kar je tovarnam omogočilo, da odkrijejo, kje ni bila na voljo vodna moč. Atmosferski motorji Newcomen in Watt so bili veliki v primerjavi s količino energije, ki sta jo proizvedla, vendar so bili visokotlačni parni stroji dovolj lahki, da so se lahko uporabljali za vozila, kot so vlečni motorji in železniške lokomotive.
+
+Beam Outputs:
+1: Kdaj je James Watt patentiral parni stroj?
+2: Kdo je patentiral parni stroj?
+3: Kdaj je James Watt patentiral parni motor?
+4: Kaj je James Watt patentiral?
+5: Kdaj je James Watt patentiral motor?
+
+Sampling Outputs:
+1: Kateri motor je bilo omogočen, da bi uporabljen v prvem letu 1779?
+2: Kateri motor je bila na voljo za motorju, ki je uporabljal Newcomen in Watt?
+3: Kako se je zgodilo, da je James Watt patentiral parni stroj?
+4: Kaj je James Watt povedal, da je pogon prekinjeno rotacijsko gibanje?
+5: V katerem letu je James Watt patentiral parni stroj?
+
+--------------------------------------------------
+
+Paragraph:
+Pravno lahko šole v Indiji vodijo samo neprofitni skladi in družbe. Izpolnjevati bodo morala številna merila v zvezi z infrastrukturo in človeškimi viri za pridobitev priznanja (oblika dovoljenja) od vlade. Kritiki tega sistema poudarjajo, da to vodi v korupcijo šolskih inšpektorjev, ki preverjajo skladnost, in k manjšemu številu šol v državi, ki ima največjo odraslo nepismeno populacijo na svetu. Čeprav uradni podatki ne zajemajo dejanskega obsega zasebnega šolanja v državi, so različne študije poročale o nepriljubljenosti vladnih šol in vse večjem številu zasebnih šol. Letno poročilo o stanju izobraževanja (ASER), ki ocenjuje ravni učenja na podeželju v Indiji, poroča o slabših akademskih dosežkih v vladnih šolah kot v zasebnih šolah. Ključna razlika med vladnimi in zasebnimi šolami je, da je medij izobraževanja v zasebnih šolah angleščina, medtem ko je to lokalni jezik v vladnih šolah.
+
+Beam Outputs:
+1: Koliko šol v Indiji ima največ odraslo nepismeno populacijo na светu?
+2: Koliko šol v Indiji ima največ odraslo nepismeno populacijo na svetu?
+3: Koliko šol v Indiji ima največ odraslo nepismeno populacijo?
+4: Koliko šol v Indiji ima največje odraslo nepismeno populacijo?
+5: Koliko šol v Indiji je vladno?
+
+Sampling Outputs:
+1: Kakšno je stanje šol?
+2: Kateri je uradni podatki, ki ne zajemajo dejanskega obsega zasebnega šolanja?
+3: Kaj je potrebno v šolske inšpektorjih?
+4: Kje je število šol, ki je v vladnih in zasebnih šolah?
+5: Kaj je osrednja razlika med vladnimi in zasebnimi šolami v Indiji?
+
+--------------------------------------------------
+
+Paragraph:
+Druga tretjina vode teče skozi Pannerdens Kanaal in se razporeja v IJssel in Nederrijn. Veja IJssel nosi eno devetino vodnega toka Rena severno v IJsselmeer (nekdanji zaliv), medtem ko Nederrijn nosi približno dve devetini toka zahodno po poti, vzporedni z Waal. V Wijk bij Duurstede pa Nederrijn spremeni svoje ime in postane Lek. Teče dlje proti zahodu, da se ponovno pridruži reki Noord v Nieuwe Maas in v Severno morje.
+
+Beam Outputs:
+1: Koliko vodnega toka se nosi skozi Pannerdens Kanaal?
+2: Koliko vodnega toka se nosi skozi Panerdens Kanaal?
+3: V katerem mestu se nosi druga tretjina vode?
+4: V katerem mestu se nosi druga tretina vode?
+5: V katerem mestu se nosi druga tretjica vode?
+
+Sampling Outputs:
+1: Kaj se nosi v Ijslo?
+2: V katerem kanalu se nekaj vode poganja v ijssel?
+3: Kakšno stanje se imenuje na prvem mestu, ko na vodni tok tekuje skozi Cornedal?
+4: Kdaj se nester je zgodil, ko se je voda prehodna?
+5: Kaj je druga tretjica vode skozi Cornwall in Watergate?
+
+--------------------------------------------------
+
+Paragraph:
+V vizualni umetnosti Normani niso imeli bogate in značilne tradicije kultur, ki so jih osvojili. V začetku 11. stoletja so vojvode začeli s programom cerkvene reforme, ki je spodbujala Cluniaško reformo samostanov in pokroviteljsko intelektualno udejstvovanje, zlasti širjenje skriptorij in rekonstrukcijo zbirke izgubljenih osvetljenih rokopisov. Cerkev so vojvode uporabljali kot združevalno silo za svojo različno vojvodino. Glavni samostani, ki so sodelovali v tej „renesansi“ Normanske umetnosti in štipendije, so bili Mont-Saint-Michel, Fécamp, Jumièges, Bec, Saint-Ouen, Saint-Evroul in Saint-Wandrille. Ti centri so bili v stiku s tako imenovano „Winchestersko šolo“, ki je usmerjala čisto karolinško umetniško tradicijo v Normandijo. V zadnjem desetletju 11. in prvega 12. stoletja je Normandija doživela zlato dobo ilustriranih rokopisov, vendar je bila kratka in glavna skriptorija Normandije je prenehala delovati po sredini stoletja.
+
+Beam Outputs:
+1: Kdaj je Normandija začela s programom cerkvene reforme?
+2: Kdaj je Normandija doživela zlato dobo ilustrairanih rokopisov?
+3: Kdaj je Normandija doživela zlato dobo?
+4: Kdo je bil glavni samostan v Normandiji?
+5: Kdaj je Normandija doživela zlato dobo ilustrarskih rokopisov?
+
+Sampling Outputs:
+1: Koliko ljudi so začeli uporabljati kriptorije v prvem desetletju 11. stoletja?
+2: Koliko samostanic je bilo Normandije v obliki kriptorij?
+3: Katere samostane so sodelovali v tej reformi?
+4: Kaj je bil osrednji urad v Normandiji?
+5: Kaj je Normandija doživela?
+
+--------------------------------------------------
+
+Paragraph:
+Funkcija zeta je tesno povezana s praštevilnimi števili. Na primer, zgoraj omenjeno dejstvo, da je neskončno veliko praštevil, je mogoče videti tudi z uporabo funkcije zeta: če bi bilo le končno veliko praštevil, potem bi (1) imel končno vrednost. Harmonična serija 1 +1/2 +1/3 +1/4 +... se razlikuje (tj. presega določeno število), zato mora biti neskončno veliko praštevil. Drug primer bogastva funkcije eta in vpogled v sodobno algebrsko teorijo števil je naslednja identiteta (Baselov problem) zaradi Eulerja,
+
+Beam Outputs:
+1: Kaj je tesno povezano s praštevilnimi števili?
+2: Kaj je tesno povezana s praštevilnimi števili?
+3: Kaj je tesno povezano s številami?
+4: Kaj je primer bogastva funkcije eta?
+5: V katerem primeru je funkcija eta tesno povezana s?
+
+Sampling Outputs:
+1: Kaj je edino ime za funkcijo eta?
+2: Kaj je tesno povezano z številami?
+3: Kaj so števili, ki so povezane z eti?
+4: Kakšno stanje je v primeru z uporabo funkcije zeta?
+5: Kakšna je tesna povezana s praštevilnimi števili?
+
+--------------------------------------------------
+
+Paragraph:
+Uvedli so kompaktne tovornjake, kot sta Toyota Hilux in Datsun Truck, sledili sta Mazda Truck (prodana kot Ford Courier) in Isuzu zgrajena Chevrolet LUV. Mitsubishi je nekaj let po naftni krizi zamenjal svoj Forte kot Dodge D-50. Mazda, Mitsubishi in Isuzu so imeli skupna partnerstva s Fordom, Chryslerjem in GM. Kasneje so ameriški izdelovalci predstavili svoje domače zamenjave (Ford Ranger, Dodge Dakota in Chevrolet S10/GMC S-15), s čimer so končali svojo politiko uvoza.
+
+Beam Outputs:
+1: Kdaj je Mitsubishi zamenjal Dodge?
+2: Kdaj je Mitsubishi zamenjal svoj forte?
+3: Kdo je zamenjal Ford Courier?
+4: Kaj je Mitsubishi zamenjal?
+5: Kdo je zamenjal Dodge?
+
+Sampling Outputs:
+1: Kaj je Mitsubishi zamenjal za Dodge?
+2: V katerem letu so mitsubishi in isuzu zamenjali svoj forte?
+3: Kaj so imela Mitsubishi in Isuzu partnerstvo?
+4: Kdo je dobavljal Dodge D50?
+5: Katere droge so uvedli mitsubishi?
+
+--------------------------------------------------
+
+Paragraph:
+Podobne opredelitve so lahko narejene za vesoljske zahteve. Čeprav sta čas in prostor najbolj znana kompleksna vira, se lahko vsak ukrep kompleksnosti obravnava kot računalniški vir. Ukrepi kompleksnosti so na splošno opredeljeni s kompleksnimi aksiomi Blum. Drugi ukrepi kompleksnosti, ki se uporabljajo v teoriji kompleksnosti, vključujejo kompleksnost komunikacije, kompleksnost vezja in kompleksnost drevesa odločanja.
+
+Beam Outputs:
+1: Kateri ukrep se uporablja v teoriji kompleksnosti?
+2: Kaj je najbolj znana kompleksna vira?
+3: Kateri ukrep je na splošno opredeljen z kompleksnimi aksiomi Blum?
+4: Kateri ukrep kompleksnosti je na splošno opredeljen z aksiomi Blum?
+5: Kateri ukrep kompleksnosti je na splošno opredeljen?
+
+Sampling Outputs:
+1: V katerem letu so najbolj znane kompleksne vire?
+2: Kaj so najbolj znane vire kompleksnosti?
+3: Katera druga oblika v kompleksnosti?
+4: Kaj se je lahko na splošno opredeljen z kompleksnimi aksiomi Blum?
+5: Kako so številne ključne skupine urejala kompleksnost?
+
+--------------------------------------------------
+
+Paragraph:
+Tretja vrsta domnev se nanaša na vidike porazdelitve praštevil. Domneva se, da obstaja neskončno veliko dvojčkov, par praštevil z razliko 2 (dvojna domneva). Polignacova domneva je krepitev te domneve, navaja, da je za vsako pozitivno celo število n neskončno veliko parov zaporednih praštevil, ki se razlikujejo za 2n. Domneva se, da obstaja neskončno veliko praštevil oblike n2 +1. Te domneve so posebni primeri Schinzelove hipoteze H. Brocardove domneve, da so med kvadrati zaporednih praštevil vedno vsaj štiri praštevil, večje od 2. Legendrejeva domneva navaja, da je praštevilo med n2 in (n +1)2 za vsako pozitivno celo število n. To izhaja iz močnejšega Cramérjevega sklepa.
+
+Beam Outputs:
+1: Katera domneva se nanaša na vidike porazdelitve praštevil?
+2: Kaj se nanaša na vidike porazdelitve praštevil?
+3: Katera vrsta domnev se nanaša na vidike porazdelitve?
+4: Katera domneva je posebna primerica Schinzelove hipoteze?
+5: Katera domneva se nanaša na vidike porazdelitve?
+
+Sampling Outputs:
+1: Koliko paro prešteje je n2
+2: Kaj je prva vrsta domnev?
+3: Katera domneva navaja, da so vidike porazdelitve praštevil med vsako negativno celo število n.?
+4: Koliko števil je med kvadrati zaporednih praštevil?
+5: Kaj imenuje tri vrste domnev?
+
+--------------------------------------------------
+
+Paragraph:
+Leta 1755 se je šest kolonialnih guvernerjev v Severni Ameriki sestalo z generalom Edwardom Braddockom, novo prispelim poveljnikom britanske vojske, in načrtovalo štirismerni napad na Francoze. Nihče ni uspel in glavno prizadevanje Braddocka je bila katastrofa; 9. julija 1755 je bil poražen v bitki pri Monongaheli in nekaj dni kasneje umrl. Britanske operacije v letih 1755, 1756 in 1757 na obmejnih območjih Pensilvanije in New Yorka niso uspele zaradi kombinacije slabega upravljanja, notranjih delitev in učinkovitih kanadskih izvidnikov, francoskih rednih sil in indijskih bojevnikov. Leta 1755 so Britanci zavzeli Fort Beauséjour na meji, ki je ločila Novo Škotsko od Akadije; kmalu zatem so ukazali izgon Akadčanov. Ukaze za deportacijo je dal William Shirley, vrhovni poveljnik Severne Amerike, brez navodil iz Velike Britanije. Akadčani so bili izgnani, tako tisti, ki so prisegli zvestobo njegovemu veličanstvu, kot tisti, ki so prisegli z orožjem. Domači Američani so bili prav tako izgnani iz svoje zemlje, da bi naredili pot za naseljence iz Nove Anglije.
+
+Beam Outputs:
+1: Kdo je bil vrhovni poveljnik Severne Amerike?
+2: Kdo je bil vrhovni poveljnik severne amerije?
+3: Kdo je bil vrhovni poveljnik Severne Americane?
+4: Kdo je bil vrhovni poveljnik Severne Америкe?
+5: Kdo je bil vrhovni poveljnik Severne Amerike, ki je naredil pot za naseljence?
+
+Sampling Outputs:
+1: Koliko kolonialnih gubernerjev so v pensilvaniji?
+2: Kdo je napovedal štirismerino napad na francoze?
+3: Katera vrsta kolonialnih vlad v Severni Kaliforniji je bila zaradi razvoja borbe v Severni Americani?
+4: Katero leto se je sedel vrhovni poveljnik severne amerije?
+5: Kdaj je bila beseda "zemi"?
+
+--------------------------------------------------
+
+Paragraph:
+Delta Ren-Meuse, najpomembnejša naravna regija Nizozemske, se začne blizu Millingen aan de Rijn, blizu nizozemsko-nemške meje z delitvijo Rena na Waal in Nederrijn. Ker Ren prispeva večino vode, se pogosto uporablja krajši izraz delta Rena. Vendar se to ime uporablja tudi za delto reke, kjer se Ren izliva v Bodensko jezero, zato je jasneje imenovati večjo delto Ren-Meuse ali celo delto Ren-Meuse-Šelda, saj se Šelda konča v isti delti.
+
+Beam Outputs:
+1: Kdaj se začne delta Ren-Meuse?
+2: Kdaj se imenuje delta Ren-Meuse?
+3: V katerem mestu se začne delta Ren-Meuse?
+4: V katerem delu je Ren-Meuse?
+5: Kdaj se začne delta Ren-Meuse-Šelda?
+
+Sampling Outputs:
+1: Kaj se začne z delta Ren-Meuse- Šelda na Waal in Nederrijn?
+2: Katera regija se začne v Millingen aan de Rijn?
+3: Kaj se začne z delitvijo Ren-Meuse?
+4: Kje se začne delo rena?
+5: Kakšne naravo je Ren-Meuse?
+
+--------------------------------------------------
+
+Paragraph:
+Številne napake lahko povzročijo potres z magnitudo 6,7+, kot je prelom San Andreas, ki lahko povzroči dogodek z magnitudo 8.0. Druge napake vključujejo prelom San Jacinto, Puente Hills Fault in Elsinore Fault Zone. USGS je objavil kalifornijsko napoved potresa v Kaliforniji.
+
+Beam Outputs:
+1: Kdaj je usgs objavil napoved potresa?
+2: Kdaj je usgs objavil potres v Kaliforniji?
+3: Kdaj je USGS objavil napoved potresa v Kaliforniji?
+4: Kdaj je USGS objavil napoved potresa?
+5: Kdaj je usgs objavil potres?
+
+Sampling Outputs:
+1: Kateri dogodek lahko prihaja iz osrb?
+2: Kdaj so se usgs zagotovili, da bi imel kalifornijsko napoved potresa?
+3: Kdaj je USPS objavil napoved potresa?
+4: Kaj se lahko pogosto imenuje potres z magnitudo 8.1?
+5: Katerakoli je bila napačen pri prelom san jacinto?
+
+--------------------------------------------------
+
+Paragraph:
+LeGrande piše, da &quot;je formulacija ene same vseobsegajoče definicije izraza izredno težka, če ne celo nemogoča. Pri pregledu obsežne literature na to temo se študent državljanske neposlušnosti hitro znajde obkrožen z labirintom semantičnih problemov in slovničnih lepot. Tako kot Alice v čudežni deželi pogosto ugotavlja, da specifična terminologija nima več (ali nič manj) pomena, kot ga namerava imeti posamezni govorec.&quot;Spodbuja razlikovanje med zakonitimi protestnimi demonstracijami, nenasilno državljansko neposlušnostjo in nasilnim civilnim neposlušnostjo.
+
+Beam Outputs:
+1: Kdo je povedal, da je formulacija ene same vseobsegajoče definicije izraza izredno težko?
+2: Kdo je povedal, da je formulacija ene same vseobsegajoče definicije izraza izredno težka?
+3: Kdo je povedal, da formule ene same vseobsegajoče definicije izraza izredno težko?
+4: Kaj je Le Grande povedal, da je formulacija ene same vseobsegajoče definicije izraza?
+5: Kdo je povedal, da je formulacija ene same vseobsegajoče definicije izraza?
+
+Sampling Outputs:
+1: Kaj je le Grande prepovedal?
+2: Katera teorija omogoča, da se študent državljanske neposlušnosti hitro znajde obkrožen?
+3: Kdo je povedal, da formule ene same vseobsegajoče definicije izraza nemogoče?
+4: Kdo je povedal, da formule ene same vseobsegajoče definicije izraza niso več, ali nič manj pogosto nemogoče?
+5: Kakšne praznuje ali čudežni deželi o tem, da je le Grande?
+
+--------------------------------------------------
+
+Paragraph:
+Normani so prišli na Škotsko, gradili gradove in ustanovili plemiške družine, ki so zagotavljale nekatere bodoče kralje, kot je Robert Bruce, in ustanovile veliko število škotskih klanov. Kralj David I. Škotski, čigar starejši brat Aleksander I. se je poročil s Sybillo Normandijo, je bil ključnega pomena pri uvajanju Normanov in normanske kulture na Škotsko, del procesa, ki ga nekateri znanstveniki imenujejo „Davidijska revolucija“. Potem ko je preživel čas na dvoru Henrika I. Anglije (poročil se je Davidovi sestri Maud Škotske), in jih potreboval, da bi se borili v kraljestvu od svojega polbrata Máela Coluima mac Alaxandairja, je moral David nagraditi mnoge z deželami. Proces se je nadaljeval pod Davidovimi nasledniki, najbolj intenzivno pod Viljem Levom. Normanski fevdalni sistem se je v različnem obsegu uporabljal za večino Škotske. Škotske družine z imeni Bruce, Gray, Ramsay, Fraser, Ogilvie, Montgomery, Sinclair, Pollock, Burnard, Douglas in Gordon, če jih naštejemo le nekaj, vključno s kasnejšo kraljevo hišo Stewart, se lahko izsledijo nazaj v Normanske prednike.
+
+Beam Outputs:
+1: Kdo je bil starejši brat, ki se je poročil s Sybillo Normandijo?
+2: Kdo je bil brat, ki se je poročil s Sybillo Normandijo?
+3: Kdo se je poročil s Sybillo Normandijo?
+4: Kdo je bil starejši brat, ki je se poročil s Sybillo Normandijo?
+5: Kdo je bil brat, ki se je poročil s Sybillom Normandijo?
+
+Sampling Outputs:
+1: Kdo je bil brat, ki se je poročil s Sybillo Normandijo?
+2: Kdaj se je imenovala nova študijska vrsta in zgodovina, ko je bil David I. ustanovljen?
+3: Kateri imenovani vrsti vlade so se zgodile pred Richardom?
+4: V katerem procesu so se uporabile številne knjige o njihih prednikih?
+5: Katera oblika se je uporabila v različnih obsegu za vse škotske igre?
+
+--------------------------------------------------
+
+Paragraph:
+Royal Geographical Society of London in druge geografske družbe v Evropi so imele velik vpliv in so lahko financirale popotnike, ki so se vrnili z zgodbami o svojih odkritjih. Te družbe so služile tudi kot prostor za popotnike, da delijo te zgodbe.Politični geografi, kot sta Friedrich Ratzel iz Nemčije in Halford Mackinder iz Velike Britanije, so podprli tudi imperializem. Ratzel je verjel, da je širitev potrebna za preživetje države, medtem ko je Mackinder podprl Britansko cesarsko širitev; ta dva argumenta sta desetletja prevladovala v disciplini.
+
+Beam Outputs:
+1: Kdo je podprl Britansko cesarsko širitev?
+2: Katera družba je podprla Britansko cesarsko širitev?
+3: Kdo je podprl Britansko cesarsko širitev v Nemčiji?
+4: Katera družba je podprla imperializem?
+5: Katere družbe so podprle imperializem?
+
+Sampling Outputs:
+1: Kaj so najpomembne razvoja popotnika v Evropi?
+2: Kdaj je bil Charles ratzel vstop?
+3: Katera država je financirala imperializem?
+4: Katere vrste geografi so podprle imperializem?
+5: Kateri politik je bil najboljši popotnik, da bi podprl Britansko cesarsko širitev?
+
+--------------------------------------------------
+
+Paragraph:
+Konzervativni raziskovalci so trdili, da dohodkovna neenakost ni pomembna, ker bi morala biti potrošnja, ne pa dohodek, merilo neenakosti, neenakost potrošnje pa je manj skrajna kot neenakost dohodka v ZDA. Will Wilkinson iz Libertarian Cato Institute navaja, da „teža dokazov kaže, da je bil prehod na neenakost potrošnje precej manj dramatičen kot povečanje dohodkovne neenakosti“, potrošnja pa je pomembnejša od dohodka. Po navedbah Johnsona, Smeedinga in Toryja je bila neenakost potrošnje leta 2001 dejansko manjša kot leta 1986. Razprava je povzeta v „Skrita blaginja revnega“ novinarja Thomasa B. Edsalla. Druge študije niso ugotovile, da je neenakost potrošnje manj dramatična kot dohodkovna neenakost gospodinjstev, študija CBO pa je ugotovila, da podatki o potrošnji gospodinjstev z visokimi dohodki ne zajemajo „porabe gospodinjstev z visokimi dohodki“, čeprav se je strinjala, da je porazdelitev potrošnje gospodinjstev bolj enaka kot dohodek gospodinjstev.
+
+Beam Outputs:
+1: Kdo je ugotovil, da je bil prehod na neenakost potrošnje manj dramatičen kot leta 1986?
+2: Katera študija je ugotovila, da je bil prehod na neenakost potrošnje manj dramatičen kot leta 1986?
+3: Kdo je ugotovil, da je bil prehod na neenakost potrošnje manj dramatičen kot leta 2001?
+4: Katera študija je ugotovila, da je bil prehod na neenakost potrošnje manj dramatičen kot leta 2001?
+5: Katera študija je ugotovila, da je bil prehod na neenakost potrošnje manj dramatičen kot ponižanje?
+
+Sampling Outputs:
+1: Kaj se imenuje, ko je neenakost potrošnje bolj dramatično kot potrošnja?
+2: Kakšne študije so ugotovile, da je bil prehod na neenakost potrošnje manj dramatičen kot leta 2001?
+3: Kdo je ugotovil, da je neenakost potrošnje pomembna kot neenakost v ZDA?
+4: Kakšen je bil prehod na neenakost potrošnje leta 2001?
+5: Kakšna je bila neenakost potrošnje v ZDA?
+
+--------------------------------------------------
+
