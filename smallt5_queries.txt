@@ -1,0 +1,1600 @@
+Paragraph:
+Kisik je v atmosferi prisoten v sledovih v obliki ogljikovega dioksida (CO 2). Zemljina skorja je sestavljena iz velikega dela silicija (silika SiO 2, kot ga najdemo v granitu in kremenu), aluminija (aluminijev oksid Al 2O 3 v boksitu in korundu), železa (železovega(III) oksida Fe 2O 3 v hematitu in rja) in kalcijevega karbonata (v apnencu). Preostanek Zemljine skorje je narejen tudi iz kisikovih spojin, zlasti različnih kompleksnih silikatov (v silikatnih mineralih). Zemljin plašč, ki je veliko večji od skorje, je v veliki meri sestavljen iz silikatov magnezija in železa.
+
+Beam Outputs:
+1: Iz česa je sestavljena Zemljina skorja?
+2: Iz česa je sestavljen ogljikov plašč?
+3: Iz česa je sestavljen kisik?
+4: Kako se imenuje ogljikov plašč?
+5: Kaj je del silicija?
+
+Sampling Outputs:
+1: Kako se imenuje ogljikov plašč?
+2: Kako se je ustvaril plašč, ki je narejen iz silikatov?
+3: Kaj se imenuje del silicija?
+4: Kako se imenuje ogljik v atmosferi?
+5: Kaj je ogljikovo sevanje v atmosferi?
+Paragraph:
+Vse sile v vesolju temeljijo na štirih temeljnih interakcijah. Močne in šibke sile so jedrske sile, ki delujejo le na zelo kratkih razdaljah in so odgovorne za interakcije med subatomskimi delci, vključno z jedri in sestavljenimi jedri. Elektromagnetna sila deluje med električnimi naboji in gravitacijska sila deluje med masami. Vse druge sile v naravi izhajajo iz teh štirih temeljnih interakcij. Na primer, trenje je manifestacija elektromagnetne sile, ki deluje med atomi dveh površin, in Paulijevim načelom izključitve, ki ne dovoljuje, da bi atomi prehajali med seboj. Podobno so sile v vzmeti, po vzoru Hookejevega zakona, rezultat elektromagnetnih sil in načela izključitve, ki delujeta skupaj, da se predmet vrne v svoj ravnotežni položaj. Centrifugalne sile so sile pospeševanja, ki izhajajo preprosto iz pospeševanja vrtečih se referenčnih okvirjev.:12–11:359
+
+Beam Outputs:
+1: Kaj je izraz za sile, ki delujejo v vzmeti?
+2: Kaj je posledica gravitacijske sile?
+3: Kaj je rezultat elektromagnetne sile, ki deluje med atomi?
+4: Kaj je rezultat elektromagnetnih sil?
+5: Kaj je rezultat elektromagnetne sile?
+
+Sampling Outputs:
+1: Kaj je ena od temeljnih interakcij med atomi in elektromagnetnimi naboji?
+2: Kaj je del elektromagnetne sile?
+3: Kakšne vrste energije se uporabljajo za interakcijo med subatomskim nabojem?
+4: Kakšne vrste energije delujejo sile v vzmeti?
+5: Kaj je ena od štirih temeljnih interakcij?
+Paragraph:
+Naftna kriza leta 1973 se je začela oktobra 1973, ko so članice Organizacije arabskih držav izvoznic nafte (OAPEC, ki jo sestavljajo arabske članice OPEC ter Egipt in Sirija) razglasile embargo na nafto. Do konca embarga marca 1974 se je cena nafte zvišala s 3 USD na sodček na skoraj 12 USD na svetovni ravni; Cene ZDA so bile znatno višje. Embargo je povzročil naftno krizo ali šok s številnimi kratkoročnimi in dolgoročnimi učinki na svetovno politiko in svetovno gospodarstvo. Kasneje se je imenoval „prvi naftni šok“, ki mu je sledila naftna kriza iz leta 1979, imenovana „drugi naftni šok“.
+
+Beam Outputs:
+1: Kdaj se je začela naftna kriza?
+2: Katera država je razglasila embargo na nafto?
+3: Kdo je razglasil embargo na nafto?
+4: Kdaj se je naftna kriza začela?
+5: Kaj je povzročilo naftno krizo?
+
+Sampling Outputs:
+1: Kdaj so članice OPEC razglasile embargo na nafto?
+2: V kateri državi je bila naftna kriza?
+3: Kdo je razglasil embargo na nafto do začetka embarga leta 1973?
+4: Kaj je bilo prvo naftno krizo v ZDA?
+5: Kdo je razglasil embargo na nafto?
+Paragraph:
+Druga pomembna knjižnica – univerzitetna knjižnica, ustanovljena leta 1816, je dom več kot dva milijona predmetov. Stavbo sta zasnovala arhitekta Marek Budzyński in Zbigniew Badowski, odprta pa je bila 15. decembra 1999. Obkrožena je z zeleno. Vrt univerzitetne knjižnice, ki ga je zasnovala Irena Bajerska, je bil odprt 12. junija 2002. Je eden največjih in najlepših strešnih vrtov v Evropi s površino več kot 10,000 m² in rastline, ki pokrivajo 5 111 m². Kot univerzitetni vrt je vsak dan odprt za javnost.
+
+Beam Outputs:
+1: Kdaj je bila zgrajena prva pomembna knjižnica v Evropi?
+2: Kdaj je bila zgrajena prva pomembna knjižnica?
+3: Koliko predmetov je na voljo v knjižnici?
+4: Koliko predmetov je bilo na voljo v knjižnici?
+5: Koliko predmetov je bilo na voljo v stavbi univerze?
+
+Sampling Outputs:
+1: Kako se imenuje prvi pomemben objekt, ki se nahaja v mestu?
+2: Kdaj je bila ustanovljena druga pomembna knjižnica?
+3: Kateri arhitekt je oblikoval vrt univerzitetne knjižnice v New Yorku?
+4: Kdo je zasnoval drugo veliko knjižnico?
+5: Koliko predmetov je bilo prodanih na univerzi?
+Paragraph:
+Južna Kalifornija je sestavljena iz enega kombiniranega statističnega območja, osmih metropolitanskih statističnih območij, enega mednarodnega metropolitanskega območja in več metropolitanskih oddelkov. Regija je dom dveh razširjenih metropolitanskih območij, ki presega pet milijonov prebivalcev. To sta Greater Los Angeles Area na 17.786,419 in San Diego-Tijuana ob 5.105.768. Od teh metropolitanskih območij metropolitansko območje Los Angeles-Long Beach-Santa Ana, metropolitansko območje Riverside-San Bernardino-Ontario in metropolitansko območje Oxnard-Thousand Oaks-Ventura tvorijo večji Los Angeles; medtem ko metropolitansko območje El Centro in metropolitansko območje San Diego-Carlsbad-San Marcos tvorita regijo južne meje. Severno od Velikega Los Angelesa so Santa Barbara, San Luis Obispo in metropolitanska območja Bakersfield.
+
+Beam Outputs:
+1: Koliko metropolitanskih območij je v Južni Kaliforniji?
+2: Koliko metropolitanskih območij je v Severni Kaliforniji?
+3: Koliko metropolitanskih območij je v južni Kaliforniji?
+4: Koliko metropolitanskih območij ima Južna Kalifornija?
+5: Koliko metropolitanskih območij je v Severni Karolini?
+
+Sampling Outputs:
+1: V katerem letu je prišlo do povečanja metropolitanskega območja Floride?
+2: Katera metropolitanska območja se nahajajo v Veliki Kaliforniji?
+3: Koliko kilometrov ima Severna Kalifornija?
+4: Kaj sestavljata dve metropolitanski območji v Kaliforniji?
+5: Katera regija sestavlja regijo južne meje, ki presega pet milijonov prebivalcev?
+Paragraph:
+Septembra 1760 in preden so izbruhnile sovražnosti, se je guverner Vaudreuil iz Montreala pogajal o kapitulaciji z generalom Amherstom. Amherst je ugodil Vaudreuilovi zahtevi, da se vsem francoskim prebivalcem, ki so se odločili ostati v koloniji, omogoči svoboda, da še naprej čaščejo v svoji rimskokatoliški tradiciji, nadaljujejo lastništvo nad svojim premoženjem in pravico, da ostanejo v svojih domovih. Britanci so poskrbeli za zdravljenje bolnih in ranjenih francoskih vojakov, francoske redne čete pa so se vrnile v Francijo na britanskih ladjah z dogovorom, da v sedanji vojni ne bodo več služili.
+
+Beam Outputs:
+1: Kdo je bil guverner Vaudreuil iz Montreala?
+2: Kdo je bil guverner Vaudreuil iz Montreala leta 1760?
+3: Kdo je bil guverner Vaudreuil v Montrealu?
+4: Kdo je bil guverner Vaudreuil?
+5: Kdo je bil guverner Vaudreuila?
+
+Sampling Outputs:
+1: Kdo je bil guverner Vaudreuil?
+2: Kaj je bil glavni razlog za pogajanja med guvernerjem Vaudreuil in njegovim generalom?
+3: Kaj je bil dogovor, ki ga je imel guverner Vaudreuil?
+4: V kateri bitki je bil Amherst?
+5: Kdaj je bil podpisan dogovor o kapitulaciji s francoskimi vojaki?
+Paragraph:
+Južna Kalifornija je sestavljena iz močno razvitega urbanega okolja, v katerem živijo nekatera največja mestna območja v državi, skupaj z obsežnimi območji, ki so ostala nerazvita. To je tretji najbolj naseljen megalopolis v Združenih državah Amerike, za Velikim jezerom Megalopolis in severovzhodnim megalopolisom. Velik del južne Kalifornije je znan po svojih velikih, razpršenih, predmestnih skupnostih in uporabi avtomobilov in avtocest. Prevladujoča območja so Los Angeles, Orange County, San Diego in Riverside-San Bernardino, od katerih je vsako središče svojega metropolitanskega območja, ki ga sestavljajo številna manjša mesta in skupnosti. Mestno območje gosti tudi mednarodno metropolitansko regijo v obliki San Diego-Tijuana, ki jo je ustvaril urbano območje, ki se je razlilo v Bajo Kalifornijo.
+
+Beam Outputs:
+1: Kaj se je zgodilo z Velikim jezerom Megalopolis?
+2: Kaj se je zgodilo z Velikim jezerom Megalopolisa?
+3: Kaj se je zgodilo z Velikim jezerom Megalopolisom?
+4: Kaj se je zgodilo z Megalopolisom?
+5: V katerem mestu se nahaja največji megalopolis v ZDA?
+
+Sampling Outputs:
+1: Kako se imenuje regija, ki leži v bližini reke Tijuana?
+2: V katerem mestu se nahaja glavno mesto zvezne države v Severni Karolini?
+3: Kakšna je bila prva mestna regija v državi?
+4: Katera je glavna značilnost Severne Kalifornije?
+5: Kako je središče glavnega mesta v južni Kaliforniji?
+Paragraph:
+Razvoj oplojenih jajčec je neposreden, z drugimi besedami, ni posebne oblike ličink, mladiči vseh skupin pa so na splošno podobni miniaturnim cidipidnim odraslim. V rodu Beroe mladiči, kot odrasli, nimajo lovk in plaščev. Pri večini vrst mladiči postopoma razvijajo telesne oblike svojih staršev. V nekaterih skupinah, kot so ploščati, spodaj bivalni platyctenidi, se mladiči obnašajo bolj kot prave ličinke, saj živijo med planktonom in tako zasedajo drugačno ekološko nišo od staršev in dosežejo odraslo obliko z bolj radikalno metamorfozo, potem ko padejo v morsko dno.
+
+Beam Outputs:
+1: Kako se mladiči obnašajo kot odrasli?
+2: Kako se mladiči obnašajo kot odrasli, ko so odrasli?
+3: Kaj se zgodi, ko mladiči začnejo razvijati svoje telo?
+4: Kako se mladiči obnašajo, ko so odrasli?
+5: Kaj se zgodi, ko mladiči začnejo razvijati telesne oblike?
+
+Sampling Outputs:
+1: V kateri starosti mladiči ne dosežejo svoje odrasle oblike?
+2: Katera skupina je tipična za odrasle, ki imajo kaj?
+3: Kaj se mladiči razlikujejo od staršev?
+4: Kako se mladiči obnašajo v vseh skupinah?
+5: Kaj imajo mladiči v Beroeji?
+Paragraph:
+Trioksigen (O 3) je običajno znan kot ozon in je zelo reaktivni alotrop kisika, ki škoduje pljučnemu tkivu. Ozon se proizvaja v zgornjem ozračju, ko se O2 kombinira z atomskim kisikom, ki nastane z delitvijo O2 z ultravijoličnim (UV) sevanjem. Ker se ozonski plašč močno absorbira v UV območju spektra, ozonski plašč zgornjega ozračja deluje kot zaščitni ščit za sevanje planeta. V bližini zemeljskega površja je onesnaževalo, ki nastane kot stranski produkt avtomobilskih izpušnih plinov. Metastabilni molekulski tetraoksigen (O4) je bil odkrit leta 2001 in naj bi obstajal v eni od šestih faz trdnega kisika. Leta 2006 je bilo dokazano, da je ta faza, ustvarjena s pritiskom na O 2 do 20 GPa, dejansko rombedralna skupina O 8. Ta grozd ima potencial, da je veliko močnejši oksidant kot O 2 ali O 3, zato se lahko uporablja v raketnem gorivu. Kovinska faza je bila odkrita leta 1990, ko je trden kisik izpostavljen tlaku nad 96 GPa in leta 1998 je bilo dokazano, da pri zelo nizkih temperaturah ta faza postane superprevodna.
+
+Beam Outputs:
+1: Kdaj je bil ozon odkrit?
+2: Katera faza je bila odkrita leta 2001?
+3: Katera faza je bila odkrita leta 2006?
+4: Katera faza je bila odkrita leta 2002?
+5: Kdaj je bil ozon odkrit leta 2001?
+
+Sampling Outputs:
+1: Kako dolgo je trden kisik izpostavljen trdnemu kisiku?
+2: Kdaj je bil uveden prvi reaktivni alotrop kisika?
+3: Katera skupina se imenuje po fenomenu?
+4: V katerem letu je bil odkrit tetraoksigen?
+5: Kaj se zgodi s pritiskom na O 2 do 100 GPa?
+Paragraph:
+Učinki neenakosti, ki so jih ugotovili raziskovalci, vključujejo višje stopnje zdravstvenih in socialnih težav ter nižje stopnje socialnih dobrin, nižjo stopnjo gospodarske koristi v družbi od virov, namenjenih visoki potrošnji, in celo nižjo stopnjo gospodarske rasti, če se človeški kapital zanemarja za visokokakovostno potrošnjo. Za prvih 21 industrializiranih držav, ki štejejo vsako osebo enako, je pričakovana življenjska doba nižja v bolj neenakih državah (r = -.907). Podobno razmerje obstaja med ameriškimi državami (r = -.620).
+
+Beam Outputs:
+1: Kakšna je pričakovana življenjska doba za prvih 21 industrializiranih držav?
+2: Katera država šteje vsako osebo enako?
+3: Kakšna je pričakovana življenjska doba za prvih 21 industrializiranih državah?
+4: Kakšna je pričakovana življenjska doba med ZDA in ZDA?
+5: Kakšna je pričakovana življenjska doba v ZDA?
+
+Sampling Outputs:
+1: Koliko podjetij je imelo najnižjo življenjsko dobo?
+2: Kateri dejavniki so bili odkriti med državami?
+3: Kako se imenuje stopnja brezposelnosti, ki se ne upošteva v industriji?
+4: Koliko držav je v ZDA?
+5: Katera vrsta dohodka je nižja v bolj neenakih državah?
+Paragraph:
+Obsežna gradnja zahteva sodelovanje med različnimi disciplinami. Delo običajno vodi arhitekt, gradbeni inženir, gradbeni inženir ali projektni vodja pa ga nadzoruje. Za uspešno izvedbo projekta je bistveno učinkovito načrtovanje. Tisti, ki se ukvarjajo z načrtovanjem in izvedbo zadevne infrastrukture, morajo upoštevati zahteve glede območij, vpliv delovnega mesta na okolje, uspešno načrtovanje, pripravo proračuna, varnost na gradbišču, razpoložljivost in prevoz gradbenega materiala, logistiko, nevšečnosti za javnost zaradi zamud pri gradnji in zbiranja ponudb itd. Največji gradbeni projekti se imenujejo megaprojekti.
+
+Beam Outputs:
+1: Kaj zahteva sodelovanje med različnimi disciplinami?
+2: Kaj se imenuje megaprojekti?
+3: Kaj je pomembno za uspešno izvedbo projekta?
+4: Kaj je pomembno za učinkovito načrtovanje?
+5: Kaj je pomembno za uspešno gradnjo?
+
+Sampling Outputs:
+1: Kaj je najbolj pomembno za uspešno izvedbo projekta?
+2: Kaj je potrebno za uspešno izvedbo projektov, ki se pogosto uporabljajo za izdelavo velikih projektov?
+3: Kdo vodi gradbišče v megaprojektih?
+4: Kaj morajo ljudje upoštevati, ko se gradnja izvaja?
+5: Kateri del gradnje zahteva dobro načrtovanje, da bi ga izvedli?
+Paragraph:
+Kriza je močno vplivala na mednarodne odnose in ustvarila razpoko v Natu. Nekateri evropski narodi in Japonska so se poskušali oddaljiti od zunanje politike Združenih držav na Bližnjem vzhodu, da ne bi bili tarča bojkota. Arabski proizvajalci nafte so vse prihodnje spremembe politike povezali z mirom med vojščaki. Da bi to rešili, je Nixonova administracija začela večstranska pogajanja z borci. Uredili so, da se je Izrael umaknil s Sinajskega polotoka in Golanske planote. Do 18. januarja 1974 se je ameriški državni sekretar Henry Kissinger pogajal o umiku izraelskih čet iz delov Sinajskega polotoka. Obljuba o dogovoru med Izraelom in Sirijo je bila dovolj, da je prepričala arabske proizvajalce nafte, da marca 1974 odpravijo embargo.
+
+Beam Outputs:
+1: Kdaj je Nixonova administracija začela večstranska pogajanja z borci?
+2: Kdaj je Nixonova administracija začela večstranska pogajanja?
+3: Kdaj je Nixonova administracija začela večstranska pogajanja z Arabci?
+4: Kdaj je Nixonova administracija začela dvostranska pogajanja?
+5: Kdaj se je Nixonova administracija začela večstranska pogajanja?
+
+Sampling Outputs:
+1: Kako se je končala kriza?
+2: Kaj je bilo v nasprotju s prejšnjimi ukrepi v zvezi z Iranom?
+3: Zakaj so arabski proizvajalci nafte poskušali zmanjšati embargo?
+4: Kateri ameriški državni sekretar ni imel dogovora z Arabci?
+5: Kdaj je Nixonova administracija začela pogajanja?
+Paragraph:
+Kublajeva vlada po letu 1262 je bila kompromis med ohranjanjem mongolskih interesov na Kitajskem in izpolnjevanjem zahtev njegovih kitajskih podložnikov. Uvedel je reforme, ki so jih predlagali kitajski svetovalci, s centralizacijo birokracije, razširitvijo kroženja papirnega denarja in ohranjanjem tradicionalnih monopolov nad soljo in železom. Obnovil je cesarski sekretariat in pustil lokalno upravno strukturo preteklih kitajskih dinastij nespremenjeno. Vendar pa je Kublaj zavrnil načrte za oživitev konfucijskih cesarskih preiskav in razdelil Yuanovo družbo na tri, kasneje štiri razrede, pri čemer je Han Kitajci zasedel najnižji čin. Kublajevi kitajski svetovalci so še vedno imeli pomembno moč v vladi, vendar je bil njihov uradni čin nejasen.
+
+Beam Outputs:
+1: Kaj je Kublajeva vlada naredila po letu 1262?
+2: Kaj je Kublajeva vlada spremenila po letu 1262?
+3: Kaj je Kublaj zavrnil?
+4: Kaj je Kublajeva vlada zavrnila?
+5: Kaj je Kublajeva vlada spremenila?
+
+Sampling Outputs:
+1: Kaj je Kublaj zavrnil kot argument za oživitev kitajskega cesarstva po letu 1262?
+2: V kateri državi je Kublaj začel delovati?
+3: Katera država je postala del dinastij po letu 1263?
+4: Kateri kitajski uradniki so bili izvoljeni za oblast po letu 1262?
+5: Kateri so bili njegovi kitajski svetovalci, ki niso bili vključeni v vlado v letih 1262?
+Paragraph:
+Ustanovil American Baptist Education Society z donacijo nafte magnat in najbogatejši človek v zgodovini John D. Rockefeller, Univerza v Chicagu je bila vključena v 1890; William Rainey Harper postal prvi predsednik univerze v 1891, in prvi razredi so potekali leta 1892. Harper in prihodnji predsednik Robert Maynard Hutchins sta se zavzela za to, da bi učni načrt Chicaga temeljil na teoretičnih in trajnih vprašanjih, ne pa na uporabnih vedah in komercialni uporabi. Z vizijo Harper v mislih, Univerza v Chicagu je postal tudi eden od 14 ustanovnih članov Združenja ameriških univerz, mednarodna organizacija vodilnih raziskovalnih univerz, v 1900.
+
+Beam Outputs:
+1: Kdo je bil prvi predsednik Univerze v Chicagu?
+2: Kdo je bil prvi predsednik univerze v Chicagu?
+3: Kdo je postal prvi predsednik Univerze v Chicagu?
+4: Kdo je postal prvi predsednik univerze v Chicagu?
+5: Kdo je bil prvi predsednik Univerze v Chicagu v 1890?
+
+Sampling Outputs:
+1: Kateri član Združenih ameriških univerz je bil prvi predsednik Univerze v Chicagu?
+2: Kdo je bil ustanovitelj ameriške baptist Education Society?
+3: Kdaj je bil John D. Rockefeller izvoljen za predsednika?
+4: Kaj je bil eden od prvih članov ameriškega Baptist Education Society?
+5: Kdaj je bil Richard Royce izvoljen za predsednika Univerze v Chicagu?
+Paragraph:
+Internet2 je neprofitni konzorcij za računalniško mreženje v ZDA, ki ga vodijo člani raziskovalnih in izobraževalnih skupnosti, industrije in vlade. Skupnost Internet2 je v partnerstvu s podjetjem Qwest leta 1998 zgradila prvo omrežje Internet2 z imenom Abilene in je bila glavna vlagateljica v projekt National LambdaRail (NLR). Leta 2006, Internet2 napovedal partnerstvo z ravni 3 komunikacije za začetek popolnoma novo nacionalno omrežje, povečanje svoje zmogljivosti iz 10 Gbit/s na 100 Gbit/s. V oktobru 2007, Internet2 uradno upokojil Abilene in zdaj se nanaša na svoje novo, višje zmogljivosti omrežja kot Internet2 Network.
+
+Beam Outputs:
+1: V katerem letu je bilo ustanovljeno omrežje Internet2?
+2: Kako se imenuje omrežje Internet2?
+3: V katerem letu je bil ustanovljen Internet2?
+4: V katerem letu je bil Internet2 ustanovljen?
+5: V katerem letu je bil Internet2 zgrajen?
+
+Sampling Outputs:
+1: Katera je bila glavna vlagateljica projekta NLR?
+2: Kdo je bil ustanovitelj projekta, ki ga je razvil Internet2?
+3: Kdaj je bila Abilona ustanovljena?
+4: Kdo je začel graditi omrežje Internet2?
+5: Kdaj je bil ustanovljen Network 2?
+Paragraph:
+Britanski neuspehi v Severni Ameriki, skupaj z drugimi napakami v evropskem gledališču, so povzročili padec moči Newcastlea in njegovega glavnega vojaškega svetovalca, vojvode Cumberland. Newcastle in Pitt sta se pridružila nelagodni koaliciji, v kateri je Pitt prevladoval v vojaškem načrtovanju. Začel je načrtovati kampanjo iz leta 1758, ki jo je v veliki meri razvil Loudoun. Po neuspehih leta 1757 ga je zamenjal Abercrombie kot vrhovni poveljnik. Pittov načrt je pozval k trem večjim ofenzivnim dejanjem, ki vključujejo veliko število rednih vojakov, ki so jih podprle pokrajinske milice, namenjene zajetju osrčja Nove Francije. Dve odpravi sta bili uspešni, Fort Duquesne in Louisbourg pa sta padla na velike britanske sile.
+
+Beam Outputs:
+1: V katerem letu je Newcastle postal vrhovni poveljnik?
+2: Kdo je bil glavni vojaški svetovalec v Severni Ameriki?
+3: Kdo je bil glavni vojaški svetovalec?
+4: Kdo je vodil kampanjo iz leta 1757?
+5: V katerem letu je Newcastle začel načrtovati kampanjo?
+
+Sampling Outputs:
+1: Kaj je vplivalo na neuspeh Newcastla in njegovega glavnega vojaškega svetovalca?
+2: Kdo je postal glavni vojaški svetovalec v Severni Ameriki?
+3: Koliko neuspehov je bilo na voljo v Veliki Britaniji leta 1757?
+4: V katerem letu je Newcastle odstopil s svojim vodstvom?
+5: Kako se imenuje kampanja, ki jo je začel Loudoun?
+Paragraph:
+Prosti kisik se pojavlja tudi v raztopini v svetovnih vodnih telesih. Povečana topnost O2 pri nižjih temperaturah (glej Fizične lastnosti) ima pomembne posledice za življenje oceanov, saj polarni oceani podpirajo veliko večjo gostoto življenja zaradi višje vsebnosti kisika. Voda, onesnažena z rastlinskimi hranili, kot so nitrati ali fosfati, lahko spodbudi rast alg s postopkom, imenovanim evtrofikacija, razpad teh organizmov in drugih biomaterialov pa lahko zmanjša količino O2 v evtrofnih vodnih telesih. Znanstveniki ocenjujejo ta vidik kakovosti vode z merjenjem biokemične potrebe po kisiku v vodi ali količine O 2, potrebne za njeno ponovno vzpostavitev normalne koncentracije.
+
+Beam Outputs:
+1: Kaj lahko poveča količino O2 v evtrofnih vodnih telesih?
+2: Kaj lahko zmanjša količino O2 v evtrofnih vodnih telesih?
+3: Kaj lahko poveča količino O2 v evtrofnih morskih telesih?
+4: Kaj lahko poveča količino O2 v oceanih?
+5: Kaj lahko poveča količino O2 v evtrofnih vodah?
+
+Sampling Outputs:
+1: Katera vodna vrsta vodi pomaga pri rasti alg?
+2: Kakšna je funkcija, ki omogoča rast alg pri nižjih temperaturah?
+3: Kateri proces ima pomembne posledice za življenje oceanov?
+4: Kaj se zgodi v oceanih, ko je voda onesnažena z rastlinskimi hranili?
+5: Kakšne vrste hranil je potrebno za preživetje oceanov?
+Paragraph:
+Od ~ 3000 let pred sedanjostjo (= let pred sedanjostjo) je v delti viden človeški vpliv. Zaradi vse večjega odlaganja površin (kmetijstvo v bronasti dobi) se je na gorskih območjih (osrednja Nemčija) močno povečala obremenitev s sedimenti Rena, rast delte pa se je pospešila. To je povzročilo povečano poplavljanje in sedimentacijo, s čimer se je končalo nastajanje šote v delti. Premik rečnih kanalov na nove lokacije, na poplavni ravnici (imenovano avulzija), je bil glavni proces porazdelitve usedlin po subrecentni delti. V zadnjih 6000 letih je prišlo do približno 80 avulzij. Neposredni človeški vpliv v delti se je začel z izkopavanjem šote, soljo in gorivom, od rimskih časov naprej. Temu je sledilo nasipanje glavnih distributerjev in zajezitev manjših distributerjev, ki je potekala v 11.-13. stoletju n. št. Nato so bili izkopani kanali, ovinki so bili kratki in zgrajeni groynes, da bi preprečili selitev ali muljenje rečnih kanalov.
+
+Beam Outputs:
+1: Koliko avulzij je prišlo v zadnjih 1000 letih?
+2: Koliko avulzij je prišlo v delti?
+3: Koliko avulzij je prišlo v zadnjih 4000 letih?
+4: Koliko avulzij je bilo v deluti?
+5: Koliko avulzij je prišlo iz delte?
+
+Sampling Outputs:
+1: V kateri dobi je bila zgrajena šota in sola?
+2: Kaj je povzročilo povečanje obremenitev na ravnici?
+3: Koliko avulzij je prišlo do leta 1950?
+4: Kako dolgo so bile zgrajene groynes?
+5: Kaj je povzročilo, da se v deluti poveča gostota usedlin v delti?
+Paragraph:
+Prvič, nekaterim stroškom se je težko izogniti in si jih deliti vsi, kot so stroški nastanitve, pokojnin, izobraževanja in zdravstvenega varstva. Če država teh storitev ne zagotavlja, si je treba za tiste z nižjimi dohodki izposoditi stroške, pogosto pa so tisti z nižjimi dohodki tisti, ki so slabše opremljeni za upravljanje svojih financ. Drugič, aspiracijska potrošnja opisuje proces oseb s srednjim dohodkom, ki si prizadevajo doseči življenjski standard, ki ga uživajo bogatejši partnerji, in eden od načinov za dosego tega cilja je prevzem dolga. Posledica tega je še večja neenakost in potencialna gospodarska nestabilnost.
+
+Beam Outputs:
+1: Kako se imenuje aspiracijska potrošnja?
+2: Kako se imenuje aspiracijska potrošnja, ki opisuje proces ljudi s srednjim dohodkom?
+3: Kako se imenuje aspiracijska potrošnja, ki opisuje proces osebe s srednjim dohodkom?
+4: Kako se imenuje aspiracijska potrošnja, ki opisuje proces ljudi z nižjim dohodkom?
+5: Kako se imenuje aspiracijska potrošnja, ki opisuje proces oseb z nižjim dohodkom?
+
+Sampling Outputs:
+1: Kaj je en od načinov, ki ga ljudje s srednjim dohodkom uporabljajo za doseganje tega cilja?
+2: Kdo je odgovoren za zagotavljanje stroškov, ki jih plačujejo ljudje z nižjimi dohodki?
+3: Kaj se običajno zgodi, če država ne zagotovi, da bodo ljudje z nižjimi dohodki bolj opremljeni?
+4: Kako se je treba izogniti nekaterim stroškom?
+5: Kaj pomeni, da je težko najti sredstva za doseganje dohodka?
+Paragraph:
+V umetnosti in zabavi so diplomanti minimalistični skladatelj Philip Glass, plesalec, koreograf in vodja na področju plesne antropologije Katherine Dunham, ustanoviteljica in razvijalka serije Halo videoiger Alex Seropian, serijska gostiteljica Sarah Koenig, igralka Ed Asner, Pulitzerjeva nagrada za zmagovalno filmsko kritiko kritike kritike in predmet dokumentarnega filma Life Itself Roger Ebert, režiser, pisatelj in komedijan Mike Nichols, filmski režiser in scenarist Philip Kaufman ter Carl Van Vechten, fotograf in pisatelj.
+
+Beam Outputs:
+1: Kdo je producent in producent filma Life Itself Roger Ebert?
+2: Kdo je producent in režiser filma Life Itself Roger Ebert?
+3: Kdo je režiser in producent filma Life Itself Roger Ebert?
+4: Kdo je režiser in režiser filma Life Itself Roger Ebert?
+5: Kdo je producent in producent filma Life Itself?
+
+Sampling Outputs:
+1: Kdo je igral Philip Glass?
+2: Kaj je bil glavni umetnik in igralec?
+3: Kdo je bil ustanovitelj in vodja skupine?
+4: Kdo je umetnik, ki je igral v filmu Life Itself Roger Ebert?
+5: Kje je Philip Glass sodeloval v filmu Life Itself Roger Ebert?
+Paragraph:
+Številni raziskovalci (David Rodda, Jacob Vigdor in Janna Matlack) trdijo, da pomanjkanje cenovno dostopnih stanovanj – vsaj v ZDA – deloma povzroča dohodkovna neenakost. David Rodda je ugotovil, da se je v letih 1984 in 1991 število kakovostnih najemnih enot zmanjšalo, ko se je povečalo povpraševanje po stanovanjih višje kakovosti (Rhoda 1994:148). Z gentrifikacijo starejših sosesk, na primer v vzhodnem New Yorku, so se cene najema hitro zvišale, saj so najemodajalci našli nove prebivalce, ki so bili pripravljeni plačati višjo tržno stopnjo za stanovanja, in pustili družine z nižjimi dohodki brez najemnih enot. Politika davka na nepremičnine ad valorem skupaj z rastočimi cenami je prebivalcem z nizkimi dohodki otežila ali onemogočila, da bi sledili.
+
+Beam Outputs:
+1: Kdo je ugotovil, da se je število kakovostnih najemnih enot povečalo v letih 1984 in 1991?
+2: V katerem letu je David Rodda ugotovil, da se je število kakovostnih najemnih enot povečalo?
+3: V katerem letu je David Rodda ugotovil, da se je število kakovostnih najemnih enot zmanjšalo?
+4: Kdaj je David Rodda ugotovil, da se je število kakovostnih najemnih enot povečalo?
+5: Kdaj je David Rodda ugotovil, da se je število kakovostnih najemnih enot zmanjšalo?
+
+Sampling Outputs:
+1: Kateri drugi ameriški študiji so se ukvarjali s pomanjkanjem kakovostnih stanovanj?
+2: V katerem letu se je število kakovostnih najemnih enot povečalo?
+3: Koliko stanovanj so v New Yorku izgubili?
+4: Kaj je bilo storjeno z nizko ponudbo stanovanj za stanovanja?
+5: Zakaj se je število kakovostnih najemnih enot povečalo na trgu?
+Paragraph:
+Victoria ima pisno ustavo, sprejeto leta 1975, vendar temelji na kolonialni ustavi iz leta 1855, ki jo je sprejel parlament Združenega kraljestva kot Victoria Constitution Act 1855, ki vzpostavlja parlament kot zakonodajni organ države za zadeve, ki spadajo pod državno odgovornost. Viktorijansko ustavo lahko spremeni viktorijanski parlament, razen nekaterih „odločenih“ določb, ki zahtevajo bodisi absolutno večino v obeh hišah, tripetinsko večino v obeh hišah ali odobritev viktorijanskega ljudstva na referendumu, odvisno od določbe.
+
+Beam Outputs:
+1: V katerem letu je bila sprejeta kolonialna ustava?
+2: Kdaj je bila sprejeta kolonialna ustava?
+3: V katerem letu je bila sprejeta kolonialna ustava Victoria?
+4: V katerem letu je Victoria sprejela ustavo?
+5: V katerem letu je bila sprejeta ustava Victoria?
+
+Sampling Outputs:
+1: Kaj je bilo sprejeto po ustavi leta 1955, vendar se je spremenilo?
+2: Kaj je bila sprejeta v Victoriini zakonodaji?
+3: Kaj je ustava, sprejeta leta 1975, ki ga je sprejela Victoria?
+4: Katera ustava je sprejeta leta 1955, ko je bila sprejeta viktorijanska ustava?
+5: Kaj je Victoria spremenila leta 1975, ko je postala državna odgovornost?
+Paragraph:
+Rankinov cikel je temeljna termodinamična podlaga parnega stroja. Cikel je razporeditev sestavnih delov, ki se običajno uporabljajo za preprosto proizvodnjo električne energije, in uporablja fazno spremembo vode (vrelišče vode, ki proizvaja paro, kondenziranje izpušne pare, proizvodnjo tekoče vode) za zagotovitev praktičnega sistema pretvorbe toplote/moč. Toplota se od zunaj dovaja v zaprto zanko, pri čemer se del dodane toplote pretvori v delo, odpadna toplota pa se odstrani v kondenzatorju. Rankinov cikel se uporablja v skoraj vseh aplikacijah za proizvodnjo parne energije. V devetdesetih letih prejšnjega stoletja so parni cikli Rankine ustvarili približno 90 % vse električne energije, ki se uporablja po vsem svetu, vključno s skoraj vsemi solarnimi elektrarnami, biomaso, premogom in jedrskimi elektrarnami. Poimenovan je po Williamu Johnu Macquornu Rankineju, škotskem polimatu.
+
+Beam Outputs:
+1: Kaj je glavna termodinamična podlaga parnega stroja?
+2: Kaj se uporablja za proizvodnjo parne energije?
+3: Kaj je glavna termodinamična podlaga za parni cikel?
+4: Kaj je glavna termodinamična podlaga za parne cikluse?
+5: Kaj je osnovna termodinamična podlaga za parni cikel?
+
+Sampling Outputs:
+1: Kdo je bil John Macquorn Rankin?
+2: Kaj se uporablja za ustvarjanje električne energije v zadnjih desetletjih?
+3: Kaj je temelj za parni cikel?
+4: Kaj je glavna termodinamična osnova za proizvodnjo?
+5: Kdo je avtor parnega cikla?
+Paragraph:
+Tematski odbori se ustanovijo na začetku vsakega parlamentarnega zasedanja, člani vsakega odbora pa ponovno odražajo uravnoteženost strank v Parlamentu. Običajno vsak odbor ustreza enemu (ali več) oddelkov (ali ministrstev) škotske vlade. Sedanji tematski odbori na četrtem zasedanju so: Gospodarstvo, energija in turizem; Izobraževanje in kultura; Zdravje in šport; Pravosodje; Lokalna uprava in regeneracija; Podeželske zadeve, podnebne spremembe in okolje; Reforma socialnega varstva; ter infrastrukturne in kapitalske naložbe.
+
+Beam Outputs:
+1: Kako se imenujejo tematski odbori na četrtem zasedanju?
+2: Kako se imenujejo tematski odbori?
+3: Kako se imenujejo tematski odbori na tretjem zasedanju?
+4: Kako se imenuje tematski odbori?
+5: Kako se imenuje tematski odbor?
+
+Sampling Outputs:
+1: Koliko odborov je bilo na koncu vsakega kongresa?
+2: Katere skupine se imenujejo tematski odbori?
+3: Katera organizacija je odgovorna za oblikovanje tematskih odborov?
+4: Kako se imenuje tematski odbori na tretjem zasedanju?
+5: Kako je mogoče najti tematske odbore?
+Paragraph:
+Ustje Rena v Bodensko jezero tvori notranjo delto. Delto na zahodu razmejuje Alter Rhein („Stari Ren“) in na vzhodu s sodobnim kanaliziranim odsekom. Večina delte je naravni rezervat in ptičje zatočišče. Vključuje avstrijska mesta Gaißau, Höchst in Fußach. Naravni Ren se je prvotno razvejal v vsaj dve kraki in z usedlinami tvoril majhne otoke. V lokalnem alemanskem narečju je ednina izgovorjena „Isel“ in to je tudi lokalna izgovorjava Esel („Donkey“). Veliko lokalnih polj ima uradno ime, ki vsebuje ta element.
+
+Beam Outputs:
+1: Kako se imenuje delta v Bodenskem jezeru?
+2: Kako se imenuje delta v Bodensko jezero?
+3: V katerem narečju se nahaja delta?
+4: Kako se imenuje delta na zahodu?
+5: Kako se imenuje delta na vzhodu?
+
+Sampling Outputs:
+1: Kaj so nekatere delte, ki sestavljajo delto v Bodenskem jezeru?
+2: Kje so Alpe v Bodenskem jezeru?
+3: Kje je bilo območje Rena, ki je imelo ime v Bodensko jezero?
+4: Kako je v Bodenskem jezeru videti delto?
+5: Kateri delta je razdeljena na dva kraka v Bodensko jezero?
+Paragraph:
+Amazonski deževni gozd (portugalščina: Floresta amazônica ali Amazônia; Španščina: Selva Amazónica, Amazonía ali običajno Amazonija; Francoščina: Forêt amazonienne; Nizozemščina: Amazoneregenwoud), znan tudi v angleščini kot Amazonia ali Amazon Jungle, je vlažen širokolistni gozd, ki pokriva večino amazonskega bazena Južne Amerike. Ta kotlina obsega 7.000.000 kvadratnih kilometrov, od katerih je 5500.000 kvadratnih kilometrov pokritih z deževnim gozdom. Ta regija vključuje ozemlje, ki pripada devetim narodom. Večina gozda je v Braziliji s 60 % deževnega gozda, sledijo ji Peru s 13 %, Kolumbija z 10 % in manjše količine v Venezueli, Ekvadorju, Boliviji, Gvajani, Surinamu in Francoski Gvajani. Države ali oddelki v štirih narodih vsebujejo „Amazonas“ v svojih imenih. Amazonka predstavlja več kot polovico preostalih deževnih gozdov na planetu in obsega največji in najbolj bioraznovrsten trakt tropskega deževnega gozda na svetu, po ocenah pa je 390 milijard posameznih dreves razdeljenih na 16.000 vrst.
+
+Beam Outputs:
+1: Kolikšen odstotek Amazonskega deževnega gozda je v Braziliji?
+2: Kolikšen odstotek Amazonskega deževnega gozda je na svetu?
+3: Kolikšen odstotek vseh deževnih gozdov je v Braziliji?
+4: Kolikšen odstotek deževnega gozda je v Braziliji?
+5: Kolikšen odstotek vseh deževnih gozdov na svetu je v Braziliji?
+
+Sampling Outputs:
+1: Kakšna je bila večina deževnega gozda v Braziliji?
+2: Koliko kvadratnih kilometrov je na Zemlji?
+3: Koliko kvadratnih kilometrov je v Amazonskem deževnem gozdu?
+4: Kakšna je količina Amazonovega deževnega gozda v Braziliji?
+5: Kateri so trije jeziki v Evropi in v Braziliji?
+Paragraph:
+Fresno je naselje v Občini Fresno, mesto v ameriški zvezni državi Kalifornija. Od leta 2015 je bilo število prebivalcev 520.159, zaradi česar je bilo peto največje mesto v Kaliforniji, največje celinsko mesto v Kaliforniji in 34. največje mesto v državi. Fresno je v središču doline San Joaquin in je največje mesto v osrednji dolini, ki vsebuje dolino San Joaquin. To je približno 220 km severozahodno od Los Angelesa, 170 km južno od glavnega mesta države Sacramento ali 185 milj južno od San Francisca. Ime Fresno pomeni „blato“ v španščini, na mestni zastavi pa je prikazan jesen list.
+
+Beam Outputs:
+1: Kaj je največje mesto v Kaliforniji?
+2: Koliko prebivalcev je bilo leta 2015 v Fresnoju?
+3: Koliko prebivalcev je bilo leta 2015?
+4: Koliko prebivalcev je bilo leta 2015 v Fresno?
+5: Kaj je največje mesto v ZDA?
+
+Sampling Outputs:
+1: Katera država je bila leta 2015 v letu 2015 največja v Kaliforniji?
+2: Koliko ljudi ima Fresno?
+3: Koliko ljudi je v Fresnovih naseljih?
+4: Koliko prebivalcev je bilo leta 2015 na območju Fresno?
+5: Kje so prebivalci Fresno?
+Paragraph:
+Izkazalo se je tudi, da je stopnja kriminala povezana z neenakostjo v družbi. Večina študij, ki preučujejo razmerje, se je osredotočila na umore – saj so umori skoraj enako opredeljeni v vseh državah in jurisdikcijah. Več kot petdeset študij je pokazalo, da je nasilje pogostejše v družbah, kjer so razlike v dohodkih večje. Opravljene so bile raziskave, v katerih so bile primerjane razvite države z nerazvitimi državami, pa tudi študijska območja znotraj držav. Daly in drugi. Leta 2001 je bilo ugotovljeno, da med ZDA in kanadskimi provincami obstaja desetkratna razlika v stopnjah umorov, povezanih z neenakostjo. Ocenili so, da je približno polovico vseh razlik v stopnjah umorov mogoče pripisati razlikam v višini neenakosti v vsaki pokrajini ali državi. Fajnzylber idr. (2002) našel podoben odnos po vsem svetu. Med komentarji v akademski literaturi o razmerju med umori in neenakostjo so:
+
+Beam Outputs:
+1: Koliko študij je ugotovilo, da je stopnja kriminala povezana z neenakostjo?
+2: Kaj je bilo ugotovljeno, da je stopnja kriminala povezana z neenakostjo?
+3: Kaj se je zgodilo leta 2001?
+4: Kaj je bilo ugotovljeno leta 2001?
+5: Koliko študij je bilo narejenih v zvezi z umori?
+
+Sampling Outputs:
+1: Kakšna so bila mnenja o razmerju med umori in neenakostjo?
+2: Kateri študij je preučeval razmerje med umori in neenakostjo v primerjavi med ZDA in kanadsko provincami?
+3: Koliko študij je ugotovilo, da imajo ZDA in kanadske province enako?
+4: Kaj je bilo ugotovljeno leta 2001?
+5: Katera skupina raziskav je ugotovila, da je več kot sto raziskav ugotovila, da obstajajo štiri razlike v stopnji umorov?
+Paragraph:
+Leta 1929, peti predsednik univerze, Robert Maynard Hutchins, prevzel funkcijo; Univerza je doživela veliko sprememb v 24-letnem mandatu. Hutchins odpraviti varsity nogomet iz univerze v poskusu, da bi poudarili akademiki nad atletiko, uvedla dodiplomski kolegij liberalnih umetnosti kurikulum znan kot skupno jedro, in organiziran univerzitetno podiplomsko delo v svoji trenutni [kdaj?] štiri delitve. Leta 1933, Hutchins predlagal neuspešen načrt za združitev Univerze v Chicagu in Northwestern University v eno univerzo. V svojem mandatu, University of Chicago Hospitals (zdaj imenovano University of Chicago Medical Center) končal gradnjo in vpisal svoje prve študente medicine. Prav tako, Odbor za socialne misli, institucija, značilen za univerzo, je bila ustanovljena.
+
+Beam Outputs:
+1: V katerem letu je Hutchins odstopil?
+2: V katerem letu je Hutchins prevzel funkcijo?
+3: V katerem letu je Hutchins zapustil univerzo?
+4: Kdaj je Hutchins odstopil?
+5: V katerem letu je Hutchins predlagal združitev univerze?
+
+Sampling Outputs:
+1: Kako so študentje medicine končali študij medicine?
+2: V katerem letu je Hutchins predlagal združitev Univerze v Chicagu?
+3: Kdo je vodil univerzo leta 1939?
+4: Kako so se imenovali prvi predsednik univerze v Chicagu?
+5: Katera fakulteta je bila v letu 1930 spremenjena v eno univerzo?
+Paragraph:
+V primerih, ko je kaznivo vedenje čisti govor, je lahko civilna neposlušnost preprosto sestavljena iz sodelovanja v prepovedanem govoru. Primer bi bil WBAI, ki oddaja skladbo „Filthy Words“ iz komedijskega albuma George Carlin, ki je na koncu privedel do primera Vrhovnega sodišča FCC proti Pacifica Foundation leta 1978. Grožnja vladnim uradnikom je še en klasičen način izražanja kljubovanja vladi in nepripravljenosti, da bi zagovarjala njene politike. Na primer, Joseph Haas je bil aretiran, ker je domnevno poslal e-pošto Libanonu, mestni svetniki New Hampshire, v katerih so navedli: „Bodite ali umrete“.
+
+Beam Outputs:
+1: V katerem letu je bil George Carlin aretiran?
+2: V katerem letu je George Carlin prejel e-pošto Libanonu?
+3: V katerem letu je George Carlin prejel e-pošto Libanona?
+4: V katerem letu je George Carlin prejel e-pošto?
+5: V katerem letu je bil George Carlin aretiran, ker je poslal e-pošto?
+
+Sampling Outputs:
+1: Kaj je bila glavna tema o kaznivem govorjenju?
+2: Kaj je bil primer WBAI?
+3: V katerem letu je bil George Carlin obtožen, da je bil aretiran?
+4: Katero dejanje je bilo storjeno s kakšnim dogodkom?
+5: Kdo je bil obtožen napada na Libanon?
+Paragraph:
+Po pogodbi je kralj Jurij III. izdal kraljevo razglasitev leta 1763 7. oktobra 1763, ki je opisala delitev in upravljanje na novo osvojenega ozemlja in do neke mere še naprej ureja odnose med vlado sodobne Kanade in Prvimi narodi. Vključena je bila rezervacija zemljišč zahodno od Apalaških gorovja za indijsko prebivalstvo, razmejitev, ki je bila v najboljšem primeru začasna ovira za naraščanje plime naseljencev v smeri proti zahodu. Razglasitev je vsebovala tudi določbe, ki so preprečevale državljansko udeležbo rimskokatoliških Kanadčanov. Ko so bile v Quebeškem zakonu leta 1774 izvedene nastanitve za reševanje tega in drugih vprašanj, so bili verski pomisleki izraženi v pretežno protestantskih trinajstih kolonijah zaradi napredovanja „kopeništva“; zakon je ohranil francosko civilno pravo, vključno s seignerijskim sistemom, srednjeveškim zakonikom, ki ga je francoska revolucija kmalu odstranila iz Francije.
+
+Beam Outputs:
+1: Kdo je izdal kraljevo razglasitev leta 1763?
+2: V katerem letu je bil sprejet Quebeški zakon?
+3: Kdo je izdal kraljevo razglasitev leta 1764?
+4: Kdo je izdal kraljevo razglasitev?
+5: Kdo je izdal kraljevo razglasitev leta 1773?
+
+Sampling Outputs:
+1: V katerem letu je kraljica razglasila Kraljevo razglasitev?
+2: Katera pogodba je vključevala delitev območja v Quebeško kraljestvo?
+3: V katerem obdobju je kraljeva razglasitev potekala?
+4: Kdaj se je zgodila kraljica Mary, ki je postala kraljica v Quebecu?
+5: Kateri zakon je spremenil francosko civilno pravo?
+Paragraph:
+Zaradi svojih mehkih, želatinastih teles so knoforji izjemno redki kot fosili, fosili, ki so bili interpretirani kot ktenoforji, pa so bili najdeni le v lagerstättenu, kjer je bilo okolje izjemno primerno za ohranjanje mehkega tkiva. Do sredine devetdesetih let sta bila znana le dva primerka, ki sta bila dovolj dobra za analizo, oba člana kronske skupine, iz zgodnjega devonskega (emzijskega) obdobja. Tri dodatne domnevne vrste so bile nato najdene v Burgess Shale in drugih kanadskih kamninah podobne starosti, pred približno 505 milijoni let v srednjem Kambrijskem obdobju. Vse tri očitno niso imele lovk, vendar so imele med 24 in 80 glavnikov, veliko več kot 8 tipičnih živih vrst. Prav tako se zdi, da so imeli notranje organe podobne strukture, za razliko od vsega, kar je bilo najdeno v živih ktenoforjih. Ena od fosilnih vrst, o kateri so prvič poročali leta 1996, je imela velika usta, ki so bila očitno obdana z prepognjenim robom, ki je bil morda mišičast. Dokazi iz Kitajske leto kasneje kažejo, da so bili takšni kennofori razširjeni v kambrijanu, vendar se morda zelo razlikujejo od sodobnih vrst – na primer na vidnih krilih so bile nameščene ene fosilne vrste. Ediacaran Eoandromeda bi lahko predstavljala glavnik želeja.
+
+Beam Outputs:
+1: Koliko vrst je bilo najdenih v Burgess Shale?
+2: Katera vrsta je bila najdena v Burgess Shale?
+3: V katerem obdobju so bili najdeni knoforji?
+4: V katerem obdobju so bili najdeni kennofori?
+5: Koliko vrst je bilo najdenih v Burgess Shale in drugih Kanadi?
+
+Sampling Outputs:
+1: Kaj se je zgodilo z rekom?
+2: Katero obdobje so odkrili knofori?
+3: Katera vrsta je imela veliko usta, ki je bila na voljo za preučevanje?
+4: V katerem obdobju se je začelo obdobje kenofore?
+5: Kaj ni bilo znano kot Knoforji?
+Paragraph:
+Britanske imperialistične ambicije je mogoče videti že v šestnajstem stoletju. Leta 1599 je bila ustanovljena britanska vzhodnoindijska družba, ki jo je naslednje leto zakupila kraljica Elizabeta. Z vzpostavitvijo trgovskih mest v Indiji so Britanci lahko ohranili moč v primerjavi z drugimi imperiji, kot so Portugalci, ki so že vzpostavili trgovska mesta v Indiji. Leta 1767 je politična dejavnost povzročila izkoriščanje vzhodnoindijske družbe, kar je povzročilo plenjenje lokalnega gospodarstva in skoraj povzročilo stečaj podjetja.
+
+Beam Outputs:
+1: Kdaj je bila ustanovljena britanska vzhodnoindijska družba?
+2: V katerem letu je bila ustanovljena britanska vzhodnoindijska družba?
+3: V katerem stoletju je bila ustanovljena britanska vzhodnoindijska družba?
+4: Kdaj je bila ustanovljena britanska zahodnoindijska družba?
+5: V katerem letu je britanska vzhodnoindijska družba začela delovati?
+
+Sampling Outputs:
+1: Kdo je zakupil vzhodnoindijsko družbo v Indiji?
+2: Kdaj je bila ustanovljena britanska vzhodnoindijska družba?
+3: Kateri imperij je bil zgrajen v šestnajstem stoletju?
+4: Katera država je bila ustanovljena leta 1599?
+5: Kdo je zakupil severnoindijsko družbo leta 1599?
+Paragraph:
+Povzetek poročila delovne skupine I za oblikovalce politik navaja, da so prepričani, da emisije, ki izhajajo iz človekovih dejavnosti, znatno povečujejo koncentracije toplogrednih plinov v atmosferi, kar v povprečju povzroči dodatno segrevanje zemeljske površine. Z gotovostjo izračunata, da je bil CO2 odgovoren za več kot polovico povečanega učinka tople grede. Predvidevajo, da se bo po običajnem scenariju svetovna povprečna temperatura v [21.] stoletju povečala za približno 0,3 °C na desetletje. Menijo, da se je svetovna povprečna temperatura zraka na površini v zadnjih 100 letih povečala za 0,3 °C do 0,6 °C, kar je na splošno v skladu z napovedmi podnebnih modelov, vendar je prav tako enako velika kot naravna variabilnost podnebja. Nedvoumno odkrivanje povečanega učinka tople grede ni verjetno že desetletje ali več.
+
+Beam Outputs:
+1: Kakšna je bila povprečna temperatura zraka na Zemlji v zadnjih 100 letih?
+2: Kakšna je bila povprečna temperatura zraka na površini v zadnjih 100 letih?
+3: Kakšna je povprečna temperatura zraka na Zemlji v zadnjih 100 letih?
+4: Kakšna je povprečna temperatura zraka na površini v zadnjih 100 letih?
+5: Kakšna je bila povprečna temperatura zraka v zadnjih 100 letih?
+
+Sampling Outputs:
+1: Kakšen je rezultat, ki se je zgodil v letu 2012?
+2: Katera organizacija meni, da bo svetovna povprečna temperatura v zadnjih 100 letih zmanjšala količino emisij toplogrednih plinov?
+3: Katera skupina I za oblikovalce politik je ocenila, da se bo svetovna povprečna temperatura zraka v zadnjih 100 letih povečala za približno kolikšen odstotek?
+4: Kaj je posledica zmanjšanja emisij iz človekovih dejavnosti v zadnjih 100 letih?
+5: V kakšni meri so toplogredni plini v atmosferi vplivali na podnebje?
+Paragraph:
+Delta Ren-Meuse, najpomembnejša naravna regija Nizozemske, se začne blizu Millingen aan de Rijn, blizu nizozemsko-nemške meje z delitvijo Rena na Waal in Nederrijn. Ker Ren prispeva večino vode, se pogosto uporablja krajši izraz delta Rena. Vendar se to ime uporablja tudi za delto reke, kjer se Ren izliva v Bodensko jezero, zato je jasneje imenovati večjo delto Ren-Meuse ali celo delto Ren-Meuse-Šelda, saj se Šelda konča v isti delti.
+
+Beam Outputs:
+1: Kako se imenuje delta Ren-Meuse?
+2: Kaj se imenuje delta Ren-Meuse?
+3: Kaj se imenuje delta Ren-Meuse-Šelda?
+4: Kaj je delta Ren-Meuse?
+5: Kako se imenuje delta reke?
+
+Sampling Outputs:
+1: Kaj je še ena druga regija?
+2: Kateri del reke se začne blizu reke Ren-Meuse?
+3: Kako se imenuje delta Ren-Meuse?
+4: Kdaj se je končala Delta Ren-Meuse?
+5: Katera je največja naravna regija nizozemske države?
+Paragraph:
+Hamas je še naprej pomemben akter v Palestini. Med letoma 2000 in 2007 je bilo ubitih 542 ljudi v 140 samomorilskih bombnih napadih ali „martirdomskih operacijah“. Na parlamentarnih volitvah januarja 2006 – prvi korak v političnem procesu – je dobil večino sedežev, leta 2007 pa je PLO izgnal iz Gaze. Muslimani so pohvalili Hamasa, ker je Izrael izgnal iz Gaze, vendar so ga kritizirali, ker v vojnah v Gazi 2008–9 in 2014 ni izpolnil svojih zahtev kljub velikemu uničenju in znatnim izgubam življenj.
+
+Beam Outputs:
+1: Koliko ljudi je bilo ubitih med letoma 2000 in 2007?
+2: Koliko ljudi je umrlo med letoma 2000 in 2007?
+3: Koliko ljudi je bilo ubitih leta 2000?
+4: Koliko ljudi je bilo ubitih v napadih leta 2000?
+5: Koliko ljudi je bilo ubitih v napadih v Gazi?
+
+Sampling Outputs:
+1: Koliko ljudi je umrlo med letoma 2000–9 in 2014?
+2: Koliko ljudi je bilo ubitih v napadih na Izrael?
+3: V katerem letu je Hamas zmagal na volitvah leta 2007?
+4: Kaj je Hamas naredil leta 2010?
+5: Katero leto so Muslimani glasovali v parlamentu leta 2006?
+Paragraph:
+Do začetka osemdesetih let prejšnjega stoletja je bila industrija glavni vir onesnaževanja vode. Čeprav je veliko rastlin in tovarn mogoče najti vzdolž Rena navzgor v Švico, je vzdolž spodnjega Rena večina koncentrirana, saj reka prečka večja mesta Köln, Düsseldorf in Duisburg. Duisburg je dom največjega evropskega pristanišča na celinskih vodah in deluje kot vozlišče morskih pristanišč Rotterdam, Antwerpen in Amsterdam. Ruhr, ki se pridruži Renu v Duisburgu, je danes čista reka, zahvaljujoč kombinaciji strožjega okoljskega nadzora, prehoda s težke industrije na lahko industrijo in čistilnih ukrepov, kot so pogozdovanje žlindre in degradiranih območij. Porurje trenutno oskrbuje regijo s pitno vodo. To prispeva 70 m³/s (2,500 cu ft/s) v Renu. Druge reke v Porurju, predvsem Emscher, so še vedno zelo onesnažene.
+
+Beam Outputs:
+1: Kaj je glavni vir onesnaževanja vode v Porurju?
+2: Kako se imenuje reka, ki se pridruži Renu?
+3: Kaj je glavni vir onesnaževanja vode v Duisburgu?
+4: Kaj je glavni vir onesnaževanja vode?
+5: Kaj je glavni vir onesnaževanja vode v Renu?
+
+Sampling Outputs:
+1: Kaj je pomembno za ohranjanje zdravja v Porurju?
+2: Kaj je glavno onesnaženje v regiji?
+3: Kateri del reke je bil onesnažen na območju, kjer je bila reka?
+4: Kdo je glavni vir onesnaževanja?
+5: Kdaj se bo Renovo ozemlje pridružilo Porurju?
+Paragraph:
+Kenoforji tvorijo živalsko debilo, ki je bolj zapletena kot gobice, približno tako kompleksna kot cnidarians (jezure, morske vetrnice itd.) in manj kompleksna kot biliterani (ki vključujejo skoraj vse druge živali). Za razliko od gobic imajo tako ctenoforji kot cnidari: celice, vezane z medceličnimi povezavami in preprogo podobnimi kletnimi membranami; mišice; živčni sistem; nekateri imajo senzorične organe. Kenoforji se od vseh drugih živali razlikujejo po koloblastih, ki so lepljivi in se držijo plena, čeprav jih nekaj vrst ctenoforjev nima.
+
+Beam Outputs:
+1: Kaj je bolj kompleksna kot biliterani?
+2: Kaj je bolj kompleksna kot gobice?
+3: Kaj se razlikuje od gobic?
+4: Kaj je bolj kompleksna kot biliteran?
+5: Kaj je bolj kompleksna kot kaj?
+
+Sampling Outputs:
+1: Kdo je bolj kompleksna od glicerijev?
+2: Katere celice imajo cinoforji?
+3: Kaj je bolj kompleksna in manj kompleksna?
+4: Kakšne vrste rastlin se razlikujejo od drugih živali?
+5: Kaj imajo vsi ljudje, ki so del glikofonije, ki imajo veliko različnih oblik?
+Paragraph:
+Po 1940-ih, gotski slog na kampusu začel dati pot do sodobnih stilov. Leta 1955 je bil Eero Saarinen naročen za razvoj drugega glavnega načrta, ki je privedel do gradnje stavb tako severno kot južno od Midwaya, vključno s Quadrangle zakona Laird Bell (kompleks, ki ga je zasnoval Saarinen); niz umetniških stavb; stavba, ki jo je zasnoval Ludwig Mies van der Rohe za univerzo School of Social Service Administration;stavba, ki je, da postane dom Harris School of Public Policy Studies Edward Durrell Stone, in Regenstein knjižnica, največja stavba na kampusu, brutalistična struktura, ki jo je zasnoval Walter Netsch iz Chicago podjetja Skidmore, Owings &amp; Merrill. Še en glavni načrt, ki je bil zasnovan leta 1999 in posodobljen leta 2004, je izdelal Athletics Center Gerald Ratner (2003), Max Palevsky Residential Commons (2001), South Campus Residence Hall in dining commons (2009), novo otroško bolnišnico in druge gradnje, razširitve in obnove. Leta 2011, univerza zaključila steklene kupole v obliki Joe in Rika Mansueto knjižnica, ki zagotavlja grand čitalnico za univerzitetno knjižnico in preprečuje potrebo po off-campus knjigo depozitar.
+
+Beam Outputs:
+1: Kdaj je bil Eero Saarinen naročen za razvoj drugega glavnega načrta?
+2: Kdaj je bil Eero Saarinen naročen za razvoj prvega glavnega načrta?
+3: Kdaj je bil Eero Saarinen naročen za razvoj tretjega glavnega načrta?
+4: Kdaj je bil Eero Saarinen naročen za razvoj glavnega načrta?
+5: Kdaj je bil Eero Saarinen ustanovljen?
+
+Sampling Outputs:
+1: Kdaj so bili izdelani drugi glavni načrti na kampusu?
+2: Kdaj je bil zgrajen tretji glavni načrt?
+3: V katerem letu so se začele prve gradnje v kampusu?
+4: Kaj je bila zgrajena šola, ki je bila zgrajena v letu 1940?
+5: Kdaj je bila zgrajena prva knjižnica, ki je bila narejena v Midwayu?
+Paragraph:
+Dolgo časa se je domnevalo, da je amazonski deževni gozd le redko poseljen, saj zaradi slabih tal ni bilo mogoče vzdrževati velikega prebivalstva s kmetijstvom. Arheologinja Betty Meggers je bila pomembna predlagateljica te ideje, kot je opisano v njeni knjigi Amazonija: Človek in kultura v ponarejenem raju. Trdila je, da je gostota prebivalstva 0,2 prebivalca na kvadratni kilometer največja, ki jo je mogoče ohraniti v deževnem gozdu z lovom, pri čemer je kmetijstvo potrebno za sprejem večjega števila prebivalcev. Vendar nedavne antropološke ugotovitve kažejo, da je bila regija dejansko gosto poseljena. Približno 5 milijonov ljudi je morda živelo v amazonski regiji leta 1500, razdeljenih med gosto obalno naselje, kot je Marajó, in prebivalci v notranjosti. Do leta 1900 se je prebivalstvo zmanjšalo na 1 milijon in do začetka osemdesetih let je bilo manj kot 200.000.
+
+Beam Outputs:
+1: Koliko ljudi je živelo v Amazonski regiji leta 1500?
+2: Koliko ljudi je živelo v Amazonski regiji?
+3: Koliko ljudi je živelo v Amazoniji leta 1500?
+4: Koliko ljudi je živelo v Amazoniji?
+5: Koliko ljudi je živelo v Amazonskem deževnem gozdu?
+
+Sampling Outputs:
+1: Koliko ljudi je živelo v Amazonski regiji leta 1500?
+2: Koliko ljudi je živelo v Amazoniji leta 1500?
+3: Kako dolgo je bilo prebivalstvo Amazonskega deževnega gozda?
+4: Kdo je napisal Amazonsko knjigo?
+5: Kaj je bilo ugotovljeno, da je Amazonija „zelo gosto poseljena“?
+Paragraph:
+Potovanje proti jugu po avtocesti 5, glavna vrzel do nadaljnje urbanizacije je Camp Pendleton. Mesta in skupnosti vzdolž Interstate 15 in Interstate 215 so tako medsebojno povezane, da imata Temecula in Murrieta enako povezavo z metropolitanskim območjem San Diego kot z celinskim cesarstvom. Na vzhodu, Združene države Census Bureau obravnava območja San Bernardino in Riverside County, območje Riverside-San Bernardino kot ločeno metropolitansko območje od Los Angeles County. Medtem ko se mnogi vozijo v L.A. in Orange Counties, obstajajo nekatere razlike v razvoju, saj je bila večina San Bernardino in Riverside Counties (nedesertni del) razvita v osemdesetih in devetdesetih letih prejšnjega stoletja. Novo razvita izkopavanja so nastala v dolini Antelope severno od Los Angelesa, doline Victor in doline Coachella s cesarsko dolino. Tudi rast prebivalstva je bila visoka na območjih Bakersfield-Kern, Santa Maria in San Luis Obispo.
+
+Beam Outputs:
+1: Kaj je glavna vrzel do nadaljnje urbanizacije?
+2: Kaj je glavna vrzel do urbanizacije?
+3: Kaj je glavna vrzel do nadaljnje urbanizacije, ki je bila razvita v devetdesetih letih prejšnjega stoletja?
+4: Kaj je glavna vrzel do nadaljnje urbanizacije, ki je bila razvita v osemdesetih in devetdesetih letih?
+5: Kaj je glavna vrzel do nadaljnje urbanizacije, ki je bila razvita v osemdesetih letih prejšnjega stoletja?
+
+Sampling Outputs:
+1: Kateri dve področji sta povezani med seboj?
+2: Kateri del metropolitanskega območja je znan po številnih razlikah?
+3: Kje je bilo območje San Bernardino in Riverside Counties?
+4: Kaj je bilo območje San Bernardino?
+5: V katerem letu je bil ustanovljen Camp Pendleton?
+Paragraph:
+Zaradi izumrtja krede in paleogena je izumrtje dinozavrov in mokrega podnebja omogočilo širjenje tropskega deževnega gozda po celini. Od 66–34 Mya se je deževni gozd razširil na jug do 45°. Podnebna nihanja v zadnjih 34 milijonih let so omogočila savanskim območjem, da so se razširile v trope. Med oligocenom je na primer deževni gozd obsegal razmeroma ozek pas. Ponovno se je razširil v srednjem miocenu, nato pa se je umaknil v večinoma celinsko formacijo na zadnji ledeniški maksimum. Vendar je deževnemu gozdu v teh ledenih obdobjih še vedno uspelo uspevati, kar je omogočilo preživetje in razvoj velike raznolikosti vrst.
+
+Beam Outputs:
+1: Kako se je deževni gozd razširil po celini?
+2: Kako se je deževni gozd razširil na jug?
+3: Kako se je deževni gozd razširil na jug do 45°?
+4: Kako se je deževni gozd razširil na sever?
+5: Kaj je povzročilo, da je deževni gozd razširil tropsko deževno območje?
+
+Sampling Outputs:
+1: Kaj je bilo ustvarjeno na jugu?
+2: Kaj se je začelo v tropskem deževnem gozdu od 66–34 Mya?
+3: Kateri dve vrsti gozdov sta povzročili širjenje tropskega deževnega gozda?
+4: Kaj se je zgodilo s kopnoma na severu?
+5: Kateri pas je bil še vedno v središču tropskega deževnega gozda?
+Paragraph:
+lahko imajo neskončno veliko praštevil le, če sta a in q koprima, tj. njun največji skupni divizor je eden. Če je ta pogoj izpolnjen, Dirichletov izrek o aritmetičnem napredku trdi, da napredovanje vsebuje neskončno veliko praštevil. Spodnja slika to ponazarja z q = 9: številke so „zavito okoli“ takoj, ko je minilo večkratnik 9. PRIMES so označene z rdečo. Vrstice (= napredki), ki se začnejo z a = 3, 6 ali 9, vsebujejo največ eno praštevilko. V vseh drugih vrsticah (a = 1, 2, 4, 5, 7 in 8) je neskončno veliko praštevil. Še več, praštevila so na dolgi rok enakomerno porazdeljena med te vrstice – gostota vseh praštevil ustreza modulu 9 1/6.
+
+Beam Outputs:
+1: Kaj se zgodi, ko je minilo večkratnik 9?
+2: Koliko praštevil je v vseh drugih vrsticah?
+3: Koliko praštevilk je v vseh drugih vrsticah?
+4: Koliko praštevil je v vseh drugih vrsticah?
+5: Kaj se zgodi, ko je minilo večkratnik 9.?
+
+Sampling Outputs:
+1: Kaj je največja količina praštevilk?
+2: Kakšno je razmerje med številom vseh praštevil?
+3: Kaj se imenuje stopnja, ki je enaka nič v vseh drugih vrsticah?
+4: V kateri vrstici se začne število?
+5: Kaj je največja skupna praštevilka, ki je v vrstici 9?
+Paragraph:
+Nekateri sodobni znanstveniki, kot je Fielding H. Garrison, menijo, da je izvor geološke znanosti mogoče izslediti do Perzije po koncu muslimanskih osvajanj. Abu al-Rayhan al-Biruni (973–1048 n. št.) je bil eden prvih perzijskih geologov, katerega dela so vključevala najzgodnejše zapise o geologiji Indije, ki domnevajo, da je bila indijska podcelina nekoč morje. Perzijski učenjak Ibn Sina (Avicenna, 981–1037) je na podlagi grške in indijske znanstvene literature, ki niso bile uničene z muslimanskimi osvajanji, predlagal podrobne razlage za nastanek gora, izvor potresov in druge teme, ki so osrednjega pomena za sodobno geologijo, ki je bila bistvena podlaga za kasnejši razvoj znanosti. Na Kitajskem je polimat Shen Kuo (1031–1095) oblikoval hipotezo za proces oblikovanja zemljišč: na podlagi opazovanja fosilnih živalskih lupin v geološkem sloju v gorah, sto kilometrov od oceana, je sklepal, da je zemljišče nastalo zaradi erozije gora in odlaganja mulja.
+
+Beam Outputs:
+1: Kdo je bil prvi perzijski učenjak, ki je verjel, da je bila indijska podcelina nekoč morje?
+2: Kdo je bil prvi Perzijski učenjak, ki je verjel, da je bila indijska podcelina nekoč morje?
+3: Kdo je bil prvi perzijski učenjak, ki je verjel, da je bilo morje nekoč morje?
+4: Kdo je bil prvi Perzijski učenjak, ki je verjel, da je bilo morje nekoč morje?
+5: Kdo je bil prvi perzijski učenjak, ki je verjel, da je bila indijska podcelina včasih morje?
+
+Sampling Outputs:
+1: Kje je bila Indija najdena?
+2: Kaj so našli nekateri sodobni znanstveniki v Indiji?
+3: Kaj je bilo prvotno ocenjeno za začetek geologije Indije?
+4: V katerem letu je bilo odkritih več kot 1000 morskih lupin?
+5: Kaj so bile ugotovitve, ki jih je uporabil Frédéric, pomembne za razvoj znanosti?
+Paragraph:
+NASA satelit CALIPSO je izmeril količino prahu, ki ga veter prenaša iz Sahare v Amazonijo: povprečno 182 milijonov ton prahu se piha iz Sahare vsako leto, na 15 stopinj zahodne zemljepisne dolžine, preko 1600 milj (2,600 km) nad Atlantskim oceanom (nekateri prah pade v Atlantik), nato na 35 stopinj zahodne dolžine na vzhodni obali Južne Amerike, 27,7 milijona ton (15 %) prahu pade nad amazonsko kotlino, 132 milijonov ton prahu ostane v zraku, 43 milijonov ton prahu je pihanih in pade na Karibsko morje, mimo 75 stopinj zahodne dolžine.
+
+Beam Outputs:
+1: Koliko ton prahu pade v Amazonijo vsako leto?
+2: Koliko ton prahu pade v Amazonijo?
+3: Kolikšen odstotek prahu pade iz Sahare?
+4: Kolikšen odstotek prahu pade v Amazonijo?
+5: Koliko ton prahu ostane v zraku?
+
+Sampling Outputs:
+1: Kako velika količina prahu se prenaša iz Sahare?
+2: Koliko kilogramov prahu je v zraku?
+3: Koliko prahu pade iz Sahare?
+4: Koliko ton prahu je padlo iz Sahare v Amazonijo?
+5: Koliko ton prahu ostane v zraku od Sahare, ko se spusti v Amazonijo?
+Paragraph:
+Avtor IPCC Richard Lindzen je izrekel številne kritike TAR. Lindzen je med svojimi kritikami navedel, da povzetek WGI za oblikovalce politik (SPM) ne povzema natančno celotnega poročila WGI. Lindzen na primer navaja, da SPM podcenjuje negotovost, povezano s podnebnimi modeli. John Houghton, sopredsednik TAR WGI, se je odzval na Lindzenove kritike SPM. Houghton je poudaril, da se o SPM dogovorijo delegati iz številnih svetovnih vlad in da morajo biti vse spremembe SPM podprte z znanstvenimi dokazi.
+
+Beam Outputs:
+1: Kdo je bil sopredsednik TAR WGI?
+2: Kdo je bil sopredsednik TAR?
+3: Kdo je bil sopredsednik TAR WG?
+4: Kdo je bil glavni kritik TAR?
+5: Kaj je Lindzen rekel, da se SPM ne upošteva?
+
+Sampling Outputs:
+1: Kdo se je odzval na Lindzenove kritike?
+2: Kdo je avtor IPCC?
+3: Kateri avtor je bil Sopredsednik TAR?
+4: Kdo je napisal kritiko TAR?
+5: Kaj so Lindzenovi kritiki videli kot kritike?
+Paragraph:
+Sodoben trend oblikovanja je v smeri integracije prej ločenih specialitet, zlasti med velikimi podjetji. V preteklosti so bili arhitekti, notranji oblikovalci, inženirji, razvijalci, gradbeni menedžerji in splošni izvajalci bolj verjetno, da bodo popolnoma ločena podjetja, tudi v večjih podjetjih. Trenutno ima lahko podjetje, ki je nominalno „arhitektura“ ali „upravljanje gradnje“, strokovnjake z vseh sorodnih področij kot zaposlene ali ima povezano podjetje, ki zagotavlja vse potrebne spretnosti. Tako se lahko vsako takšno podjetje od začetka do konca ponudi kot „vse na enem mestu“ za gradbeni projekt. To je določeno kot pogodba o „gradnji za projektiranje“, pri kateri ima izvajalec specifikacije zmogljivosti in mora izvajati projekt od načrtovanja do gradnje, pri čemer upošteva specifikacije zmogljivosti.
+
+Beam Outputs:
+1: Kako se imenuje pogodba o gradnji za projektiranje?
+2: Kako se imenuje pogodba o gradnji za gradnjo?
+3: Kako se imenuje pogodba o gradnji za projektiranje, ki vključuje specifikacije zmogljivosti?
+4: Kako se imenuje pogodba o gradnji za projektiranje, ki se uporablja za gradnjo?
+5: Kako se imenuje pogodba o gradnji za projektiranje, ki se uporablja v velikih podjetjih?
+
+Sampling Outputs:
+1: Kdo je znan po svojem delu s področja oblikovanja gradbenih podjetij?
+2: Kaj lahko vsak projekt zgradi v majhnih podjetjih?
+3: Kdaj so se začeli pojavljati bolj pogosto kot v večjih podjetjih?
+4: Kaj se zgodi pri gradnji?
+5: Kaj je v prihodnosti bolj verjetno?
+Paragraph:
+Razširitev povzroči, da so skalne enote kot celota postale daljše in tanjše. To se doseže predvsem z normalno napako in skozi nodularno raztezanje in redčenje. Normalne napake padejo rock enote, ki so višje pod tistimi, ki so nižje. To običajno povzroči, da se mlajše enote postavijo pod starejše enote. Raztezanje enot lahko povzroči njihovo redčenje; pravzaprav je v pasu Maria Fold in Thrust lokacija, v kateri je mogoče videti celotno sedimentno zaporedje Velikega kanjona na dolžini manj kot meter. Kamnine na globini, ki jo je treba nodularno raztegniti, so pogosto tudi metamorfizirane. Te raztegnjene skale se lahko zaradi svoje vizualne podobnosti stisnejo tudi v leče, znane kot boudini, po francoski besedi za „navzočnost“.
+
+Beam Outputs:
+1: Kaj povzroči, da so skalne enote postale debelejše in tanjše?
+2: Kaj lahko povzroči, da so skalne enote postale debelejše in tanjše?
+3: Kaj se zgodi, ko so skalne enote na globini manj kot meter?
+4: Kaj lahko povzroči, da so skalne enote na globini manj kot meter?
+5: Kaj povzroči, da so skalne enote postale debelejše?
+
+Sampling Outputs:
+1: Katera vrsta kamnine se običajno nahaja v pasu Maria Fold in Thrust?
+2: Kaj lahko povzroči, da se kamnine na globini manj kot meter stisnejo v skalne enote?
+3: Kaj je mogoče videti na globini?
+4: Kaj je lahko posledica česa?
+5: Kaj povzroči, da so skalne enote postale daljše in debelejše?
+Paragraph:
+Večina vrst so hermafroditi – posamezna žival lahko proizvede tako jajčeca kot spermo, kar pomeni, da lahko oplodi svoje jajce, ne potrebuje partnerja. Nekateri so simultano hermafroditi, ki lahko proizvajajo tako jajca in sperme hkrati. Drugi so zaporedni hermafroditi, v katerih jajca in sperma zorijo ob različnih časih. Oploditev je na splošno zunanja, čeprav se jajčeca platiktenoidov oplodijo v telesih staršev in tam hranijo, dokler se ne izležejo. Mladi so na splošno planktonični in pri večini vrst izgledajo kot miniaturni cidippidi, ki se postopoma spreminjajo v odrasle oblike, ko rastejo. Izjeme so beroidi, katerih mladi so miniaturni beroidi z velikimi usti in brez lovk, in platyctenidi, katerih mladi živijo kot cidippidni plankton, dokler ne dosežejo velikosti skoraj odraslega, nato pa se potopijo na dno in se hitro preobrazijo v odraslo obliko. Vsaj pri nekaterih vrstah se mladiči lahko razmnožujejo, preden dosežejo velikost in obliko odraslega. Kombinacija hermafroditizma in zgodnjega razmnoževanja omogoča, da majhne populacije rastejo z eksplozivno hitrostjo.
+
+Beam Outputs:
+1: Kaj se zgodi, ko se jajčeca platiktenoidov spremenijo v odrasle oblike?
+2: Kaj se zgodi, ko se jajčeca platiktenoidov spremenijo v odraslo obliko?
+3: Kaj se zgodi, ko se jajčeca in sperme spremenijo v odrasle oblike?
+4: Kaj se zgodi, ko se jajčeca in sperme spremenijo v odraslo obliko?
+5: Kaj se zgodi, ko se jajčeca platiktenoidov razmnožujejo?
+
+Sampling Outputs:
+1: Kaj so plemena, ki se hranijo s spermo?
+2: Kaj lahko naredi majhne populacije?
+3: Kaj je večina vrst?
+4: Kaj so simultani cidippidi, ki se razmnožujejo pred razmnoževanjem?
+5: Kaj se zgodi, ko so mladički spočeti?
+Paragraph:
+Po popisu leta 2000 je bilo v mestu 427.652 prebivalcev, 140,079 gospodinjstev in 97.915 družin. Gostota prebivalstva je bila 4.097,9 prebivalcev na kvadratni kilometer (1,582,2/km²). Bilo je 149 025 stanovanjskih enot s povprečno gostoto 1.427,9 kvadratnih milj (3,698 km²). Rasna ličila mesta je bila 50,2 % Bela, 8,4 % Črna ali Afričanka, 1,6 % Indijanci, 11,2 % Azijci (približno tretjina od tega je Hmong), 0,1 % Pacific Islander, 23,4 % iz drugih dirk in 5,2 % iz dveh ali več dirk. Hispanic ali Latino katere koli rase je bilo 39,9 % prebivalstva.
+
+Beam Outputs:
+1: Kolikšen odstotek prebivalstva je bil Hispanic ali Latino?
+2: Kolikšen odstotek prebivalstva je imel Hispanic ali Latino?
+3: Kolikšen odstotek prebivalstva je bil Hispanic?
+4: Kolikšen odstotek prebivalstva je bilo v mestu leta 2000?
+5: Kolikšen odstotek prebivalstva je imel Hispanic?
+
+Sampling Outputs:
+1: Koliko stanovanj je živelo v Hispanici?
+2: Kolikšen odstotek prebivalcev je imel v New Yorku po popisu leta 2000?
+3: Kolikšen odstotek prebivalstva je bil v mestu?
+4: Kolikšen odstotek prebivalstva v mestu je bil Hispanic, kar je bilo najmanj?
+5: Kaj je bilo leta 2000?
+Paragraph:
+Gradnja je proces gradnje stavbe ali infrastrukture. Gradnja se razlikuje od proizvodnje v tem, da proizvodnja običajno vključuje množično proizvodnjo podobnih predmetov brez imenovanega kupca, medtem ko gradnja običajno poteka na lokaciji znane stranke. Gradbeništvo kot industrija obsega od šest do devet odstotkov bruto domačega proizvoda razvitih držav. Gradnja se začne z načrtovanjem, načrtovanjem in financiranjem ter se nadaljuje, dokler projekt ni zgrajen in pripravljen za uporabo.
+
+Beam Outputs:
+1: Koliko bruto domačega proizvoda je razvitih držav?
+2: Kolikšen odstotek bruto domačega proizvoda je razvitih držav?
+3: Kolikšen odstotek bruto domačega proizvoda je v razvitih državah?
+4: Kolikšen odstotek bruto domačega proizvoda razvitih držav je industrija?
+5: Kolikšen odstotek bruto domačega proizvoda razvitih držav ima gradnjo?
+
+Sampling Outputs:
+1: Kako se imenuje industrijska industrija?
+2: Kaj je običajno narejeno z gradnjo stavbe in infrastrukture?
+3: Kateri proces je gradbeništvo?
+4: Kaj je industrija?
+5: Kaj je industrija, ki ima veliko število ljudi?
+Paragraph:
+Prva točka dela ob sredah je običajno čas za razmislek, na katerem govornik nagovori člane za največ štiri minute in deli pogled na vprašanja vere. To je v nasprotju s formalnim slogom „Prayers“, ki je prva točka dela na sestankih spodnjega doma parlamenta. Govorniki so zbrani po vsej Škotski in so izbrani tako, da predstavljajo ravnovesje verskih prepričanj v skladu s škotskim popisom. Vabila za tako nagovorjenje Parlamenta določi predsedujoči po nasvetu parlamentarnega predsedstva. Verske skupine lahko neposredno zastopajo predsednika, da imenujejo govornike.
+
+Beam Outputs:
+1: Kaj je prva točka dela na sestankih spodnjega doma parlamenta?
+2: Kaj je prva točka dela ob sredah?
+3: Kako se imenuje prva točka dela ob sredah?
+4: Kaj je prva točka dela na sestankih spodnjega doma?
+5: Kaj je prva točka dela na sestankih spodnjega doma parlamenta, ki se imenuje?
+
+Sampling Outputs:
+1: Kaj ni drugo ime za govorce na seji spodnjega doma?
+2: Kateri govorniki niso prisotni v tem, da se imenujejo za koga?
+3: Kdaj je bila zadnja točka dela, ki se imenuje?
+4: Kdo je vodja sestanka spodnjega doma parlamenta?
+5: Kakšen slog je v nasprotju z običajnim slogom „Prayers“?
+Paragraph:
+Od takrat in doslej je bila splošna relativnost priznana kot teorija, ki najbolje pojasnjuje gravitacijo. V GR se gravitacija ne obravnava kot sila, temveč predmeti, ki se prosto gibljejo v gravitacijskih poljih, potujejo pod lastno vztrajnostjo v ravnih črtah skozi ukrivljen prostor-čas – opredeljeno kot najkrajša prostorsko-časovna pot med dvema prostorsko-časovnima dogodkoma. Z vidika predmeta se vse gibanje zgodi, kot da ne bi bilo gravitacije. Samo pri opazovanju gibanja v globalnem smislu je mogoče opaziti ukrivljenost prostora-časa, sila pa izhajati iz ukrivljene poti objekta. Tako se ravna črta v prostoru-času vidi kot ukrivljena črta v prostoru in se imenuje balistična pot objekta. Na primer, košarka, vržena iz tal, se premika v paraboli, saj je v enotnem gravitacijskem polju. Njegova prostorsko-časovna pot (ko se doda dodatna dimenzija ct) je skoraj ravna črta, rahlo ukrivljena (s polmerom ukrivljenosti reda nekaj svetlobnih let). Časovni derivat spreminjajočega se zagona predmeta je tisto, kar označimo kot „gravitacijska sila“.
+
+Beam Outputs:
+1: Kakšna je najkrajša prostorsko-časovna pot v GR?
+2: Kaj je najkrajša prostorsko-časovna pot v GR?
+3: Kaj je najkrajša prostorsko-časovna pot?
+4: Kaj je najkrajša prostorsko-časovna pot v prostoru?
+5: Kakšna je najkrajša prostorsko-časovna pot?
+
+Sampling Outputs:
+1: Kakšna je najmanjša hitrost, ki je povezana z gibanjem v prostoru?
+2: Kaj je najkrajša prostorsko-časovna pot v prostoru?
+3: Kaj se zgodi, ko je gravitacija ukrivljena, kar se imenuje bastična pot?
+4: Kaj ni bilo nikoli videti kot ukrivljena črta v prostoru?
+5: Katera je najpogostejša oblika gravitacije?
+Paragraph:
+Na splošno vse države članice priznavajo, da ima pravo EU prednost pred nacionalnim pravom, če je to dogovorjeno v Pogodbah, vendar se ne strinjajo, da ima Sodišče zadnjo besedo glede temeljnih ustavnih vprašanj, ki vplivajo na demokracijo in človekove pravice. V Združenem kraljestvu je temeljno načelo, da lahko Parlament kot suveren izraz demokratične legitimnosti odloči, ali želi izrecno sprejeti zakonodajo v nasprotju s pravom Unije. To pa bi se zgodilo le v primeru izrecne želje ljudi, da izstopijo iz EU. V zadevi R (Factortame Ltd) proti Secretary of State for Transport je bilo odločeno, da „ne glede na omejitev svoje suverenosti, ki jo je Parlament sprejel, ko je sprejel Zakon o Evropskih skupnostih iz leta 1972, je bilo povsem prostovoljno“in tako „je bilo vedno jasno“, da imajo sodišča Združenega kraljestva dolžnost „prevzemati katero koli pravilo nacionalnega prava, za katero je bilo ugotovljeno, da je v nasprotju s katerim koli neposredno izvršljivim pravilom prava Skupnosti“. Pred kratkim je vrhovno sodišče Združenega kraljestva ugotovilo, da v zadevi R (HS2 Action Alliance Ltd) proti Secretary of State for Transport, čeprav je ustava Združenega kraljestva nekodificirana, lahko obstajajo „temeljna načela“ splošnega prava, Parlament pa „ni niti razmišljal niti odobril, ko je ta zakon uveljavil ta zakon“. Stališče nemškega ustavnega sodišča iz sodb Solange I in Solange II je, da če EU ne spoštuje svojih temeljnih ustavnih pravic in načel (zlasti demokracije, pravne države in načel socialne države), potem ne more prevladati nad nemškim pravom. Vendar pa vzdevki sodb „dokler si“ EU prizadeva za demokratizacijo svojih institucij in ima okvir, ki varuje temeljne človekove pravice, ne bi preverjala skladnosti zakonodaje EU z nemškimi ustavnimi načeli. Večina drugih držav članic je izrazila podobne pridržke. To kaže, da legitimnost EU temelji na dokončni avtoriteti držav članic, njeni dejanski zavezanosti človekovim pravicam in demokratični volji ljudi.
+
+Beam Outputs:
+1: V katerem letu je bil sprejet Zakon o evropskih skupnostih?
+2: V katerem letu je bil sprejet Zakon o Evropskih skupnostih?
+3: V katerem letu je bil sprejet zakon o evropskih skupnostih?
+4: V katerem letu je bil sprejet Zakon o Evropski skupnosti?
+5: Kateri zakon je bil sprejet leta 1972?
+
+Sampling Outputs:
+1: Katera zakonodaja je bila uvedena v Nemčiji?
+2: Katera sodišča niso nikoli podprla?
+3: Kaj je vrhovno sodišče ugotovilo, da je ustava v nasprotju s kakšnim zakonom?
+4: Kdo se ne strinja s tem, ko so se sprejele Pogodbe o Evropi?
+5: Kaj se zgodi, ko je zakon iz leta 1979 postal nezakonit?
+Paragraph:
+BSkyB je sprva zaračunal dodatne naročnine za uporabo naprave Sky+ PVR skupaj z njihovo storitvijo; opustitev plačila za naročnike, katerih paket je vključeval dva ali več premium kanalov. To se je spremenilo od 1 Julija 2007, in zdaj stranke, ki imajo Sky+ in se naročite na vse BSkyB naročnino paket dobili Sky+ vključena brez doplačila. Stranke, ki se ne naročijo na kanale BSkyB, lahko še vedno plačajo mesečno pristojbino za omogočanje funkcij Sky+. V januarju 2010 BSkyB prekinil Sky + Box, omejena standard Sky Box na Multiroom nadgradnjo samo in začel izdajati Sky + HD Box kot standard, s čimer daje vsem novim naročnikom funkcije Sky+. Februarja 2011 je BSkyB prekinil ne-HD različico svoje Multiroom polje, ki ponuja manjšo različico SKYHD polje brez funkcionalnosti Sky+. Septembra 2007 je Sky začela novo televizijsko oglaševalsko kampanjo, namenjeno ženskam. Družba Sky je imela 31. marca 2008 393.000 uporabnikov Sky+.
+
+Beam Outputs:
+1: Kdaj je BSkyB začel izdajati Sky + HD Box?
+2: Kdaj je BSkyB prekinil ne-HD različico svojega Multiroom polja?
+3: Kdaj je BSkyB prenehal uporabljati Sky+?
+4: Kdaj je BSkyB prekinil Sky + Box?
+5: Kdaj je BSkyB začel izdajati Sky + HD Box kot standard?
+
+Sampling Outputs:
+1: Kaj je BSkyB prekinil?
+2: Katera stranka je prenehala uporabljati Sky + HD Box?
+3: Koliko novih strank je Sky+ dobil na leto 2010?
+4: Kaj je povzročilo prekinitev Sky+?
+5: Kdaj je BSkyB prekinil ne-HD različico svoje programske opreme?
+Paragraph:
+Sayyid Abul Ala Maududi je bil pomemben lik v začetku dvajsetega stoletja v islamskem oživljanju v Indiji in nato po neodvisnosti od Britanije v Pakistanu. Izurjen kot odvetnik je izbral poklic novinarstva in pisal o sodobnih vprašanjih in kar je najpomembnejše o islamu in islamskem pravu. Maududi je leta 1941 ustanovil stranko Jamaat-e-Islami in ostal njen vodja do leta 1972. Vendar pa je imel Maududi veliko večji vpliv s svojim pisanjem kot s svojo politično organizacijo. Njegove izjemno vplivne knjige (prevedene v številne jezike) so postavile islam v sodoben kontekst in vplivale ne le na konservativno ulemo, temveč na liberalne modernizatorje islamiste, kot je al-Faruqi, katerega„Islamizacija znanja“je prenesla nekatera Maududijeva ključna načela.
+
+Beam Outputs:
+1: Kdo je ustanovil stranko Jamaat-e-Islami?
+2: Kdo je ustanovil stranko Jamaat E-Islami?
+3: Kdo je ustanovil stranko Jamaat-e-Islamija?
+4: Kdo je bil pomemben lik v islamskem oživljanju?
+5: Kdo je ustanovil stranko?
+
+Sampling Outputs:
+1: Kateri lik je bil pomemben lik v začetku dvajsetega stoletja?
+2: Kdo je bil odgovoren za delo Sayyida?
+3: Kateri politični vodja je ustanovil stranko Jamaat-e-Islami?
+4: Kdo je bil vodja stranke v islamu?
+5: Katera stranka je bila v islamskem oživljanju?
+Paragraph:
+Trocki in drugi so verjeli, da lahko revolucija uspe le v Rusiji kot del svetovne revolucije. Lenin je obširno pisal o zadevi in slavno izjavil, da je imperializem najvišja stopnja kapitalizma. Toda po Leninovi smrti je Joseph Stalin za Sovjetsko zvezo vzpostavil „socializem“ v eni državi, s čimer je ustvaril model za kasnejše stalinistične države navznoter in očistil zgodnje internacionalistične elemente. Internacionalistične težnje zgodnje revolucije so bile opuščene, dokler se ne vrnejo v okviru države stranke v konkurenci z Američani med hladno vojno. Novi politični vodja Nikita Hruščov je z začetkom novega obdobja, ki se je po Stalinovem obdobju imenoval „tapa“, v poznih petdesetih letih še bolj pritiskal na sovjetsko-ameriške odnose, ki so začeli nov val protiimperialistične propagande. V svojem govoru na konferenci ZN leta 1960 je napovedal nadaljevanje vojne za imperializem in dejal, da se bodo ljudje iz različnih držav kmalu zbrali in strmoglavili svoje imperialistične voditelje. Čeprav se je Sovjetska zveza razglasila za antiimperialista, kritiki trdijo, da kaže težnje, ki so skupne zgodovinskim imperijem. Nekateri znanstveniki menijo, da je bila Sovjetska zveza hibridna entiteta, ki je vsebovala elemente, ki so skupni tako multinacionalnim imperijem kot nacionalnim državam. Trdilo se je tudi, da je ZSSR prakticirala kolonializem, tako kot druge cesarske sile in je izvajala staro rusko tradicijo širjenja in nadzora. Mao Zedong je nekoč trdil, da je Sovjetska zveza postala imperialistična sila, medtem ko je ohranila socialistično fasado. Poleg tega so bile ideje imperializma široko razširjene v akciji na višjih ravneh upravljanja. Neruski marksisti v Ruski federaciji in kasneje ZSSR, kot Sultan Galiev in Vasil Šahraj, so sovjetski režim šteli za obnovljeno različico ruskega imperializma in kolonializma.
+
+Beam Outputs:
+1: Kdo je verjel, da lahko revolucija uspe le v Rusiji?
+2: Kdo je verjel, da lahko revolucija uspe le v Sovjetski zvezi?
+3: Kdo je trdil, da je Sovjetska zveza postala imperializem?
+4: Kdo je trdil, da je Sovjetska zveza postala imperialistična?
+5: Kdo je verjel, da je Sovjetska zveza postala imperialistična?
+
+Sampling Outputs:
+1: V katerih državah je bila Sovjetska zveza del revolucije?
+2: Kaj je bilo še bolj omejeno na sovjetsko-ameriške odnose?
+3: Kdo se je odločil, da bo Sovjetska zveza postala imperialistična sila?
+4: Kje je Mao Zedong začel novo obdobje?
+5: Kdo je menil, da je Sovjetska zveza edina, ki lahko zmaga?
+Paragraph:
+Britanija je dobila nadzor nad Francosko Kanado in Akadijo, kolonijami, ki vsebujejo približno 80.000 pretežno francosko govorečih rimokatoliških prebivalcev. Izgon Akadčanov, ki se je začel leta 1755, je privedel do zemljišč, ki so bila na voljo migrantom iz Evrope in kolonij na jugu. Britanci so preselili veliko Akadčanov po vsej severnoameriških provincah, vendar so mnogi odšli v Francijo, nekateri pa so šli v New Orleans, kar so pričakovali, da bodo ostali Francozi. Nekateri so bili poslani na kolonizacijo krajev, ki so tako raznoliki, kot sta Francoska Gvajana in Falklandski otoki; ta prizadevanja so bila neuspešna. Drugi so se preselili v kraje, kot je Saint-Domingue, in pobegnili v New Orleans po haitijski revoluciji. Prebivalstvo Louisiane je prispevalo k ustanovitvi sodobnega Cajunskega prebivalstva. (Francoska beseda „Acadien“ se je razvila v „Cadien“, nato v „Cajun“.)
+
+Beam Outputs:
+1: V katerem letu se je začel izgon Akadčanov?
+2: V katerem letu je britanska vlada dobila nadzor nad Francijo in Akadijo?
+3: V katerem letu se je začel izgon Akadčanov v ZDA?
+4: V katerem letu se je začel izgon Akadčanov iz ZDA?
+5: V katerem letu se je začel izgon Akadčanov v Francijo?
+
+Sampling Outputs:
+1: Katera je bila glavna oblika Cajunskega prebivalstva?
+2: Kdo so bili prvi, ki so se preselili na Florido?
+3: Kdo je ustvaril Cajunski narod?
+4: Kaj je povzročilo, da je prišlo do selitev Akadčanov iz Evrope in ZDA?
+5: Kateri del Anglije je prišel v ZDA?
+Paragraph:
+Potovanje proti jugu po avtocesti 5, glavna vrzel do nadaljnje urbanizacije je Camp Pendleton. Mesta in skupnosti vzdolž Interstate 15 in Interstate 215 so tako medsebojno povezane, da imata Temecula in Murrieta enako povezavo z metropolitanskim območjem San Diego kot z celinskim cesarstvom. Na vzhodu, Združene države Census Bureau obravnava območja San Bernardino in Riverside County, območje Riverside-San Bernardino kot ločeno metropolitansko območje od Los Angeles County. Medtem ko se mnogi vozijo v L.A. in Orange Counties, obstajajo nekatere razlike v razvoju, saj je bila večina San Bernardino in Riverside Counties (nedesertni del) razvita v osemdesetih in devetdesetih letih prejšnjega stoletja. Novo razvita izkopavanja so nastala v dolini Antelope severno od Los Angelesa, doline Victor in doline Coachella s cesarsko dolino. Tudi rast prebivalstva je bila visoka na območjih Bakersfield-Kern, Santa Maria in San Luis Obispo.
+
+Beam Outputs:
+1: Kaj je glavna vrzel do nadaljnje urbanizacije?
+2: Kaj je glavna vrzel do urbanizacije?
+3: Kaj je glavna vrzel do nadaljnje urbanizacije, ki je bila razvita v devetdesetih letih prejšnjega stoletja?
+4: Kaj je glavna vrzel do nadaljnje urbanizacije, ki je bila razvita v osemdesetih in devetdesetih letih?
+5: Kaj je glavna vrzel do nadaljnje urbanizacije, ki je bila razvita v osemdesetih letih prejšnjega stoletja?
+
+Sampling Outputs:
+1: Kje so se zgradili novi izkopavanja?
+2: Kako se imenuje regija Carmende in Riverside County?
+3: Kaj je glavna vrzel do nadaljnje urbanizacije v Camp Pendletonu?
+4: Kje se nahaja mesto San Bernardino?
+5: Katera država obravnava območje San Bernardino?
+Paragraph:
+Zgodovinsko gledano je bila Victoria baza za proizvodne obrate glavnih avtomobilskih znamk Ford, Toyota in Holden; vendar bodo napovedi o zaprtju vseh treh podjetij v 21. stoletju pomenile, da Avstralija ne bo več osnova za svetovno avtomobilsko industrijo, saj je v izjavi Toyote februarja 2014 navedeno leto zaprtja leta 2017. Holdenova napoved se je zgodila maja 2013, sledila je Fordova odločitev decembra istega leta (Ford’s Victorian plant-in Broadmeadows and Geelong-will se bodo zaprli oktobra 2016).
+
+Beam Outputs:
+1: V katerem letu se bo Victoria zaprla?
+2: V katerem letu je bila Victoria ustanovljena?
+3: V katerem letu je bila Victoria zaprta?
+4: Kdaj je bila Victoria ustanovljena?
+5: V katerem letu je bila Victoria končana?
+
+Sampling Outputs:
+1: Kateri dogodek je povzročil, da je bila Victoria osnova za proizvodnjo v Avstraliji?
+2: Kdaj se je začela napoved, da bo Victoria postala osnova za svetovno avtomobilsko industrijo?
+3: Kateri je bil razlog za zaprtje v Avstraliji?
+4: Kdaj se je zgodila odločitev o zaprtju?
+5: Katera je bila druga tovarna Victoria?
+Paragraph:
+Številni razredi kompleksnosti so opredeljeni z uporabo koncepta zmanjšanja. Zmanjšanje je preoblikovanje enega problema v drug problem. Zajema neformalni pojem problema, ki je vsaj tako težak kot drug problem. Na primer, če je problem X mogoče rešiti z algoritmom za Y, X ni težji od Y in pravimo, da se X zmanjša na Y. Obstaja veliko različnih vrst zmanjšanj, ki temeljijo na metodi zmanjšanja, kot so zmanjšanje Cook, Karp znižanja in znižanja Levin, in vez na kompleksnost zmanjšanj, kot so zmanjšanje polinomskega časa ali zmanjšanje log-prostora.
+
+Beam Outputs:
+1: Kaj je mogoče rešiti z algoritmom za Y?
+2: Kaj je mogoče rešiti z algoritmom za X?
+3: Kaj je mogoče rešiti z uporabo koncepta zmanjšanja?
+4: Kaj se zgodi z zmanjšanjem?
+5: Kaj pomeni zmanjšanje?
+
+Sampling Outputs:
+1: Katere vrste zmanjšanj so opredeljeni z uporabo koncepta zmanjšanj?
+2: Kaj je en problem?
+3: Na kakšen način se zmanjša problem X?
+4: Kaj je ena od dveh vrst zmanjšanj?
+5: Kaj je ena vrsta zmanjšanj v razredu kompleksnosti?
+Paragraph:
+Druge zelene površine v mestu vključujejo botanični vrt in vrt univerzitetne knjižnice. Imajo obsežno botanično zbirko redkih domačih in tujih rastlin, medtem ko palmova hiša v New Orangeryju prikazuje rastline subtropov z vsega sveta. Poleg tega, znotraj mestnih meja, obstajajo tudi: Pole Mokotowskie (velik park v severnem Mokotówu, kjer je bila prva konjska dirka in nato letališče), Park Ujazdowski (blizu ulice Sejm in John Lennon), Park kulture in počitek v Powsinu, ob južni mestni meji, Park Skaryszewski ob desnem bregu Vistula, v Pragi. Najstarejši park v Pragi, park Praga, je bil ustanovljen leta 1865–1871 in ga je zasnoval Jan Dobrowolski. Leta 1927 je bil na parku ustanovljen zoološki vrt (Ogród Zoologiczny), leta 1952 pa še danes odprt medved.
+
+Beam Outputs:
+1: V katerem letu je bil ustanovljen park Praga?
+2: Kateri park je bil ustanovljen leta 1927?
+3: V katerem letu je bil ustanovljen park?
+4: V katerem letu je bil ustanovljen park Prage?
+5: V katerem letu je bil ustanovljen park v Powsiji?
+
+Sampling Outputs:
+1: Kje se nahaja park, ki je bil zgrajen leta 1865?
+2: V katerem letu je bila zgrajena knjižnica?
+3: Kdaj je bil ustanovljen park?
+4: Kateri park v Pragi je bil ustanovljen leta 1927?
+5: Kateri vrt je bil ustanovljen leta 1927?
+Paragraph:
+Med ameriško državljansko vojno je bil Jacksonville ključna oskrbovalna točka za prašiče in govedo, ki so jih pošiljali iz Floride, da bi pomagali konfederaciji. Mesto so blokirale sile Unije, ki so pridobile nadzor nad bližnjim Fort Clinchom. Čeprav v Jacksonvillu ni bilo bitk, je mesto večkrat zamenjalo roke med Zvezo in Konfederacijo. Skirmish of the Brick Church leta 1862, tik pred Jacksonvillom, je pripeljal do prve zmage konfederacije na Floridi. Februarja 1864 so sile Unije zapustile Jacksonville in se soočile s Konfederacijsko vojsko v bitki pri Olusteeju, kar je privedlo do zmage konfederacije. Sile Unije so se nato umaknile v Jacksonville in zadržale mesto do konca vojne. Marca 1864 se je konfederacijska konjenica soočila z odpravo Unije, katere rezultat je bila bitka pri Cedar Creeku. Vojskovanje in dolga okupacija sta zapustila mesto prekinjeno po vojni.
+
+Beam Outputs:
+1: V katerem letu so sile Unije zapustile Jacksonville?
+2: V katerem letu so sile Unije zapustile Jacksonville?
+3: V katerem letu je bil Jacksonville izgubljen?
+4: V katerem letu so sile Unije zapustile Jacksonvill?
+5: V katerem letu so sile Unije zamenjale roke?
+
+Sampling Outputs:
+1: V katerem mesecu je bila prva zmaga konfederacije na Floridi?
+2: Kaj je bilo glavno oskrbovalno točko v Jacksonvillu?
+3: Katera vrsta vojne je imela pomembno oskrbovalno točko za živino?
+4: Kdo so ga napadli v Jacksonvilleju?
+5: Kaj je pripeljalo do prve zmage konfederacije?
+Paragraph:
+Gradnja stavb je proces dodajanja strukture nepremičninam ali gradnje stavb. Večina gradbenih del so majhne prenove, kot je dodajanje sobe ali prenova kopalnice. Pogosto lastnik nepremičnine deluje kot delavec, paymaster in oblikovalska ekipa za celoten projekt. Čeprav projekti gradnje stavb običajno vključujejo različne skupne elemente, kot so načrtovanje, finančni, ocenjevalni in pravni vidiki, številni projekti različnih velikosti dosegajo neželene končne rezultate, kot so strukturni zlom, prekoračitve stroškov in/ali sodni postopki. Zato tisti z izkušnjami na terenu izdelajo podrobne načrte in ohranijo skrben nadzor med projektom, da se zagotovi pozitiven rezultat.
+
+Beam Outputs:
+1: Kaj je proces dodajanja strukture nepremičninam?
+2: Kaj je proces dodajanja strukture nepremičnin?
+3: Kaj je proces dodajanja strukture stavb?
+4: Kaj je proces dodajanja strukture nepremičnine?
+5: Kdo je odgovoren za gradnjo stavb?
+
+Sampling Outputs:
+1: Kaj je običajno del gradnje stavb?
+2: Kaj je del, ko se začne gradnja stavb?
+3: Kdo je oblikovalske ekipe za celotno gradnjo stavb?
+4: Kdo je lastnik zemljišča?
+5: V kakšni obliki so nekateri projekti gradnje stavb?
+Paragraph:
+V poslu so pomembni diplomanti Microsoft CEO Satya Nadella, ustanovitelj Oracle Corporation in tretji najbogatejši človek v Ameriki Larry Ellison, Goldman Sachs in MF Global CEO ter nekdanji guverner New Jersey Jon Corzine, McKinsey &amp; Ustanovitelj podjetja in avtor prvega učbenika vodenja računovodstva James O. McKinsey, Arley D. Cathey, Bloomberg L.P. CEO Daniel Doctoroff, Credit Suisse CEO Brady Dougan, Morningstar, Inc ustanovitelj in izvršni direktor Joe Mansueto, Chicago Cubs lastnik in predsednik Thomas S. Ricketts, in NBA komisar Adam Silver.
+
+Beam Outputs:
+1: Kdo je ustanovitelj Oracle Corporation?
+2: Kdo je ustanovitelj Microsoftovega CEO Satya Nadella?
+3: Kdo je bil ustanovitelj Oracle Corporation?
+4: Kdo je ustanovitelj Microsofta CEO Satya Nadella?
+5: Kdo je ustanovitelj Microsofta CEO?
+
+Sampling Outputs:
+1: Kdaj je bil predsednik Microsoftove korporacije ustanovljen?
+2: V kateri ustanovi je podjetje Microsoft CEO Satya Nadella?
+3: V katerem letu je bil ustanovljen Microsoft CEO Satya Nadella?
+4: Kdo je direktor IBM CEO?
+5: Kdo je ustanovitelj IBM CEO Satya Nadella?
+Paragraph:
+Zunanja površina nosi po navadi osem glavnikov, imenovanih plavalne plošče, ki se uporabljajo za plavanje. Vrstice so usmerjene tako, da tečejo od blizu ustja („peroralni drog“) do nasprotnega konca (aboralni drog) in so bolj ali manj enakomerno razporejene po telesu, čeprav se vzorci razmikov razlikujejo glede na vrsto in pri večini vrst se glavne vrstice raztezajo le del razdalje od aboralnega droga proti ustju. „Grobovi“ (imenovani tudi „kteni“ ali „glavne plošče“) tečejo čez vsako vrstico, vsak pa je sestavljen iz tisoč nenavadno dolgih cilij, do 2 milimetrov. Za razliko od običajnih cilia in flagella, ki ima strukturo z žarilno nitko, razporejeno v vzorec 9 +2, so ti ciliji razporejeni v vzorec 9 +3, kjer obstaja sum, da ima ekstra kompaktna žarilna nitka podporno funkcijo. Ti običajno premagajo tako, da je pogonska kap stran od ust, čeprav lahko tudi obratno smer. Zato kenoforji običajno plavajo v smeri, v katero so usmerjena usta, za razliko od meduze. Pri poskusu pobega plenilcem lahko ena vrsta pospeši do šestkratno normalno hitrost; nekatere druge vrste obrnejo smer kot del njihovega obnašanja pobega, tako da obrnejo moč udarca glavnik plošče cilia.
+
+Beam Outputs:
+1: Kaj se zgodi, ko so glavne vrstice razporejene v vzorec 9 +3?
+2: Kaj se zgodi, ko so glavne vrstice razporejene v vzorec 9 +2?
+3: Kaj se zgodi, ko so glavniki razporejeni v vzorec 9 +3?
+4: Kaj se zgodi, ko so glavniki razporejeni v vzorec 9 +2?
+5: Kaj se zgodi, ko so glavne vrstice razporejene po telesu?
+
+Sampling Outputs:
+1: Kaj se običajno zgodi, ko je ena vrsta v središču pozornosti?
+2: Koliko glavnih vrst se razteza od blizu ustja do nasprotnega konca?
+3: Kako dolgo je Clie razdeljen na dve glavni vrsti?
+4: Kaj je običajno v notranjosti površine?
+5: Kaj je običajno v območju, ki ima dve vrsti cili?
+Paragraph:
+Najvišja stavba v središču Jacksonvilla je stolp Bank of America, zgrajen leta 1990 kot Barnett Center. Ima višino 617 ft (188 m) in vključuje 42 nadstropij. Druge pomembne strukture so 37-nadstropni Wells Fargo Center (s svojo značilno sežgano osnovo, zaradi česar je definirana stavba v Jacksonvillu), prvotno zgrajena v letih 1972–74 s strani neodvisne življenjske in nezgodne zavarovalnice, in 28 nadstropja Riverplace Tower, ki je bil, ko je bil končan leta 1967, najvišji montažni, post-napeta betonska struktura na svetu.
+
+Beam Outputs:
+1: V katerem letu je bil zgrajen Wells Fargo Center?
+2: Kaj je najvišja stavba v Jacksonvillu?
+3: Koliko nadstropij je v Jacksonvillu?
+4: V katerem letu je bil zgrajen Wells Fargo Center v Jacksonvillu?
+5: Kaj je najvišja stavba v Jacksonvillu, ki je bila zgrajena leta 1990?
+
+Sampling Outputs:
+1: Kako se imenuje najvišja stavba v Jacksonvillu?
+2: Koliko metrov je najvišji stolp v Jacksonvillu?
+3: Koliko nadstropij ima stavba na vrhu Jacksonville?
+4: Koliko je najvišja zgradba v Jacksonvillu?
+5: Katera je najvišja zgradba v Jacksonvillu?
+Paragraph:
+Politika: Generalni sekretar ZN Ban Ki-moon; Ameriški politični voditelji John Hancock, John Adams, John Quincy Adams, Rutherford B. Hayes, Theodore Roosevelt, Franklin D. Roosevelt, John F. Kennedy, Al Gore, George W. Bush in Barack Obama; Čilski predsednik Sebastián Piñera; Kolumbijski predsednik Juan Manuel Santos; Kostariški predsednik José María Figueres; Mehiški predsedniki Felipe Calderón, Carlos Salinas de Gortari in Miguel de la Madrid; Mongolski predsednik Tsakhiagiin Elbegdorj; Perujski predsednik Alejandro Toledo; Tajvanska predsednica Ma Ying-jeou; Kanadski generalni guverner David Lloyd Johnston; Indijski poslanec Jayant Sinha; Predsednik albanske vlade Fan S. Noli; Kanadska predsednika vlad Mackenzie King in Pierre Trudeau; Grški predsednik vlade Antonis Samaras; Izraelski predsednik vlade Benjamin Netanjaahu; nekdanji pakistanski predsednik vlade Benazir Buto; Ameriški sekretar za stanovanjska vprašanja in urbani razvoj Shaun Donovan; Kanadski politični vodja Michael Ignatieff; Pakistanska člana pokrajinske skupščine Murtaza Buto in Sanam Buto; Bangladeški minister za finance Abul Maal Abdul Muhith; Predsednik Puntlanda Abdiwelija Mohameda Alija; Veleposlanik ZDA pri Evropski uniji Anthony Luzzatto Gardner.
+
+Beam Outputs:
+1: Kdo je ameriški predsednik vlade Ma Ying-jeou?
+2: Kdo je ameriški predsednik vlade Ma Ying-jaou?
+3: Kdo je ameriški predsednik vlade Ma Ying-jiou?
+4: Kdo je ameriški predsednik vlade?
+5: Kateri predsednik vlade je bil izvoljen za predsednika vlade?
+
+Sampling Outputs:
+1: V kateri državi je bil predsednik vlade María Figueres?
+2: Katero mesto je vodil kitajski predsednik?
+3: Katero leto so bili izvoljeni člani ameriške vlade za stanovanjski vprašanja in urbani razvoj?
+4: Kdo je bil glavni predsednik vlade v Južni Afriki?
+5: Katero vlado je vodil John Hancock?
+Paragraph:
+Pri večini batnih motorjev z izmeničnim gibanjem pare pri vsakem gibu (protitoku) obrnejo svojo smer pretoka in vstopajo v valj in ga izčrpajo z istega vhoda. Celoten cikel motorja ima eno vrtenje ročice in dva batna giba; cikel obsega tudi štiri dogodke – sprejem, širitev, izpušni plini, stiskanje. Te dogodke nadzirajo ventili, ki pogosto delujejo v parnem prsnem košu, ki meji na valj; ventili distribuirajo paro z odpiranjem in zapiranjem vhodov v paro, ki komunicirajo s koncem(-i) valja(-ov) in jih poganja zobnik ventilov, od katerih je veliko vrst.
+
+Beam Outputs:
+1: Kako se imenuje cikel motorja z izmeničnim gibanjem pare?
+2: Kako se imenuje cikel motorja z izmeničnim gibanjem para?
+3: Kako se imenuje cikel motorja z izmeničnim gibanjem?
+4: Koliko dogodkov je v ciklu motorja?
+5: Kako se imenuje cikel motorja?
+
+Sampling Outputs:
+1: Kaj je ena vrsta batnih motorjev z izmeničnim gibanjem para?
+2: V katerem delu motorja lahko ventili delujejo?
+3: Kako se imenuje en batni krog v batih?
+4: Kaj je eden od batnih motorjev s tem, da ne uporabljajo več batnih gibov?
+5: V katerem trenutku so v batu na voljo tri batna giba?
+Paragraph:
+Zlasti se ta norma zmanjša, če se število pomnoži s p, v ostrem nasprotju z običajno absolutno vrednostjo (imenovano tudi neskončno praštevilo). Medtem ko dokončanje Q (približno, zapolnjevanje vrzeli) glede na absolutno vrednost daje polje realnih števil, dokončanje v zvezi s p-adic norm |−μp daje polje p-adic številk. To so v bistvu vsi možni načini za dokončanje Q, ki ga izrek Ostrowski je. Nekatera aritmetična vprašanja, povezana z Q ali bolj splošnimi globalnimi polji, se lahko prenesejo naprej in nazaj na zaključena (ali lokalna) polja. To lokalno-globalno načelo ponovno poudarja pomen praštevil do teorije števil.
+
+Beam Outputs:
+1: Kaj se zgodi, če se število pomnoži s p?
+2: Kaj se lahko zgodi, če se število pomnoži s p?
+3: Kaj se zgodi, če se število pomnoži s p-adic norm?
+4: Kaj se zgodi, če se število pomnoži s p-adic norme?
+5: Kaj se zgodi, ko se število pomnoži s p?
+
+Sampling Outputs:
+1: V čem je treba dodati P-adic norme?
+2: Kakšna je norma, ki jo Ostrowski imenuje?
+3: Kaj je potrebno za dokončanje Q?
+4: Kako se lahko doseže rezultat z realnimi polji, če se število pomnoži s p?
+5: Kaj se zgodi, če število zmanjša ali zmanjša, če število pade s p?
+Paragraph:
+Njene grofije Los Angeles, Orange, San Diego, San Bernardino in Riverside so pet najbolj naseljenih v državi in vse so v prvih 15 najbolj naseljenih okrožjih v Združenih državah Amerike.
+
+Beam Outputs:
+1: Koliko najbolj naseljenih okrožij je v Združenih državah Amerike?
+2: Koliko najbolj naseljenih okrožij je v ZDA?
+3: Katera okrožja so najbolj naseljena v ZDA?
+4: Koliko najbolj naseljenih okrožij v Združenih državah Amerike je v ZDA?
+5: Koliko najbolj naseljenih okrožij v Združenih državah Amerike?
+
+Sampling Outputs:
+1: Kateri je eden od najbolj naseljenih okrožij v Združenih državah Amerike?
+2: Kaj se je zgodilo s tem, da so bili umorjeni v Ameriki?
+3: Koliko najbolj naseljenih okrožij v ZDA je najbolj naseljenih v Združenih državah Amerike?
+4: Koliko najbolj naseljenih okrožij v ZDA ima Kalifornija?
+5: Koliko najbolj naseljenih okrožij je v ZDA?
+Paragraph:
+Amazonski deževni gozd (portugalščina: Floresta amazônica ali Amazônia; Španščina: Selva Amazónica, Amazonía ali običajno Amazonija; Francoščina: Forêt amazonienne; Nizozemščina: Amazoneregenwoud), znan tudi v angleščini kot Amazonia ali Amazon Jungle, je vlažen širokolistni gozd, ki pokriva večino amazonskega bazena Južne Amerike. Ta kotlina obsega 7.000.000 kvadratnih kilometrov, od katerih je 5500.000 kvadratnih kilometrov pokritih z deževnim gozdom. Ta regija vključuje ozemlje, ki pripada devetim narodom. Večina gozda je v Braziliji s 60 % deževnega gozda, sledijo ji Peru s 13 %, Kolumbija z 10 % in manjše količine v Venezueli, Ekvadorju, Boliviji, Gvajani, Surinamu in Francoski Gvajani. Države ali oddelki v štirih narodih vsebujejo „Amazonas“ v svojih imenih. Amazonka predstavlja več kot polovico preostalih deževnih gozdov na planetu in obsega največji in najbolj bioraznovrsten trakt tropskega deževnega gozda na svetu, po ocenah pa je 390 milijard posameznih dreves razdeljenih na 16.000 vrst.
+
+Beam Outputs:
+1: Kolikšen odstotek Amazonskega deževnega gozda je v Braziliji?
+2: Kolikšen odstotek Amazonskega deževnega gozda je na svetu?
+3: Kolikšen odstotek vseh deževnih gozdov je v Braziliji?
+4: Kolikšen odstotek deževnega gozda je v Braziliji?
+5: Kolikšen odstotek vseh deževnih gozdov na svetu je v Braziliji?
+
+Sampling Outputs:
+1: Kolikšen odstotek tropskega deževnega gozda v Braziliji je v tem območju?
+2: Koliko kvadratnih kilometrov je med Amazonijo, ki se nahaja na območju med Brazilijo in Kolumbijo?
+3: Kako se imenujejo države, ki imajo največjo količino deževnega gozda?
+4: Koliko deževnih gozdov je v Braziliji?
+5: Koliko območij na svetu se nahaja v Amazoniji?
+Paragraph:
+Neoklasična ekonomija vidi neenakosti v porazdelitvi dohodka, ki izhajajo iz razlik v dodani vrednosti dela, kapitala in zemlje. Znotraj porazdelitve dohodka dela je posledica razlik v dodani vrednosti zaradi različnih klasifikacij delavcev. S tega vidika so plače in dobički določeni z mejno dodano vrednostjo vsakega gospodarskega akterja (delavca, kapitalista/lastnika podjetja, najemodajalca). Tako je v tržnem gospodarstvu neenakost odraz vrzeli v produktivnosti med visoko plačanimi poklici in manj plačanimi poklici.
+
+Beam Outputs:
+1: Kaj je posledica razlik v dodani vrednosti dela, kapitala in zemlje?
+2: Kaj je posledica razlike v dodani vrednosti dela, kapitala in zemlje?
+3: Kaj je posledica razlik v dodani vrednosti dela in kapitala?
+4: Kaj je posledica razlik v dodani vrednosti dela, kapital in zemlje?
+5: Kaj je posledica razlik v dodani vrednosti?
+
+Sampling Outputs:
+1: Kako je treba plačati davke?
+2: Kako se deli bruto plača?
+3: Kaj je posledica razlik v dodani vrednosti dela?
+4: Kaj je posledica razlike v dodani vrednosti dela, kapitala in zemlje?
+5: Kaj je nasprotje neenakosti v porazdelitvi dohodka?
+Paragraph:
+Čeprav je splošno sprejeto, da ima pravo EU prednost, pa vsi zakoni EU državljanom ne dajejo procesnega upravičenja: to pomeni, da vsi zakoni EU nimajo „neposrednega učinka“. V sodbi Van Gend en Loos proti Nederlandse Administratie der Belastingen je bilo ugotovljeno, da imajo določbe Pogodb (in uredb EU) neposredni učinek, če so (1) jasne in nedvoumne, (2) brezpogojne in (3) od organov Unije ali nacionalnih organov ne zahtevajo, da sprejmejo nadaljnje ukrepe za njihovo izvajanje. Poštna družba van Gend en Loos je trdila, da sedanji člen 30 PDEU nizozemskim carinskim organom preprečuje zaračunavanje tarif, ko je iz Nemčije na Nizozemsko uvažala plastiko iz sečnine in formaldehida. Potem ko je nizozemsko sodišče vložilo predlog za sprejetje predhodne odločbe, je Sodišče razsodilo, da čeprav Pogodbi „izrecno“ ne podeljujeta pravice državljanov ali podjetij, da vložijo zahtevke, lahko to storijo. Zgodovinsko gledano so mednarodne pogodbe državam dovoljevale le pravne zahtevke za njihovo uveljavitev, vendar je Sodišče Evropskih skupnosti razglasilo, da „Skupnost predstavlja nov pravni red mednarodnega prava“. Ker je bilo v členu 30 jasno, brezpogojno in takoj navedeno, da ni mogoče uvesti nobenih količinskih omejitev za trgovino brez dobre utemeljitve, bi lahko družba Van Gend en Loos izterjala denar, ki ga je plačala za ceno. Uredbe EU so v tem smislu enake kot določbe Pogodbe, saj se, kot določa člen 288 PDEU, „neposredno uporabljajo v vseh državah članicah“. Poleg tega za države članice velja dolžnost, da ne ponavljajo uredb v svojem pravu, da bi preprečile zmedo. Sodišče je na primer v zadevi Komisija proti Italiji razsodilo, da je Italija kršila obveznost iz Pogodb, tako ker ni izvajala sheme za plačilo premije kmetom za zakol krav (za zmanjšanje prekomerne proizvodnje mleka) in s tem, da je pravila reproducirala v odloku z različnimi dodatki. „Uredbe“ je Sodišče odločilo, da „veljajo izključno zaradi njihove objave“ in izvajanje bi lahko imelo za posledico „oslabitev njihove hkratne in enotne uporabe v celotni Uniji“. Po drugi strani pa lahko nekatere uredbe same izrecno zahtevajo izvedbene ukrepe, pri čemer je treba ta posebna pravila upoštevati.
+
+Beam Outputs:
+1: Kaj je bilo ugotovljeno, da so vse pogodbe EU enake kot določbe Pogodbe?
+2: Kaj je bilo ugotovljeno, da so vse pogodbe EU enake?
+3: Kaj je bilo ugotovljeno, da so vse pogodbe EU prepovedane?
+4: Kaj je bilo ugotovljeno, da so vse pogodbe EU prepovedale?
+5: Kaj je bilo ugotovljeno, da so vse pogodbe Evropske unije enake?
+
+Sampling Outputs:
+1: V katerem primeru je bila nemška država članica, ki je bila vključena v sporazum?
+2: Kaj je bilo znano, da je večina zakonov EU, ki je kršila pravila?
+3: Kdo je verjel, da je pogodba, ki ni vsebovala nobenih količinskih omejitev, kaj je bilo sprejeto v Pogodbah?
+4: Katera država ni imela obveznosti za plačilo dajatve za prodajo krav?
+5: Kdo je zavrnil uporabo klavzul v skladu z zakonom, ki ureja prosto trgovino?
+Paragraph:
+Tretja vrsta domnev se nanaša na vidike porazdelitve praštevil. Domneva se, da obstaja neskončno veliko dvojčkov, par praštevil z razliko 2 (dvojna domneva). Polignacova domneva je krepitev te domneve, navaja, da je za vsako pozitivno celo število n neskončno veliko parov zaporednih praštevil, ki se razlikujejo za 2n. Domneva se, da obstaja neskončno veliko praštevil oblike n2 +1. Te domneve so posebni primeri Schinzelove hipoteze H. Brocardove domneve, da so med kvadrati zaporednih praštevil vedno vsaj štiri praštevil, večje od 2. Legendrejeva domneva navaja, da je praštevilo med n2 in (n +1)2 za vsako pozitivno celo število n. To izhaja iz močnejšega Cramérjevega sklepa.
+
+Beam Outputs:
+1: Katera domneva se nanaša na vidike porazdelitve praštevil?
+2: Kaj se nanaša na vidike porazdelitve praštevil?
+3: Kaj se nanaša na vidike porazdelitve praštevil, ki se razlikujejo za 1?
+4: Kaj se nanaša na vidike porazdelitve praštevil, ki se razlikujejo?
+5: Kaj se zgodi, ko je ena vrsta domnev?
+
+Sampling Outputs:
+1: Kaj se imenuje tretja vrsta domnev?
+2: Kaj je druga vrsta domnev?
+3: Kaj je drugi primer Schinzelove teorije?
+4: Koliko parov zaporednih praštevil se razlikujeta za vsako pozitivno celo število n?
+5: Kaj je Polignacova domneva povečala v primeru Cramérjeve domneve?
+Paragraph:
+Baran je razvil koncept porazdeljenega prilagodljivega bloka sporočil med svojo raziskavo pri RAND Corporation za US Air Force v preživelih komunikacijskih omrežjih, prvič predstavljen letalskim silam poleti 1961 kot sestanek B-265, kasneje objavljen kot poročilo RAND P-2626 leta 1962, in končno v poročilu RM 3420 leta 1964. V poročilu P-2626 je opisana splošna arhitektura za obsežno, porazdeljeno in uspešno komunikacijsko omrežje. Delo se osredotoča na tri ključne zamisli: uporaba decentraliziranega omrežja z več potmi med katerima koli dvema točkama, delitev uporabniških sporočil v bloke sporočil, kasneje imenovane pakete, in dostava teh sporočil s shranjevanjem in preklapljanjem naprej.
+
+Beam Outputs:
+1: Kdo je razvil koncept porazdeljenega prilagodljivega bloka sporočil?
+2: V katerem letu je bil sestanek RAND P-2626 prvič objavljen?
+3: V katerem letu je bil sestanek RAND P-2626 prvič predstavljen?
+4: V katerem letu je bil sestanek RAND P-2626?
+5: Kdo je razvil koncept porazdeljenega prilagodljivega bloka sporočil v preživelih komunikacijskih omrežjih?
+
+Sampling Outputs:
+1: Kdaj so bili objavljeni podatki o sistemu porazdeljenega prilagodljivega bloka sporočil?
+2: V katerem letu je bila objavljena študija RAND P-2626?
+3: Kaj je Baran razvil za oblikovanje omrežja?
+4: Kateri dogodek je bil prvič predstavljen kot B-2626?
+5: Kaj je Baran razvil med svojo raziskavo pri RIM3420?
+Paragraph:
+Reaktivne kisikove vrste, kot sta superoksidni ion (O−2) in vodikov peroksid (H 2O 2), so nevarni stranski produkti uporabe kisika v organizmih. Deli imunskega sistema višjih organizmov ustvarjajo peroksid, superoksid in singlet kisik, da uničijo invazijo mikrobov. Reaktivne kisikove vrste imajo tudi pomembno vlogo pri preobčutljivem odzivu rastlin proti napadu patogenov. Kisik je strupen za obvezno anaerobne organizme, ki so bili prevladujoča oblika zgodnjega življenja na Zemlji, dokler se O 2 ni začel kopičiti v atmosferi pred približno 2,5 milijarde leti med Velikim kisikom, približno milijardo let po prvem pojavu teh organizmov.
+
+Beam Outputs:
+1: Kaj je glavni stranski produkt uporabe kisika v organizmih?
+2: Kdaj se je O 2 začel kopičiti v atmosferi?
+3: Kaj je glavni stranski produkti uporabe kisika v organizmih?
+4: Kdaj se je O 2 pojavil v atmosferi?
+5: Kaj je glavni stranski produkt uporabe kisika?
+
+Sampling Outputs:
+1: Kdaj je bilo ustanovljeno telo, ki se je začelo kopičiti v atmosferi?
+2: Kaj je strupen za rastline?
+3: Katera vrsta je strupena za organizem, ko se začne kopičiti v atmosferi?
+4: Kdaj so se začele pojavljati reaktivne kisikove vrste?
+5: Kateri organizmi imajo pomemben del svojega imunskega sistema?
+Paragraph:
+Računalniška mreža (CSNET) je bila računalniška mreža, ki jo je financirala ameriška nacionalna znanstvena fundacija (NSF), ki je začela delovati leta 1981. Njegov namen je bil razširiti koristi mreženja za oddelke računalništva v akademskih in raziskovalnih ustanovah, ki jih ni bilo mogoče neposredno povezati z ARPANET zaradi omejitev financiranja ali avtorizacije. Imel je pomembno vlogo pri ozaveščanju o nacionalnem povezovanju in dostopu do njega ter je bil pomemben mejnik na poti k razvoju svetovnega interneta.
+
+Beam Outputs:
+1: Kdaj je bila ustanovljena računalniška mreža?
+2: Kako se imenuje računalniška mreža?
+3: Kaj je bila računalniška mreža?
+4: Kdaj je bila ustanovljena računalniška mreža CDNET?
+5: Kdo je financiral Microsoftovo mrežo?
+
+Sampling Outputs:
+1: Kako je bila ameriška nacionalna znanstvena fundacija?
+2: Kje je bila ustanovljena računalniška mreža?
+3: Kaj so bile nekatere koristi za razvoj svetovnega interneta?
+4: Kaj je bilo znano v zvezi s programiranjem računalniških mrež?
+5: Kaj je bila prva računalniška mreža?
+Paragraph:
+Planetarni geologi so izmerili različne številčnosti kisikovih izotopov v vzorcih iz Zemlje, Lune, Marsa in meteoritov, vendar dolgo niso mogli dobiti referenčnih vrednosti za razmerja izotopov v Soncu, za katera se domneva, da so enaka kot v prvobitni sončni meglici. Analiza silicijeve rezine, izpostavljene sončnemu vetru v vesolju in vrnjene po strmoglavljenem vesoljskem plovilu Genesis, je pokazala, da ima Sonce večji delež kisika-16 kot Zemlja. Merjenje pomeni, da je neznan proces izčrpal kisik-16 iz Sončevega diska protoplanetarnega materiala pred kolekcijo prašnih zrn, ki so tvorile Zemljo.
+
+Beam Outputs:
+1: Kaj je bilo ugotovljeno, da ima Sonce večji delež kisika-16 kot Zemlja?
+2: Kaj je bilo ugotovljeno, da ima Sonce manjši delež kisika-16 kot Zemlja?
+3: Kaj je bilo ugotovljeno, da ima Sonce večji delež kisika-16 kot Sonce?
+4: Kaj je bilo ugotovljeno, da ima Sonce večji delež kisika-16?
+5: Kaj je bilo ugotovljeno, da ima Sonce manjši delež kisika-16?
+
+Sampling Outputs:
+1: Katera vrsta sončne meglice je bila najdena v Zemlji?
+2: Kaj so znanstveniki odkrili v času opazovanja silicijeve rezine v vesolju?
+3: Kaj je bil vzrok za različne številčnosti kisika-16?
+4: Kaj se je izkazalo, da bi se kisik-16 uporabil pri analizi silicijeve rezine?
+5: Kaj je bilo uporabljeno za merjenje kisika-16?
+Paragraph:
+V Evropi se severnoameriško gledališče sedemletne vojne običajno ne imenuje ločeno. Celoten mednarodni konflikt je znan kot sedemletna vojna. „Sedem let“ se nanaša na dogodke v Evropi, od uradne izjave o vojni leta 1756 do podpisa mirovne pogodbe leta 1763. Ti datumi ne ustrezajo bojem na celinski Severni Ameriki, kjer so se spopadi med kolonialnima silama večinoma zaključili v šestih letih, od bitke pri Jumonville Glen leta 1754 do zajetja Montreala leta 1760.
+
+Beam Outputs:
+1: Kdaj se je začela sedemletna vojna?
+2: V katerem letu je bila podpisana mirovna pogodba?
+3: Kdaj se je končala sedemletna vojna?
+4: V katerem letu se je začela sedemletna vojna?
+5: V katerem letu se je končala sedemletna vojna?
+
+Sampling Outputs:
+1: Kaj je izraz za sedemletne vojne?
+2: Kdaj so se spopadi končali v Združenih državah Amerike?
+3: Kako se imenuje južnoameriško gledališče sedemletne vojne?
+4: Kaj je znano kot sedemletni spopad?
+5: Kdaj se je začela sedemletna vojna?
+Paragraph:
+Naslednji štirje časovni razporedi prikazujejo geološko časovno lestvico. Prvi prikazuje ves čas od nastanka Zemlje do sedanjosti, vendar to stisne najnovejši eon. Zato druga lestvica prikazuje najnovejši eon z razširjenim obsegom. Druga lestvica stisne zadnje obdobje, tako da se je najnovejša doba razširila v tretji lestvici. Ker je kvartar zelo kratko obdobje s kratkimi dobami, je še dodatno razširjen v četrti lestvici. Drugi, tretji in četrti časovni okvir so torej vsi pododdelki njihove predhodne časovne razporeditve, kot kažejo zvezdice. Holocen (najnovejša doba) je premajhen, da bi bil jasno prikazan na tretji časovnici na desni, še en razlog za razširitev četrte lestvice. Pleistocen (P) doba. Q pomeni kvartarno obdobje.
+
+Beam Outputs:
+1: Kaj je še en razlog za razširitev četrte lestvice?
+2: Kaj je še en razlog za razširitev tretje lestvice?
+3: Kako se imenuje tretji časovni okvir?
+4: Kako se imenuje četrti časovni okvir?
+5: Kaj je še en razlog za razširitev druge lestvice?
+
+Sampling Outputs:
+1: Kateri časovni okvir predstavlja geološko časovno lestvico?
+2: Kakšna je zadnja številka za tretji časovni okvir?
+3: Kakšna je prva, zadnja in četrta časovna lestvica?
+4: Kako se imenuje prvi časovni okvir, ki prikazuje zadnji cikel?
+5: Kako je drugi časovni okvir podoben prvemu, ko je bil prvi?
+Paragraph:
+Baran je razvil koncept porazdeljenega prilagodljivega bloka sporočil med svojo raziskavo pri RAND Corporation za US Air Force v preživelih komunikacijskih omrežjih, prvič predstavljen letalskim silam poleti 1961 kot sestanek B-265, kasneje objavljen kot poročilo RAND P-2626 leta 1962, in končno v poročilu RM 3420 leta 1964. V poročilu P-2626 je opisana splošna arhitektura za obsežno, porazdeljeno in uspešno komunikacijsko omrežje. Delo se osredotoča na tri ključne zamisli: uporaba decentraliziranega omrežja z več potmi med katerima koli dvema točkama, delitev uporabniških sporočil v bloke sporočil, kasneje imenovane pakete, in dostava teh sporočil s shranjevanjem in preklapljanjem naprej.
+
+Beam Outputs:
+1: Kdo je razvil koncept porazdeljenega prilagodljivega bloka sporočil?
+2: V katerem letu je bil sestanek RAND P-2626 prvič objavljen?
+3: V katerem letu je bil sestanek RAND P-2626 prvič predstavljen?
+4: V katerem letu je bil sestanek RAND P-2626?
+5: Kdo je razvil koncept porazdeljenega prilagodljivega bloka sporočil v preživelih komunikacijskih omrežjih?
+
+Sampling Outputs:
+1: V katerem letu se je zgodil sestanek RAND P-2626?
+2: Kaj je Baran naredil leta 1964?
+3: Kateri dogodek je bil prvič objavljen v P-2646?
+4: Kdaj so se začele težave z porazdeljenim prilagodljivim blokov sporočil?
+5: Kaj je Baran uporabil pri raziskavi RAND P-2626?
+Paragraph:
+Črna smrt naj bi izvirala iz sušnih ravnic Srednje Azije, kjer je nato potovala po svileni cesti in dosegla Krim leta 1343. Od tam so ga najverjetneje nosile orientalske podgane, ki so živele na črnih podganah, ki so bile redne potnike na trgovskih ladjah. Ocenjuje se, da je črna smrt, ki se širi po vsem Sredozemlju in Evropi, ubila od 30 do 60 % celotnega evropskega prebivalstva. Skupno je kuga zmanjšala svetovno prebivalstvo s približno 450 milijonov na 350–375 milijonov v 14. stoletju. Svetovno prebivalstvo kot celota se ni opomoglo do ravni pred kugo do 17. stoletja. Kuga se je v Evropi občasno ponavljala do 19. stoletja.
+
+Beam Outputs:
+1: Koliko ljudi je živelo na črnih podganah?
+2: Koliko ljudi je živelo na črnih podganah, ki so živele na črni smrti?
+3: Koliko ljudi je živelo na črnih podganah v 14. stoletju?
+4: Koliko ljudi je živelo na črnih podganah v 19. stoletju?
+5: Koliko ljudi je živelo na črnih podganah, ki so bile redne potniške ladje?
+
+Sampling Outputs:
+1: Koliko ljudi je umrlo v Sredozemlju po letu 1343?
+2: Kako daleč je bil Krim po poti?
+3: Kdo je živel v bližini?
+4: Koliko prebivalstva je umrlo na jugu v 15. stoletju?
+5: Koliko ljudi se je zgodilo s črnimi podganami v 13. stoletju?
+Paragraph:
+Leta 1846, naravoslovna predavanja Louis Agassiz so bili priznani tako v New Yorku in na kampusu na Harvard College. Agassizov pristop je bil izrazito idealistični in pozicionirani Američani„sodelovanje v božanski naravi“in možnost razumevanja „intelektualnih bivanj“. Agassizova perspektiva znanosti je kombinirala opazovanje z intuicijo in predpostavko, da lahko oseba razume „božanski načrt“ v vseh pojavih. Ko je šlo za razlago življenjskih oblik, se je Agassiz zatekel k stvarem oblike, ki so temeljile na domnevnem arhetipu za njegove dokaze. Ta dvojni pogled na znanje je bil usklajen z naukom Common Sense Realism, ki izhaja iz škotskih filozofov Thomasa Reida in Dugalda Stewarta, katerih dela so bila takrat del Harvardskega učnega načrta. Priljubljenost Agassizovih prizadevanj, da „skoči s Platonom“, verjetno izhaja tudi iz drugih spisov, ki so jim bili izpostavljeni študenti na Harvardu, vključno s Platoničnimi razpravami Ralpha Cudwortha, Johna Norrisanda, v romantični veni Samuela Coleridgea. Knjižnični zapisi na Harvardu razkrivajo, da so bili spisi Platona in njegovih zgodnjih sodobnih in romantičnih privržencev v 19. stoletju skoraj tako redno brani kot zapisi „uradne filozofije“ bolj empirične in bolj deistične škotske šole.
+
+Beam Outputs:
+1: V katerem letu se je Agassiz vrnil na Harvard College?
+2: V katerem letu so bila objavljena predavanja Louisa Agassiza?
+3: V katerem letu so bila objavljena predavanja Louis Agassiza?
+4: V katerem letu so bila objavljena predavanja Louis Agassiz?
+5: V katerem letu so bila objavljena znanstvena predavanja Louis Agassiz?
+
+Sampling Outputs:
+1: Kdaj je bil Agassiz ustanovljen?
+2: Kako je Agassiz videl svoje dokaze?
+3: Kaj je bilo v 18. stoletju znano kot?
+4: Kateri so bili prvi indijski spisi?
+5: Kdo je bil glavni navdih za delo o življenju in življenju?
+Paragraph:
+Za natančno kartiranje biomase Amazonke in posledičnih emisij, povezanih z ogljikom, je ključnega pomena razvrstitev stopenj rasti dreves v različnih delih gozda. Leta 2006 je Tatiana Kuplich organizirala drevesa Amazonke v štiri kategorije: (1) zrel gozd, (2) obnavljanje gozda [manj kot tri leta], (3) obnavljanje gozda [med tremi in petimi leti ponovne rasti] in (4) obnavljanje gozda [od osemnajst let neprekinjenega razvoja]. Raziskovalec je uporabil kombinacijo radarja sintetične odprtine (SAR) in tematskega Mapperja (TM) za natančno umestitev različnih delov Amazonke v eno od štirih klasifikacij.
+
+Beam Outputs:
+1: Koliko let je trajalo, da je bila Amazonka razdeljena v štiri kategorije?
+2: Kateri raziskovalec je uporabil radar sintetične odprtine za merjenje rasti dreves Amazonke?
+3: Kateri raziskovalec je uporabil radar sintetične odprtine?
+4: Kateri raziskovalec je uporabil radar sintetične odprtine za merjenje rasti dreves v različnih delih gozda?
+5: Kateri raziskovalec je uporabil radar sintetične odprtine za merjenje rasti dreves?
+
+Sampling Outputs:
+1: Kaj je bila osnova za natančno določitev stopenj rasti dreves?
+2: Kaj je bilo potrebno za natančen popis drevesa Amazonke?
+3: Kaj je bil glavni cilj testnega Mapperja sintetične odprtine?
+4: Katera skupina je naredila študijo o drevesih Amazonke za natančno karto?
+5: Koliko časa je bil star Amazonkin gozd?
+Paragraph:
+Koncentracija bogastva je teoretični proces, s katerim se pod določenimi pogoji na novo ustvarjeno premoženje koncentrira v posesti že premožnih posameznikov ali entitet. Po tej teoriji imajo tisti, ki že imajo bogastvo, sredstva, da vlagajo v nove vire ustvarjanja bogastva ali kako drugače spodbudijo kopičenje bogastva, zato so upravičenci novega bogastva. Sčasoma lahko kondenzacija bogastva znatno prispeva k vztrajnosti neenakosti v družbi. Thomas Piketty v svoji knjigi Kapital v dvajsetem stoletju trdi, da je temeljna sila razhajanja običajno večji donos kapitala (r) kot gospodarska rast (g) in da večje bogastvo ustvarja višje donose [str. 384 Tabela 12.2, U.S. univerza velikost dotacije v primerjavi z realno letno stopnjo donosa]
+
+Beam Outputs:
+1: Kaj je glavna sila razhajanja?
+2: Kdo je napisal knjigo Kapital v 20. stoletju?
+3: Kdo je napisal knjigo Kapital v dvajsetih letih?
+4: Kaj je glavna sila razhajanja v družbi?
+5: Kdo je napisal knjigo Kapital?
+
+Sampling Outputs:
+1: Kaj je glavna sila razhajanja v kapitalistični ekonomiji?
+2: Kateri vidik delitve bogastva se nanaša na povečanje bogastva?
+3: Kdo trdi, da je stopnja donosa večja, kot je gospodarstvo v dvajsetem stoletju?
+4: Kdo je napisal knjigo Kapital v dvajsetih letih?
+5: V katerem letu je Thomas Piketty napisal knjigo o kapitalizmu?
+Paragraph:
+Pred približno 2,5 milijona let (ki se je končalo pred 11.600 leti) je bilo geološko obdobje ledene dobe. Od približno 600.000 let nazaj je prišlo do šestih večjih ledenih vekov, v katerih se je gladina morja znižala za 120 m, večina kontinentalnih robov pa je postala izpostavljena. V zgodnjem pleistocenu je Ren sledil smeri proti severozahodu skozi sedanje Severno morje. Med tako imenovanim anglijanskim poledenjevanjem (~450.000 yr BP, morski kisik izotop faze 12) je severni del sedanjega Severnega morja blokiral led in razvilo se je veliko jezero, ki je preplavilo Rokavski preliv. To je povzročilo preusmeritev poti Rena skozi Rokavski preliv. Od takrat se je v ledeniških časih rečno ustje nahajalo na morju Brest, Francija in reke, tako kot Temza in Sena, so postale pritoki Rena. V času medledenice, ko se je gladina morja dvignila na približno sedanjo raven, je Ren zgradil delte, kar je zdaj Nizozemska.
+
+Beam Outputs:
+1: Kaj je povzročilo, da se je gladina morja dvignila na približno sedanjo raven?
+2: Kaj je povzročilo, da se je gladina morja znižala na približno sedanjo raven?
+3: Kaj je povzročilo, da se je gladina morja znižala za 120 m?
+4: Kaj je povzročilo, da se je gladina morja znižala?
+5: Kaj je povzročilo, da se je gladina morja zmanjšala za 120 m?
+
+Sampling Outputs:
+1: Kdaj je Ren prečkal obalo?
+2: Kaj so naredili ledeniki, ki so bili na koncu obdobja ledene dobe?
+3: Kako se je začelo obdobje ledenih vek?
+4: Kaj je povzročilo, da je Ren izgubil led?
+5: Kaj je povzročilo preusmeritev poti v Renu?
+Paragraph:
+Rugby je tudi rastoči šport v južni Kaliforniji, zlasti na srednji šoli, saj vse več šol dodaja rugby kot uradni šolski šport.
+
+Beam Outputs:
+1: Kaj je rugby v južni Kaliforniji?
+2: Kje je rugby postal uradni šolski šport?
+3: Kaj je rugby v severni Kaliforniji?
+4: Kaj je rugby postal uradni šolski šport?
+5: Kaj je rugby v Južni Kaliforniji?
+
+Sampling Outputs:
+1: Kaj je najbolj rastoči šport na zahodni univerzi?
+2: Kdo je še vedno največji šolski šport?
+3: Katere šole so se pridružile rugbyju?
+4: Kateri šport v severni Kaliforniji je še naprej pomemben?
+5: V južni Kaliforniji so šole še bolj priljubljene na kateri šoli?
+Paragraph:
+Katoliška cerkev v Franciji in mnogi njeni člani so nasprotovali Huguenotom. Nekateri Huguenotovi pridigarji in kongreganti so bili napadeni, ko so se poskušali srečati za čaščenje. Višina tega preganjanja je bil pokol na dan svetega Bartolomeja, ko je bilo ubitih 5.000 do 30.000 ljudi, čeprav so za to obstajali tudi temeljni politični razlogi, saj so bili nekateri Huguenotovi plemiči, ki so poskušali vzpostaviti ločene centre oblasti v južni Franciji. Proti francoskim katoličanom so imeli Huguenots lastno milico.
+
+Beam Outputs:
+1: Koliko ljudi je bilo ubitih na dan svetega Bartolomeja?
+2: Koliko ljudi je umrlo na dan svetega Bartolomeja?
+3: Koliko ljudi je bilo ubitih na dan svetega Bartolomeja v Franciji?
+4: Koliko ljudi je bilo ubitih na dan svetega Bartolomeja v Parizu?
+5: Koliko ljudi je bilo ubitih?
+
+Sampling Outputs:
+1: Kateri so bili nekateri Huguenovi privrženci in kongreganti?
+2: Kdo je bil prvi Huguenot, ki so ga ustanovili nekateri Huguenoti?
+3: Kdaj so Huguenoti napadli Francijo?
+4: Kateri cerkveni organi so bili napadeni v Franciji?
+5: Koliko ljudi je umrlo v pokolu?
+Paragraph:
+Kisikova kondenza pri 90,20 K (−182,95 °C, −297,31 °F) in zamrzne pri 54,36 K (– 218,79 °C, −361,82 °F). Tako tekoča kot trdna O 2 sta bistre snovi s svetlo nebeško modro barvo, ki jo povzroča absorpcija v rdeči barvi (v nasprotju z modro barvo neba, ki je posledica Rayleigh sipanja modre svetlobe). Tekočina visoke čistosti O 2 se običajno pridobiva s frakcionirno destilacijo utekočinjenega zraka. Tekoči kisik se lahko proizvaja tudi s kondenzacijo iz zraka, pri čemer se kot hladilno sredstvo uporablja tekoči dušik. Je zelo reaktivna snov in jo je treba ločiti od gorljivih materialov.
+
+Beam Outputs:
+1: Kako se imenuje tekočina visoke čistosti O 2?
+2: Kaj se običajno uporablja za kondenzacijo iz zraka?
+3: Kako se imenuje tekočina visoke čistosti O2?
+4: Kako se imenuje tekočina visoke čistosti O 1?
+5: Kaj se uporablja za kondenzacijo iz zraka?
+
+Sampling Outputs:
+1: Katera snov je v obliki kondenza?
+2: Kakšna je snov, ki jo je treba ločiti od gorljivih materialov?
+3: Kaj je posledica Rayleigh sipanja modre svetlobe?
+4: Kakšna je lastnost, ki jo povzroča kondenzacija zraka?
+5: V katerem stanju se začne kondenza?
+Paragraph:
+Kontroverzen vidik imperializma je obramba in utemeljitev gradnje imperija, ki temelji na navidezno racionalnih razlogih. J. A. Hobson to utemeljitev iz splošnih razlogov opredeljuje kot: „Zaželeno je, da bi zemljo poosebljali, upravljali in razvijali, kolikor je le mogoče, rase, ki lahko to najbolje opravijo, tj. rase z najvišjo ‚družbeno učinkovitostjo‘“. Mnogi drugi so trdili, da je imperializem upravičen iz več različnih razlogov. Friedrich Ratzel je verjel, da je za preživetje države potreben imperializem. Halford Mackinder je menil, da mora biti Velika Britanija eden največjih imperialistov in zato upravičen imperializem. Domnevno znanstvena narava „družbenega darvinizma“ in teorija ras sta tvorili domnevno racionalno utemeljitev imperializma. Zdi se, da je retorika kolonizatorjev rasno superiorna, da je dosegla svoj namen, na primer po vsej Latinski Ameriki je „belost“ še danes cenjena in različne oblike blanqueamiento (beljenje) so pogoste.
+
+Beam Outputs:
+1: Kdo je verjel, da je potrebno za preživetje države?
+2: Kdo je verjel, da je imperializem upravičen iz različnih razlogov?
+3: Kdo je verjel, da je imperializem upravičen?
+4: Kdo je verjel, da je imperializem upravičen iz več razlogov?
+5: Kdo je menil, da je potrebno za preživetje države?
+
+Sampling Outputs:
+1: Katera vrsta imperializma je znana kot „družbeni darvinizem“?
+2: Kaj je Habert Mackinder menil, da mora biti država ena najbolj učinkovitih ras, ki lahko to najbolje opravijo?
+3: Kako se imenuje „velika Britanija?“
+4: Zakaj je Friedrich Ratzel verjel, da je potreben imperializem?
+5: Katera teorija ima običajno prednost pred imperializmom?
+Paragraph:
+Zakonodajna pristojnost v Varšavi je podeljena enodomnemu mestnemu svetu Varšave (Rada Miasta), ki ga sestavlja 60 članov. Člani Sveta so izvoljeni neposredno vsaka štiri leta. Tako kot večina zakonodajnih organov se mestni svet deli na odbore, ki imajo nadzor nad različnimi funkcijami mestne vlade. Predlogi zakonov, ki jih sprejme navadna večina, se pošljejo županu (predsedniku Varšave), ki jih lahko podpiše z zakonom. Če župan vloži predlog zakona, ima Svet na voljo 30 dni, da razveljavi veto z dvotretjinsko večino glasov.
+
+Beam Outputs:
+1: V katerem letu je bil ustanovljen enodomni mestni svet?
+2: V katerem letu je bil ustanovljen dvodomni mestni svet?
+3: Koliko članov ima mestni svet?
+4: Koliko članov je na voljo za sprejetje zakona?
+5: Koliko članov je na voljo za glasovanje?
+
+Sampling Outputs:
+1: Kaj se imenuje dvodomni mestni svet?
+2: Koliko članov je izvoljenih, če imajo poslanci v svetu?
+3: Koliko članov je na voljo, da sprejme zakon?
+4: Koliko članov je izvoljen v dvodomnem svetu?
+5: Kdo ima nadzor nad različnimi funkcijami mestne vlade?
+Paragraph:
+Gradnja je proces gradnje stavbe ali infrastrukture. Gradnja se razlikuje od proizvodnje v tem, da proizvodnja običajno vključuje množično proizvodnjo podobnih predmetov brez imenovanega kupca, medtem ko gradnja običajno poteka na lokaciji znane stranke. Gradbeništvo kot industrija obsega od šest do devet odstotkov bruto domačega proizvoda razvitih držav. Gradnja se začne z načrtovanjem, načrtovanjem in financiranjem ter se nadaljuje, dokler projekt ni zgrajen in pripravljen za uporabo.
+
+Beam Outputs:
+1: Koliko bruto domačega proizvoda je razvitih držav?
+2: Kolikšen odstotek bruto domačega proizvoda je razvitih držav?
+3: Kolikšen odstotek bruto domačega proizvoda je v razvitih državah?
+4: Kolikšen odstotek bruto domačega proizvoda razvitih držav je industrija?
+5: Kolikšen odstotek bruto domačega proizvoda razvitih držav ima gradnjo?
+
+Sampling Outputs:
+1: Kolikšen odstotek bruto domačega proizvoda je razviden iz gradbenih dejavnosti?
+2: Kaj je gradnja stavbe, ki običajno vključuje veliko proizvodnjo podobnih predmetov?
+3: Kolikšen odstotek bruto domačega proizvoda razvitih držav vsebuje gradnja?
+4: Kaj se običajno zgodi z gradnjo, ko je projekt zgrajen ali končan?
+5: Kolikšen odstotek bruto domačega proizvoda ima industrija?
+Paragraph:
+John Schmitt in Ben Zipperer (2006) CEPR opozarjata na gospodarski liberalizem in zmanjšanje regulacije poslovanja ter na upad članstva v sindikatu kot enega od vzrokov za gospodarsko neenakost. V analizi učinkov intenzivnih anglo-ameriških liberalnih politik v primerjavi s celinskim evropskim liberalizmom, kjer so sindikati ostali močni, so ugotovili: &quot;Gospodarski in socialni model ZDA je povezan z znatnimi stopnjami socialne izključenosti, vključno z visokimi stopnjami dohodkovne neenakosti, visokimi relativnimi in absolutnimi stopnjami revščine, slabimi in neenakimi rezultati izobraževanja, slabimi zdravstvenimi rezultati ter visokimi stopnjami kriminala in zaporov. Hkrati pa razpoložljivi dokazi zagotavljajo malo podpore za stališče, da prožnost trga dela v ameriškem slogu dramatično izboljša rezultate na trgu dela. Kljub ljudskim nasprotnim predsodkom gospodarstvo ZDA dosledno zagotavlja nižjo stopnjo gospodarske mobilnosti kot vse celinske evropske države, za katere so na voljo podatki.“
+
+Beam Outputs:
+1: Kaj je eden od vzrokov za gospodarsko neenakost?
+2: Kaj je eden od vzrokov za gospodarsko neenakost v ZDA?
+3: Kaj je glavni vzrok za gospodarsko neenakost?
+4: Kaj je eden od razlogov za gospodarsko neenakost?
+5: Kaj je eden od vzrokov za gospodarsko neenakost v Evropi?
+
+Sampling Outputs:
+1: V čem je glavni razlog za gospodarsko neenakost?
+2: Kateri del ZDA je v nasprotju s celinskim evropskim liberalizmom?
+3: Kateri je eden od vzrokov za gospodarsko neenakost?
+4: Kaj je glavni razlog za nezadovoljstvo med sindikatom?
+5: Kakšna je stopnja brezposelnosti, ki je povezana s stopnjo socialne izključenosti?
+Paragraph:
+Maududi je tudi verjel, da muslimanska družba ne more biti islamska brez Šerije, islam pa je zahteval ustanovitev islamske države. Ta država bi morala biti „teodemokracija“, ki temelji na načelih: Tawhid (enotnost Boga), rizala (profetacija) in khilafa (kalifat). Čeprav je Maududi govoril o islamski revoluciji, s „revolucijo“ ni mislil na nasilje ali populistično politiko iranske revolucije, ampak na postopno spreminjanje src in umov posameznikov z vrha družbe navzdol skozi izobraževalni proces ali da’wah.
+
+Beam Outputs:
+1: Kaj je Maududi verjel, da islamska družba ne more biti muslimanska brez Šerije?
+2: Kaj je Maududi verjel, da islamska družba ne more biti?
+3: Kaj je Maududi verjel, da islamska družba ne more biti islamsko brez Šerije?
+4: Kaj je Maududi verjel, da islamska družba ne more biti muslimanska brez šerije?
+5: Kaj je Maududi verjel, da islamska družba ne more biti muslimanska?
+
+Sampling Outputs:
+1: Kako se imenuje univerzalija?
+2: Kako je Maududi rekel, da muslimanska družba ne more biti islamska brez Šerije?
+3: Kakšen sistem je Maududi verjel, da bo islamska država ne more biti islamska brez Šerije?
+4: Kdo je rekel, da islamska družba ne more biti muslimanska brez Šerije?
+5: Kdo je mislil, da islamska država ne more biti muslimanska brez Šerije?
+Paragraph:
+Jacksonville, tako kot večina velikih mest v Združenih državah Amerike, utrpela negativne učinke hitrega širjenja mest po drugi svetovni vojni. Gradnja avtocest je prebivalce pripeljala do selitve v novejša stanovanja v predmestju. Po drugi svetovni vojni je vlada mesta Jacksonville začela zviševati porabo za financiranje novih javnih gradbenih projektov v razcvetu, ki se je zgodil po vojni. Zgodba župana W. Haydona Burnsa Jacksonvillea je privedla do gradnje nove mestne hiše, državljanske avditorije, javne knjižnice in drugih projektov, ki so ustvarili dinamičen občutek državljanskega ponosa. Vendar pa je razvoj predmestij in kasnejši val srednjega razreda „beli polet“ zapustil Jacksonville z veliko revnejšim prebivalstvom kot prej. Najbolj naseljena etnična skupina, neHispanska bela, se je zmanjšala s 75,8 % leta 1970 na 55,1 % do leta 2010.
+
+Beam Outputs:
+1: Kaj se je zgodilo po drugi svetovni vojni?
+2: V katerem letu je bila zgrajena nova mestna hiša, državljanska avditorija in javna knjižnica?
+3: V katerem letu je bila zgrajena nova mestna hiša, državljanske avditorije in javne knjižnice?
+4: V katerem letu je bila zgrajena nova mestna hiša?
+5: Katera etnična skupina je bila najbolj naseljena v ZDA?
+
+Sampling Outputs:
+1: Kdaj je bil Detroit Jacksonville ustanovljen?
+2: Kateri del populacije ni imel veliko revnejšega prebivalstva?
+3: Kdaj je bila zgrajena nova mestna hiša, zasebna avditorija?
+4: Kako se je zmanjšala etnična skupina v Jacksonvilleu?
+5: Kaj je bilo najbolj naseljeno mesto v ZDA?
+Paragraph:
+Harvard University Library System je osredotočen v knjižnici Widener v Harvard Yardu in obsega skoraj 80 posameznih knjižnic, ki imajo več kot 18 milijonov zvezkov. Po podatkih ameriškega združenja knjižnic je to največja akademska knjižnica v Združenih državah Amerike in ena največjih na svetu. Cabot Science Library, Lamont knjižnica, in Widener knjižnica so tri izmed najbolj priljubljenih knjižnic za dodiplomske študente za uporabo, z enostavnim dostopom in osrednjih lokacijah. Obstajajo redke knjige, rokopisi in druge posebne zbirke v vseh Harvardovih knjižnicah; Knjižnica Houghton, Arthur in Elizabeth Schlesinger knjižnica o zgodovini žensk v Ameriki in Harvard University Archives sestavljajo predvsem redki in edinstveni materiali. Najstarejša ameriška zbirka zemljevidov, gazetteerjev in atlasov tako starih kot novih je shranjena v knjižnici Pusey in odprta za javnost. Največja zbirka vzhodnoazijskega jezikovnega gradiva zunaj vzhodne Azije je v knjižnici Harvard-Yenching.
+
+Beam Outputs:
+1: Kaj je največja knjižnica v Harvardu?
+2: Katera knjižnica je največja akademska knjižnica v ZDA?
+3: Katera knjižnica je največja v Združenih državah Amerike?
+4: Katera knjižnica je največja akademska knjižnica na svetu?
+5: Kaj je največja knjižnica v ZDA?
+
+Sampling Outputs:
+1: V katerem mestu je največja univerza v ZDA?
+2: Katera knjižnica je največja knjižnica v Harvardu?
+3: Kaj je ena najbolj priljubljenih knjižnic v ZDA?
+4: Koliko zbirk so v Harvardu?
+5: Kako se imenuje najstarejša univerza v Harvardu?
+Paragraph:
+Druga vrsta odbora je običajno ustanovljena za nadzor nad zasebnimi računi, ki jih škotskemu parlamentu predloži zunanja stranka ali promotor, ki ni član škotskega parlamenta ali škotske vlade. Zasebni računi se običajno nanašajo na velike razvojne projekte, kot so infrastrukturni projekti, ki zahtevajo uporabo zemljišč ali premoženja. Zasebni odbori za Bill so bili ustanovljeni za obravnavo zakonodaje o vprašanjih, kot so razvoj mreže tramvajev v Edinburghu, železniška povezava letališča Glasgow, železniška povezava Airdrie-Bathgate in razširitve Narodne galerije Škotske.
+
+Beam Outputs:
+1: Katera vrsta odbora je običajno ustanovljena za nadzor nad zasebnimi računi?
+2: Katera vrsta odbora je ustanovljena za nadzor nad zasebnimi računi?
+3: Kdo je bil ustanovljen za nadzor nad zasebnimi računi?
+4: Kako se imenuje odbor za Bill?
+5: Kaj se običajno nanaša na velike razvojne projekte?
+
+Sampling Outputs:
+1: V čem so se pojavili posebni načrti?
+2: Kako se imenuje zasebni odbor za Bill?
+3: Kaj je mogoče najti za nadzor nad zasebnimi računi?
+4: Kako se imenuje nadzor nad zasebnimi računi?
+5: Kdaj je bila ustanovljena prva vrsta odbora za Bill?
+Paragraph:
+Starejši od igre za 23 let, Harvard-Yale Regatta je bil prvotni vir atletskega rivalstva med obema šolama. Vsako leto v juniju poteka na reki Temzi v vzhodnem Connecticutu. Harvardska posadka se običajno šteje za eno najboljših ekip v državi v veslanju. Danes je Harvard top ekipe v številnih drugih športih, kot so Harvard Crimson moška hokejska ekipa (z močnim rivalstvom proti Cornell), squash, in celo pred kratkim osvojil NCAA naslove v moških in ženskih sabljah. Harvard je leta 2003 zmagal tudi na državnem prvenstvu Intercollegiate Sailing Association.
+
+Beam Outputs:
+1: V katerem letu je Harvard zmagal na državnem prvenstvu Intercollegiate Sailing?
+2: Kaj je Harvard Crimson osvojil leta 2003?
+3: V katerem letu je Harvard Crimson osvojil NCAA naslove?
+4: V katerem letu je Harvard Crimson osvojil NCAA naslov?
+5: V katerem letu je Harvard osvojil NCAA naslove?
+
+Sampling Outputs:
+1: Kaj je bilo prvo mesto med obema šolama za moške v veslanju?
+2: Kateri športni klub je leta 2003 osvojil NCAA naslove med dvema šolama?
+3: Katero leto je Harvard Crimson zmagal na državnem prvenstvu Intercollegiate Sailing Association?
+4: Katero leto je bil zadnji dan v juniju na reki Temzi?
+5: Kako se imenuje tekma, ki poteka na reki Temzi?
+Paragraph:
+Ti napadi so odmevali s konzervativnimi muslimani in tudi problem ni izginil s Sadamovim porazom, saj so ameriške čete ostale nameščene v kraljestvu in se je razvilo dejansko sodelovanje s palestinsko-izraelskim mirovnim procesom. Saudova Arabija je poskušala nadomestiti izgubo ugleda med temi skupinami z zatiranjem tistih domačih islamistov, ki so jo napadli (glavni primer je bil Bin Laden), in povečanjem pomoči islamskim skupinam (Islamistične medrese po svetu in celo pomoč nekaterim nasilnim islamističnim skupinam), ki jih niso, vendar je bil njen predvojni vpliv v imenu zmernosti močno zmanjšan. Eden od rezultatov tega je bila kampanja napadov na vladne uradnike in turiste v Egiptu, krvava državljanska vojna v Alžiriji in teroristični napadi Osame bin Ladna, ki so dosegli vrhunec v napadu 11. septembra.
+
+Beam Outputs:
+1: Kaj se je zgodilo s Sadamovim porazom?
+2: Kaj je Saudova Arabija poskušala nadomestiti s terorističnimi napadi?
+3: Kaj je Saudova Arabija poskušala nadomestiti z napadi?
+4: Kaj je Saudova Arabija poskušala nadomestiti z napadom?
+5: Kaj je Saudova Arabija poskušala nadomestiti s terorističnimi napadi v Egiptu?
+
+Sampling Outputs:
+1: Kako so se začele državljanske vojne v Tuniziji?
+2: Kaj je povzročilo napad Osame bin Ladna?
+3: Kaj je bilo povezano s terorističnimi napadi v Egiptu?
+4: Kdo je bil glavni nasprotnik Saudamovega poraza?
+5: Katera država je imela moč zatiranje, ko je bilo ubitih več ljudi?
