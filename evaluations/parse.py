@@ -62,6 +62,11 @@ def normalise_counts(dictionary):
 
 from matplotlib import pyplot as plt
 
+count_sampled_doc2query[5] = 0
+count_comb_doc2query[8] = 0
+count_comb_doc2query[9] = 0
+count_comb_doc2query[10] = 0
+
 normalise_counts(count_beam_doc2query)
 plt.bar(count_beam_doc2query.keys(), count_beam_doc2query.values())
 plt.title("Proportion of apropriate questions out of 5 for beam search doc2query")
