@@ -10,4 +10,4 @@
 #SBATCH --partition=gpu
 #SBATCH --mem=80G
 #SBATCH --cpus-per-task=20
-python3 ul-fri-nlp-course-project-linguini/conversiontoseq2seq.py
+python3 ul-fri-nlp-course-project-linguini/finetuning.py
