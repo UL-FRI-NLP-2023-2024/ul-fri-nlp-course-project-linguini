@@ -59,3 +59,4 @@ context = "Normani (Norman: Nourmands; Francoščina: Normandi; Latinščina: No
 input_ids = tokenizer(context, return_tensors="pt").input_ids
 outputs = model.generate(input_ids)
 print("Generated Question:", tokenizer.decode(outputs[0], skip_special_tokens=True))
+conversiontoseq2seq.py
